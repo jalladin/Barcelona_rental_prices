@@ -1,0 +1,2312 @@
+Year;Trimester;District;Neighbourhood;Price (euro/month);Price (euro/m2)
+2014;1;Ciutat Vella;el Raval;589.55;10.76
+2014;1;Ciutat Vella;Gothic Quarter;712.79;10.58
+2014;1;Ciutat Vella;la Barceloneta;540.71;14.4
+2014;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;673.44;11.01
+2014;1;Eixample;Fort Pienc;736.09;10.42
+2014;1;Eixample;Sagrada Familia;673.37;10.55
+2014;1;Eixample;la Dreta de l'Eixample;921.4;9.84
+2014;1;Eixample;l'Antiga Esquerra de l'Eixample;827.87;10.35
+2014;1;Eixample;la Nova Esquerra de l'Eixample;716.13;10.32
+2014;1;Eixample;Sant Antoni;693.43;9.77
+2014;1;Sants-Montjuic;el Poble Sec;568;10.18
+2014;1;Sants-Montjuic;la Marina de Port;553.55;8.34
+2014;1;Sants-Montjuic;la Font de la Guatlla;631.5;10.83
+2014;1;Sants-Montjuic;Hostafrancs;580.71;10.4
+2014;1;Sants-Montjuic;la Bordeta;604.74;9.46
+2014;1;Sants-Montjuic;Sants - Badal;584.27;9.94
+2014;1;Sants-Montjuic;Sants;605.28;9.89
+2014;1;Les Corts;les Corts;777.23;11.39
+2014;1;Les Corts;la Maternitat i Sant Ramon;700.16;10.02
+2014;1;Les Corts;Pedralbes;1230;11.19
+2014;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;837.33;7.9
+2014;1;Sarria-Sant Gervasi;Sarria;1042.16;12.62
+2014;1;Sarria-Sant Gervasi;les Tres Torres;1215.85;13.27
+2014;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;927.63;11.46
+2014;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1053.7;12.08
+2014;1;Sarria-Sant Gervasi;el Putxet i el Farro;750.84;11.06
+2014;1;Gracia;Vallcarca i els Penitents;679.66;10.18
+2014;1;Gracia;el Coll;583.93;9.77
+2014;1;Gracia;la Salut;634.48;10.2
+2014;1;Gracia;la Vila de Gracia;679.8;11.59
+2014;1;Gracia;el Camp d'en Grassot i Gracia Nova;671;10.29
+2014;1;Horta-Guinardo;el Baix Guinardo;622.63;9.63
+2014;1;Horta-Guinardo;Can Baro;568.94;9.97
+2014;1;Horta-Guinardo;el Guinardo;586.5;9.35
+2014;1;Horta-Guinardo;la Font d'en Fargues;585.45;9.26
+2014;1;Horta-Guinardo;el Carmel;478.7;8.41
+2014;1;Horta-Guinardo;la Teixonera;492.79;8.52
+2014;1;Horta-Guinardo;Sant Genis dels Agudells;557;7.72
+2014;1;Horta-Guinardo;Montbau;537.94;9.48
+2014;1;Horta-Guinardo;la Vall d'Hebron;737.73;10.59
+2014;1;Horta-Guinardo;Horta;556.3;8.85
+2014;1;Nou Barris;Vilapicina i la Torre Llobeta;555.89;8.85
+2014;1;Nou Barris;Porta;523.29;8.58
+2014;1;Nou Barris;el Turo de la Peira;475.06;7.59
+2014;1;Nou Barris;Can Peguera;241.99;6.03
+2014;1;Nou Barris;la Guineueta;613.58;8.11
+2014;1;Nou Barris;Canyelles;563.33;7.35
+2014;1;Nou Barris;les Roquetes;461.28;8.53
+2014;1;Nou Barris;Verdun;503.47;9.03
+2014;1;Nou Barris;la Prosperitat;521.81;9.03
+2014;1;Nou Barris;la Trinitat Nova;442.94;8.96
+2014;1;Nou Barris;Ciutat Meridiana;359.27;6.23
+2014;1;Sant Andreu;la Trinitat Vella;461.1;8.28
+2014;1;Sant Andreu;el Bon Pastor;488.14;8.09
+2014;1;Sant Andreu;Sant Andreu;581.16;9.39
+2014;1;Sant Andreu;la Sagrera;626.26;9.28
+2014;1;Sant Andreu;el Congres i els Indians;563.42;9.21
+2014;1;Sant Andreu;Navas;613.47;9.2
+2014;1;Sant Marti;el Camp de l'Arpa del Clot;580.09;9.96
+2014;1;Sant Marti;el Clot;604.85;9.82
+2014;1;Sant Marti;el Parc i la Llacuna del Poblenou;704.67;11.04
+2014;1;Sant Marti;la Vila Olimpica del Poblenou;926.43;12.37
+2014;1;Sant Marti;el Poblenou;663.93;11.38
+2014;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;866.7;10.82
+2014;1;Sant Marti;el Besos i el Maresme;516.9;8.51
+2014;1;Sant Marti;Provencals del Poblenou;635.7;9.54
+2014;1;Sant Marti;Sant Marti de Provencals;643.66;8.73
+2014;1;Sant Marti;la Verneda i la Pau;568.68;8.34
+2014;2;Ciutat Vella;el Raval;550.63;10.52
+2014;2;Ciutat Vella;Gothic Quarter;728.79;10.18
+2014;2;Ciutat Vella;la Barceloneta;541.93;14.53
+2014;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;676.98;11.23
+2014;2;Eixample;Fort Pienc;706.16;10.06
+2014;2;Eixample;Sagrada Familia;663.23;10.59
+2014;2;Eixample;la Dreta de l'Eixample;948.96;10.63
+2014;2;Eixample;l'Antiga Esquerra de l'Eixample;821.81;10.98
+2014;2;Eixample;la Nova Esquerra de l'Eixample;708;10.63
+2014;2;Eixample;Sant Antoni;718.01;10.4
+2014;2;Sants-Montjuic;el Poble Sec;578.65;10.3
+2014;2;Sants-Montjuic;la Marina de Port;454.44;7.27
+2014;2;Sants-Montjuic;la Font de la Guatlla;624.88;10.55
+2014;2;Sants-Montjuic;Hostafrancs;584.91;10.08
+2014;2;Sants-Montjuic;la Bordeta;616.4;9.6
+2014;2;Sants-Montjuic;Sants - Badal;569.68;10.1
+2014;2;Sants-Montjuic;Sants;618.8;10.62
+2014;2;Les Corts;les Corts;765.29;11
+2014;2;Les Corts;la Maternitat i Sant Ramon;748.64;10.44
+2014;2;Les Corts;Pedralbes;1459.12;12.52
+2014;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1051.22;6.25
+2014;2;Sarria-Sant Gervasi;Sarria;1030.35;13.29
+2014;2;Sarria-Sant Gervasi;les Tres Torres;1327.22;14.4
+2014;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;920.62;11.76
+2014;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1006.56;11.56
+2014;2;Sarria-Sant Gervasi;el Putxet i el Farro;761.35;11.32
+2014;2;Gracia;Vallcarca i els Penitents;648.32;10.17
+2014;2;Gracia;el Coll;551.4;9.81
+2014;2;Gracia;la Salut;702.33;9.82
+2014;2;Gracia;la Vila de Gracia;673.79;11.2
+2014;2;Gracia;el Camp d'en Grassot i Gracia Nova;665.44;10.72
+2014;2;Horta-Guinardo;el Baix Guinardo;610.87;9.7
+2014;2;Horta-Guinardo;Can Baro;525.04;8.95
+2014;2;Horta-Guinardo;el Guinardo;564.1;9.12
+2014;2;Horta-Guinardo;la Font d'en Fargues;772.41;9.31
+2014;2;Horta-Guinardo;el Carmel;495.01;9
+2014;2;Horta-Guinardo;la Teixonera;476.94;8.42
+2014;2;Horta-Guinardo;Sant Genis dels Agudells;568.75;7.92
+2014;2;Horta-Guinardo;Montbau;535.88;9.02
+2014;2;Horta-Guinardo;la Vall d'Hebron;675.63;9.78
+2014;2;Horta-Guinardo;Horta;566.67;8.67
+2014;2;Nou Barris;Vilapicina i la Torre Llobeta;573.24;9.19
+2014;2;Nou Barris;Porta;517.06;8.94
+2014;2;Nou Barris;el Turo de la Peira;461.25;7.96
+2014;2;Nou Barris;Can Peguera;295.39;6.57
+2014;2;Nou Barris;la Guineueta;613.14;8.15
+2014;2;Nou Barris;Canyelles;474.29;5.58
+2014;2;Nou Barris;les Roquetes;448.6;8.66
+2014;2;Nou Barris;Verdun;465.56;9.33
+2014;2;Nou Barris;la Prosperitat;501.4;9.08
+2014;2;Nou Barris;la Trinitat Nova;449.31;8.7
+2014;2;Nou Barris;Torre Baro;320.21;9.06
+2014;2;Nou Barris;Ciutat Meridiana;406.17;6.85
+2014;2;Sant Andreu;la Trinitat Vella;407.26;6.23
+2014;2;Sant Andreu;Baro de Viver;231.4;4.03
+2014;2;Sant Andreu;el Bon Pastor;476.31;7.86
+2014;2;Sant Andreu;Sant Andreu;573.12;9.33
+2014;2;Sant Andreu;la Sagrera;622.71;9.76
+2014;2;Sant Andreu;el Congres i els Indians;556.26;9.34
+2014;2;Sant Andreu;Navas;590.17;8.66
+2014;2;Sant Marti;el Camp de l'Arpa del Clot;592.63;9.61
+2014;2;Sant Marti;el Clot;641.11;10.11
+2014;2;Sant Marti;el Parc i la Llacuna del Poblenou;678.23;10.31
+2014;2;Sant Marti;la Vila Olimpica del Poblenou;988.89;14.44
+2014;2;Sant Marti;el Poblenou;644.01;10.36
+2014;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;817.93;10.7
+2014;2;Sant Marti;el Besos i el Maresme;480.69;7.8
+2014;2;Sant Marti;Provencals del Poblenou;643.46;10.01
+2014;2;Sant Marti;Sant Marti de Provencals;641.75;9.41
+2014;2;Sant Marti;la Verneda i la Pau;569.14;8.26
+2014;3;Ciutat Vella;el Raval;576.45;9.84
+2014;3;Ciutat Vella;Gothic Quarter;790.74;10.99
+2014;3;Ciutat Vella;la Barceloneta;578.88;15.54
+2014;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;699.1;11.59
+2014;3;Eixample;Fort Pienc;719.84;9.64
+2014;3;Eixample;Sagrada Familia;697.69;10.4
+2014;3;Eixample;la Dreta de l'Eixample;934.55;9.96
+2014;3;Eixample;l'Antiga Esquerra de l'Eixample;869.72;10.33
+2014;3;Eixample;la Nova Esquerra de l'Eixample;746.78;10.31
+2014;3;Eixample;Sant Antoni;713.89;9.97
+2014;3;Sants-Montjuic;el Poble Sec;580.89;10.08
+2014;3;Sants-Montjuic;la Marina de Port;542.81;7.86
+2014;3;Sants-Montjuic;la Font de la Guatlla;630.89;10.04
+2014;3;Sants-Montjuic;Hostafrancs;605.58;9.93
+2014;3;Sants-Montjuic;la Bordeta;603.16;8.85
+2014;3;Sants-Montjuic;Sants - Badal;629.58;9.98
+2014;3;Sants-Montjuic;Sants;624.78;9.82
+2014;3;Les Corts;les Corts;786.29;10.91
+2014;3;Les Corts;la Maternitat i Sant Ramon;768.46;10.44
+2014;3;Les Corts;Pedralbes;1506.2;12.06
+2014;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;988.66;8.78
+2014;3;Sarria-Sant Gervasi;Sarria;1081.14;14.64
+2014;3;Sarria-Sant Gervasi;les Tres Torres;1386.13;13.38
+2014;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;963.57;11.57
+2014;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1078.84;11.54
+2014;3;Sarria-Sant Gervasi;el Putxet i el Farro;766.33;10.76
+2014;3;Gracia;Vallcarca i els Penitents;642.66;10.08
+2014;3;Gracia;el Coll;537.15;8.85
+2014;3;Gracia;la Salut;684.28;9.49
+2014;3;Gracia;la Vila de Gracia;691.69;11.01
+2014;3;Gracia;el Camp d'en Grassot i Gracia Nova;711.14;10.45
+2014;3;Horta-Guinardo;el Baix Guinardo;613.17;9.26
+2014;3;Horta-Guinardo;Can Baro;536.04;9.18
+2014;3;Horta-Guinardo;el Guinardo;585.39;9.26
+2014;3;Horta-Guinardo;la Font d'en Fargues;703.15;9.58
+2014;3;Horta-Guinardo;el Carmel;498.79;8.47
+2014;3;Horta-Guinardo;la Teixonera;469.77;7.62
+2014;3;Horta-Guinardo;Sant Genis dels Agudells;542.51;7.71
+2014;3;Horta-Guinardo;Montbau;578.5;9.35
+2014;3;Horta-Guinardo;la Vall d'Hebron;715;9.11
+2014;3;Horta-Guinardo;Horta;562.86;8.92
+2014;3;Nou Barris;Vilapicina i la Torre Llobeta;567.26;8.61
+2014;3;Nou Barris;Porta;522.7;8.56
+2014;3;Nou Barris;el Turo de la Peira;459.42;7.44
+2014;3;Nou Barris;Can Peguera;145.45;3.54
+2014;3;Nou Barris;la Guineueta;607.74;8.3
+2014;3;Nou Barris;Canyelles;532.67;6.81
+2014;3;Nou Barris;les Roquetes;444.29;7.73
+2014;3;Nou Barris;Verdun;484.98;8.95
+2014;3;Nou Barris;la Prosperitat;479.48;8.49
+2014;3;Nou Barris;la Trinitat Nova;416.65;8.33
+2014;3;Nou Barris;Ciutat Meridiana;372.44;6.39
+2014;3;Sant Andreu;la Trinitat Vella;419.12;6.29
+2014;3;Sant Andreu;el Bon Pastor;503.93;7.68
+2014;3;Sant Andreu;Sant Andreu;593.22;9.11
+2014;3;Sant Andreu;la Sagrera;570.36;8.34
+2014;3;Sant Andreu;el Congres i els Indians;596.63;9.42
+2014;3;Sant Andreu;Navas;635.11;8.49
+2014;3;Sant Marti;el Camp de l'Arpa del Clot;604.83;9.77
+2014;3;Sant Marti;el Clot;607.62;9.23
+2014;3;Sant Marti;el Parc i la Llacuna del Poblenou;739.94;9.9
+2014;3;Sant Marti;la Vila Olimpica del Poblenou;1121.06;13.56
+2014;3;Sant Marti;el Poblenou;652.23;10.4
+2014;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;896.42;12.49
+2014;3;Sant Marti;el Besos i el Maresme;423.45;6.84
+2014;3;Sant Marti;Provencals del Poblenou;630.29;9.1
+2014;3;Sant Marti;Sant Marti de Provencals;614.55;8.5
+2014;3;Sant Marti;la Verneda i la Pau;569.84;8.52
+2014;4;Ciutat Vella;el Raval;597;10.81
+2014;4;Ciutat Vella;Gothic Quarter;761.68;10.41
+2014;4;Ciutat Vella;la Barceloneta;593.73;16.14
+2014;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;687.33;11.09
+2014;4;Eixample;Fort Pienc;735.99;9.81
+2014;4;Eixample;Sagrada Familia;687.26;10.32
+2014;4;Eixample;la Dreta de l'Eixample;975.96;9.87
+2014;4;Eixample;l'Antiga Esquerra de l'Eixample;848.56;10.36
+2014;4;Eixample;la Nova Esquerra de l'Eixample;753.61;10.46
+2014;4;Eixample;Sant Antoni;720.14;9.94
+2014;4;Sants-Montjuic;el Poble Sec;602.55;10.2
+2014;4;Sants-Montjuic;la Marina de Port;574.45;8.66
+2014;4;Sants-Montjuic;la Font de la Guatlla;679.58;11.02
+2014;4;Sants-Montjuic;Hostafrancs;603.86;10.63
+2014;4;Sants-Montjuic;la Bordeta;621.68;9.37
+2014;4;Sants-Montjuic;Sants - Badal;602.28;9.77
+2014;4;Sants-Montjuic;Sants;647.14;10.06
+2014;4;Les Corts;les Corts;802.23;11.01
+2014;4;Les Corts;la Maternitat i Sant Ramon;806.43;10.54
+2014;4;Les Corts;Pedralbes;1762.06;13.99
+2014;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1754.44;15.88
+2014;4;Sarria-Sant Gervasi;Sarria;1004.37;13.52
+2014;4;Sarria-Sant Gervasi;les Tres Torres;1352.08;13.18
+2014;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;948.26;11.44
+2014;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1047.5;11.62
+2014;4;Sarria-Sant Gervasi;el Putxet i el Farro;761.7;10.94
+2014;4;Gracia;Vallcarca i els Penitents;691.94;10.55
+2014;4;Gracia;el Coll;552.75;9.61
+2014;4;Gracia;la Salut;655.87;10.21
+2014;4;Gracia;la Vila de Gracia;681.25;11.2
+2014;4;Gracia;el Camp d'en Grassot i Gracia Nova;681.26;10.07
+2014;4;Horta-Guinardo;el Baix Guinardo;638.55;9.63
+2014;4;Horta-Guinardo;Can Baro;545.11;9.62
+2014;4;Horta-Guinardo;el Guinardo;590.31;9.01
+2014;4;Horta-Guinardo;la Font d'en Fargues;784.44;8.82
+2014;4;Horta-Guinardo;el Carmel;506.26;8.66
+2014;4;Horta-Guinardo;la Teixonera;506.77;8.85
+2014;4;Horta-Guinardo;Sant Genis dels Agudells;550.45;7.69
+2014;4;Horta-Guinardo;Montbau;544.47;9.26
+2014;4;Horta-Guinardo;la Vall d'Hebron;672.22;10.67
+2014;4;Horta-Guinardo;Horta;585.58;9.3
+2014;4;Nou Barris;Vilapicina i la Torre Llobeta;579.11;8.59
+2014;4;Nou Barris;Porta;552.56;8.49
+2014;4;Nou Barris;el Turo de la Peira;501.06;8.19
+2014;4;Nou Barris;la Guineueta;620.83;8.3
+2014;4;Nou Barris;Canyelles;566.36;7.7
+2014;4;Nou Barris;les Roquetes;450.4;8.46
+2014;4;Nou Barris;Verdun;502.41;9.51
+2014;4;Nou Barris;la Prosperitat;515.99;8.97
+2014;4;Nou Barris;la Trinitat Nova;420.98;8.03
+2014;4;Nou Barris;Ciutat Meridiana;360.94;6.17
+2014;4;Sant Andreu;la Trinitat Vella;400.76;7.13
+2014;4;Sant Andreu;el Bon Pastor;514.58;8.55
+2014;4;Sant Andreu;Sant Andreu;557.1;8.94
+2014;4;Sant Andreu;la Sagrera;616.27;8.98
+2014;4;Sant Andreu;el Congres i els Indians;607.77;9.03
+2014;4;Sant Andreu;Navas;647.84;9.24
+2014;4;Sant Marti;el Camp de l'Arpa del Clot;615.61;9.62
+2014;4;Sant Marti;el Clot;643.75;9.47
+2014;4;Sant Marti;el Parc i la Llacuna del Poblenou;634.12;9.66
+2014;4;Sant Marti;la Vila Olimpica del Poblenou;991.06;12.25
+2014;4;Sant Marti;el Poblenou;658.01;10.19
+2014;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1130.29;11.49
+2014;4;Sant Marti;el Besos i el Maresme;504.19;8.09
+2014;4;Sant Marti;Provencals del Poblenou;649.21;10.03
+2014;4;Sant Marti;Sant Marti de Provencals;636.3;8.86
+2014;4;Sant Marti;la Verneda i la Pau;552.58;8.14
+2015;1;Ciutat Vella;el Raval;601.31;10.6
+2015;1;Ciutat Vella;Gothic Quarter;756.68;10.45
+2015;1;Ciutat Vella;la Barceloneta;581.34;15.67
+2015;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;697.16;11.51
+2015;1;Eixample;Fort Pienc;753.76;10.17
+2015;1;Eixample;Sagrada Familia;679.03;10.21
+2015;1;Eixample;la Dreta de l'Eixample;957.55;10.5
+2015;1;Eixample;l'Antiga Esquerra de l'Eixample;859.64;10.58
+2015;1;Eixample;la Nova Esquerra de l'Eixample;766.18;10.51
+2015;1;Eixample;Sant Antoni;740.41;10.21
+2015;1;Sants-Montjuic;el Poble Sec;578.76;10.27
+2015;1;Sants-Montjuic;la Marina de Port;492.49;6.91
+2015;1;Sants-Montjuic;la Font de la Guatlla;728.25;11.2
+2015;1;Sants-Montjuic;Hostafrancs;614.15;10.69
+2015;1;Sants-Montjuic;la Bordeta;621.71;8.73
+2015;1;Sants-Montjuic;Sants - Badal;606.48;9.92
+2015;1;Sants-Montjuic;Sants;616.05;10.3
+2015;1;Les Corts;les Corts;822.36;10.58
+2015;1;Les Corts;la Maternitat i Sant Ramon;727.99;10.56
+2015;1;Les Corts;Pedralbes;1250.83;11.37
+2015;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1335.71;16.93
+2015;1;Sarria-Sant Gervasi;Sarria;917.13;12.26
+2015;1;Sarria-Sant Gervasi;les Tres Torres;1335.63;12.8
+2015;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;954;11.08
+2015;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1088.66;11.38
+2015;1;Sarria-Sant Gervasi;el Putxet i el Farro;758.44;11.4
+2015;1;Gracia;Vallcarca i els Penitents;777.25;10.62
+2015;1;Gracia;el Coll;576.44;9.36
+2015;1;Gracia;la Salut;673.2;10.25
+2015;1;Gracia;la Vila de Gracia;707.17;11.45
+2015;1;Gracia;el Camp d'en Grassot i Gracia Nova;701.69;10.62
+2015;1;Horta-Guinardo;el Baix Guinardo;653.16;10.34
+2015;1;Horta-Guinardo;Can Baro;521.06;8.66
+2015;1;Horta-Guinardo;el Guinardo;601.06;10.08
+2015;1;Horta-Guinardo;la Font d'en Fargues;733.81;9.75
+2015;1;Horta-Guinardo;el Carmel;485.74;8.6
+2015;1;Horta-Guinardo;la Teixonera;505.02;8.66
+2015;1;Horta-Guinardo;Sant Genis dels Agudells;543.33;7.64
+2015;1;Horta-Guinardo;Montbau;608.87;8.93
+2015;1;Horta-Guinardo;la Vall d'Hebron;740;9.93
+2015;1;Horta-Guinardo;Horta;585.54;8.87
+2015;1;Nou Barris;Vilapicina i la Torre Llobeta;561.58;8.98
+2015;1;Nou Barris;Porta;545.86;8.28
+2015;1;Nou Barris;el Turo de la Peira;455.96;7.21
+2015;1;Nou Barris;la Guineueta;626.23;8.3
+2015;1;Nou Barris;les Roquetes;461.89;8.26
+2015;1;Nou Barris;Verdun;469.83;8.8
+2015;1;Nou Barris;la Prosperitat;515.49;9.05
+2015;1;Nou Barris;la Trinitat Nova;433.81;8.13
+2015;1;Nou Barris;Ciutat Meridiana;401.17;6.58
+2015;1;Sant Andreu;la Trinitat Vella;383.62;6.89
+2015;1;Sant Andreu;Baro de Viver;303.8;5.08
+2015;1;Sant Andreu;el Bon Pastor;504.27;8.33
+2015;1;Sant Andreu;Sant Andreu;585.98;9.28
+2015;1;Sant Andreu;la Sagrera;619.16;8.85
+2015;1;Sant Andreu;el Congres i els Indians;595.43;8.97
+2015;1;Sant Andreu;Navas;665.89;9.19
+2015;1;Sant Marti;el Camp de l'Arpa del Clot;615.46;9.64
+2015;1;Sant Marti;el Clot;618.57;9.36
+2015;1;Sant Marti;el Parc i la Llacuna del Poblenou;722.23;9.82
+2015;1;Sant Marti;la Vila Olimpica del Poblenou;1093.14;12.93
+2015;1;Sant Marti;el Poblenou;682.84;10.62
+2015;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;914.75;11.63
+2015;1;Sant Marti;el Besos i el Maresme;512.89;8.38
+2015;1;Sant Marti;Provencals del Poblenou;612.11;9.07
+2015;1;Sant Marti;Sant Marti de Provencals;662.25;9.32
+2015;1;Sant Marti;la Verneda i la Pau;609.22;8.61
+2015;2;Ciutat Vella;el Raval;598.91;10.92
+2015;2;Ciutat Vella;Gothic Quarter;771.13;11.07
+2015;2;Ciutat Vella;la Barceloneta;598.16;16
+2015;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;708.03;12.02
+2015;2;Eixample;Fort Pienc;770.13;11.04
+2015;2;Eixample;Sagrada Familia;704.44;11.15
+2015;2;Eixample;la Dreta de l'Eixample;988.89;10.66
+2015;2;Eixample;l'Antiga Esquerra de l'Eixample;906.14;11.14
+2015;2;Eixample;la Nova Esquerra de l'Eixample;766.85;11.2
+2015;2;Eixample;Sant Antoni;746;10.91
+2015;2;Sants-Montjuic;el Poble Sec;598.47;11.36
+2015;2;Sants-Montjuic;la Marina del Prat Vermell;381.07;6.5
+2015;2;Sants-Montjuic;la Marina de Port;536.18;8.23
+2015;2;Sants-Montjuic;la Font de la Guatlla;687.33;10.63
+2015;2;Sants-Montjuic;Hostafrancs;601.6;10.91
+2015;2;Sants-Montjuic;la Bordeta;607.68;9.51
+2015;2;Sants-Montjuic;Sants - Badal;606.78;10.85
+2015;2;Sants-Montjuic;Sants;627.86;11.1
+2015;2;Les Corts;les Corts;817.24;11.91
+2015;2;Les Corts;la Maternitat i Sant Ramon;679.54;10.76
+2015;2;Les Corts;Pedralbes;1711.45;12.73
+2015;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;824.38;9.11
+2015;2;Sarria-Sant Gervasi;Sarria;1101.15;14.38
+2015;2;Sarria-Sant Gervasi;les Tres Torres;1337.79;13.44
+2015;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1056.07;12.6
+2015;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1095.7;12.55
+2015;2;Sarria-Sant Gervasi;el Putxet i el Farro;790.21;12.84
+2015;2;Gracia;Vallcarca i els Penitents;712.75;11.28
+2015;2;Gracia;el Coll;539.58;9.7
+2015;2;Gracia;la Salut;637.81;11.56
+2015;2;Gracia;la Vila de Gracia;726.61;12.47
+2015;2;Gracia;el Camp d'en Grassot i Gracia Nova;712.64;10.91
+2015;2;Horta-Guinardo;el Baix Guinardo;631.05;10.18
+2015;2;Horta-Guinardo;Can Baro;539.56;9.94
+2015;2;Horta-Guinardo;el Guinardo;596.15;10.19
+2015;2;Horta-Guinardo;la Font d'en Fargues;749.23;10.31
+2015;2;Horta-Guinardo;el Carmel;504.61;9.19
+2015;2;Horta-Guinardo;la Teixonera;547.25;11.15
+2015;2;Horta-Guinardo;Sant Genis dels Agudells;558.49;8.14
+2015;2;Horta-Guinardo;Montbau;621.76;9.73
+2015;2;Horta-Guinardo;la Vall d'Hebron;701.43;9.89
+2015;2;Horta-Guinardo;Horta;568.31;9.6
+2015;2;Nou Barris;Vilapicina i la Torre Llobeta;583.05;9.07
+2015;2;Nou Barris;Porta;556.5;9.01
+2015;2;Nou Barris;el Turo de la Peira;485.4;8.16
+2015;2;Nou Barris;la Guineueta;562.45;8.1
+2015;2;Nou Barris;Canyelles;575.83;7.23
+2015;2;Nou Barris;les Roquetes;466.89;8.83
+2015;2;Nou Barris;Verdun;419.79;7.78
+2015;2;Nou Barris;la Prosperitat;531.27;9.85
+2015;2;Nou Barris;la Trinitat Nova;456.71;9.33
+2015;2;Nou Barris;Torre Baro;420.63;7.31
+2015;2;Nou Barris;Ciutat Meridiana;399.19;6.71
+2015;2;Nou Barris;Vallbona;450;5.86
+2015;2;Sant Andreu;la Trinitat Vella;464.95;8.43
+2015;2;Sant Andreu;Baro de Viver;362.94;5.58
+2015;2;Sant Andreu;el Bon Pastor;526.12;8.68
+2015;2;Sant Andreu;Sant Andreu;609.55;10.1
+2015;2;Sant Andreu;la Sagrera;608.62;9.59
+2015;2;Sant Andreu;el Congres i els Indians;594.29;9.65
+2015;2;Sant Andreu;Navas;650.76;9.57
+2015;2;Sant Marti;el Camp de l'Arpa del Clot;624.24;10.6
+2015;2;Sant Marti;el Clot;636.97;10.53
+2015;2;Sant Marti;el Parc i la Llacuna del Poblenou;755.44;12.01
+2015;2;Sant Marti;la Vila Olimpica del Poblenou;1116.3;14.82
+2015;2;Sant Marti;el Poblenou;711.46;11.85
+2015;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;981.86;11.14
+2015;2;Sant Marti;el Besos i el Maresme;505.97;8.38
+2015;2;Sant Marti;Provencals del Poblenou;670.38;10.02
+2015;2;Sant Marti;Sant Marti de Provencals;697.32;9.56
+2015;2;Sant Marti;la Verneda i la Pau;595.42;9.44
+2015;3;Ciutat Vella;el Raval;654;11
+2015;3;Ciutat Vella;Gothic Quarter;773;12
+2015;3;Ciutat Vella;la Barceloneta;630;17
+2015;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;729;14
+2015;3;Eixample;Fort Pienc;753;11
+2015;3;Eixample;Sagrada Familia;739;12
+2015;3;Eixample;la Dreta de l'Eixample;1052;12
+2015;3;Eixample;l'Antiga Esquerra de l'Eixample;926;12
+2015;3;Eixample;la Nova Esquerra de l'Eixample;807;11
+2015;3;Eixample;Sant Antoni;798;11
+2015;3;Sants-Montjuic;el Poble Sec;631;11
+2015;3;Sants-Montjuic;la Marina de Port;565;9
+2015;3;Sants-Montjuic;la Font de la Guatlla;735;12
+2015;3;Sants-Montjuic;Hostafrancs;632;11
+2015;3;Sants-Montjuic;la Bordeta;661;11
+2015;3;Sants-Montjuic;Sants - Badal;652;11
+2015;3;Sants-Montjuic;Sants;701;11
+2015;3;Les Corts;les Corts;860;12
+2015;3;Les Corts;la Maternitat i Sant Ramon;814;12
+2015;3;Les Corts;Pedralbes;2034;17
+2015;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1119;13
+2015;3;Sarria-Sant Gervasi;Sarria;1156;15
+2015;3;Sarria-Sant Gervasi;les Tres Torres;1462;15
+2015;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1073;13
+2015;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1262;13
+2015;3;Sarria-Sant Gervasi;el Putxet i el Farro;840;13
+2015;3;Gracia;Vallcarca i els Penitents;713;12
+2015;3;Gracia;el Coll;576;10
+2015;3;Gracia;la Salut;743;11
+2015;3;Gracia;la Vila de Gracia;742;13
+2015;3;Gracia;el Camp d'en Grassot i Gracia Nova;752;11
+2015;3;Horta-Guinardo;el Baix Guinardo;636;10
+2015;3;Horta-Guinardo;Can Baro;586;10
+2015;3;Horta-Guinardo;el Guinardo;620;10
+2015;3;Horta-Guinardo;la Font d'en Fargues;611;9
+2015;3;Horta-Guinardo;el Carmel;528;9
+2015;3;Horta-Guinardo;la Teixonera;498;9
+2015;3;Horta-Guinardo;Sant Genis dels Agudells;554;8
+2015;3;Horta-Guinardo;Montbau;626;12
+2015;3;Horta-Guinardo;la Vall d'Hebron;655;11
+2015;3;Horta-Guinardo;la Clota;368;8
+2015;3;Horta-Guinardo;Horta;572;10
+2015;3;Nou Barris;Vilapicina i la Torre Llobeta;581;10
+2015;3;Nou Barris;Porta;542;9
+2015;3;Nou Barris;el Turo de la Peira;509;9
+2015;3;Nou Barris;la Guineueta;555;8
+2015;3;Nou Barris;Canyelles;558;7
+2015;3;Nou Barris;les Roquetes;476;9
+2015;3;Nou Barris;Verdun;506;10
+2015;3;Nou Barris;la Prosperitat;544;10
+2015;3;Nou Barris;la Trinitat Nova;466;9
+2015;3;Nou Barris;Ciutat Meridiana;381;6
+2015;3;Sant Andreu;la Trinitat Vella;449;9
+2015;3;Sant Andreu;Baro de Viver;187;4
+2015;3;Sant Andreu;el Bon Pastor;577;9
+2015;3;Sant Andreu;Sant Andreu;631;11
+2015;3;Sant Andreu;la Sagrera;637;10
+2015;3;Sant Andreu;el Congres i els Indians;636;10
+2015;3;Sant Andreu;Navas;685;10
+2015;3;Sant Marti;el Camp de l'Arpa del Clot;669;11
+2015;3;Sant Marti;el Clot;673;11
+2015;3;Sant Marti;el Parc i la Llacuna del Poblenou;774;12
+2015;3;Sant Marti;la Vila Olimpica del Poblenou;1173;16
+2015;3;Sant Marti;el Poblenou;764;12
+2015;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1023;12
+2015;3;Sant Marti;el Besos i el Maresme;516;8
+2015;3;Sant Marti;Provencals del Poblenou;679;10
+2015;3;Sant Marti;Sant Marti de Provencals;672;9
+2015;3;Sant Marti;la Verneda i la Pau;633;9
+2015;4;Ciutat Vella;el Raval;644.73;11.47
+2015;4;Ciutat Vella;Gothic Quarter;831.13;11.64
+2015;4;Ciutat Vella;la Barceloneta;601.38;16.66
+2015;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;751.6;13.43
+2015;4;Eixample;Fort Pienc;792.53;11.36
+2015;4;Eixample;Sagrada Familia;726.93;11.45
+2015;4;Eixample;la Dreta de l'Eixample;1035.07;11.74
+2015;4;Eixample;l'Antiga Esquerra de l'Eixample;941.58;11.8
+2015;4;Eixample;la Nova Esquerra de l'Eixample;789.76;11.81
+2015;4;Eixample;Sant Antoni;772.11;11.19
+2015;4;Sants-Montjuic;el Poble Sec;638.47;11.68
+2015;4;Sants-Montjuic;la Marina del Prat Vermell;411.36;6.96
+2015;4;Sants-Montjuic;la Marina de Port;566.01;8.78
+2015;4;Sants-Montjuic;la Font de la Guatlla;648.84;11.5
+2015;4;Sants-Montjuic;Hostafrancs;640.9;11.48
+2015;4;Sants-Montjuic;la Bordeta;657.94;10.32
+2015;4;Sants-Montjuic;Sants - Badal;635.26;10.99
+2015;4;Sants-Montjuic;Sants;658.42;11.25
+2015;4;Les Corts;les Corts;909.27;12.38
+2015;4;Les Corts;la Maternitat i Sant Ramon;764.77;11.88
+2015;4;Les Corts;Pedralbes;1860.3;15.65
+2015;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;841.1;9.75
+2015;4;Sarria-Sant Gervasi;Sarria;1227.35;15.98
+2015;4;Sarria-Sant Gervasi;les Tres Torres;1385.99;14.26
+2015;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1076.8;13.94
+2015;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1153.93;13.45
+2015;4;Sarria-Sant Gervasi;el Putxet i el Farro;808.38;12.5
+2015;4;Gracia;Vallcarca i els Penitents;745.31;12.08
+2015;4;Gracia;el Coll;542.71;10.09
+2015;4;Gracia;la Salut;751.72;12.44
+2015;4;Gracia;la Vila de Gracia;749.24;12.64
+2015;4;Gracia;el Camp d'en Grassot i Gracia Nova;735.76;12.22
+2015;4;Horta-Guinardo;el Baix Guinardo;649.09;11.14
+2015;4;Horta-Guinardo;Can Baro;550.49;10.73
+2015;4;Horta-Guinardo;el Guinardo;630.99;10.78
+2015;4;Horta-Guinardo;la Font d'en Fargues;775.29;14.81
+2015;4;Horta-Guinardo;el Carmel;528.77;9.31
+2015;4;Horta-Guinardo;la Teixonera;527.53;9.44
+2015;4;Horta-Guinardo;Sant Genis dels Agudells;545.82;8.79
+2015;4;Horta-Guinardo;Montbau;654.09;10.11
+2015;4;Horta-Guinardo;la Vall d'Hebron;689.78;9.99
+2015;4;Horta-Guinardo;Horta;594.19;9.82
+2015;4;Nou Barris;Vilapicina i la Torre Llobeta;615.06;9.63
+2015;4;Nou Barris;Porta;577.52;9.92
+2015;4;Nou Barris;el Turo de la Peira;555.18;9.24
+2015;4;Nou Barris;la Guineueta;538.1;8.16
+2015;4;Nou Barris;Canyelles;598.04;7.84
+2015;4;Nou Barris;les Roquetes;448.63;8.87
+2015;4;Nou Barris;Verdun;503.35;10.07
+2015;4;Nou Barris;la Prosperitat;528.7;9.53
+2015;4;Nou Barris;la Trinitat Nova;438.91;8.75
+2015;4;Nou Barris;Torre Baro;366.67;5.19
+2015;4;Nou Barris;Ciutat Meridiana;400.29;6.66
+2015;4;Sant Andreu;la Trinitat Vella;455.88;7.99
+2015;4;Sant Andreu;el Bon Pastor;539.29;9.3
+2015;4;Sant Andreu;Sant Andreu;622.94;10
+2015;4;Sant Andreu;la Sagrera;682.44;10.58
+2015;4;Sant Andreu;el Congres i els Indians;618.87;9.23
+2015;4;Sant Andreu;Navas;688.36;10.27
+2015;4;Sant Marti;el Camp de l'Arpa del Clot;660.72;11.18
+2015;4;Sant Marti;el Clot;672.11;10.59
+2015;4;Sant Marti;el Parc i la Llacuna del Poblenou;737.31;12.21
+2015;4;Sant Marti;la Vila Olimpica del Poblenou;1015.1;13.13
+2015;4;Sant Marti;el Poblenou;773.52;12.48
+2015;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1211.01;14.9
+2015;4;Sant Marti;el Besos i el Maresme;492.1;8.31
+2015;4;Sant Marti;Provencals del Poblenou;685.35;10.89
+2015;4;Sant Marti;Sant Marti de Provencals;666.84;9.46
+2015;4;Sant Marti;la Verneda i la Pau;602.19;8.91
+2016;1;Ciutat Vella;el Raval;624.42;11.65
+2016;1;Ciutat Vella;Gothic Quarter;893.42;13.47
+2016;1;Ciutat Vella;la Barceloneta;638.75;17.3
+2016;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;759.16;12.94
+2016;1;Eixample;Fort Pienc;800.08;11.19
+2016;1;Eixample;Sagrada Familia;752.37;12.07
+2016;1;Eixample;la Dreta de l'Eixample;1104.26;12.33
+2016;1;Eixample;l'Antiga Esquerra de l'Eixample;947.3;11.91
+2016;1;Eixample;la Nova Esquerra de l'Eixample;811.62;11.51
+2016;1;Eixample;Sant Antoni;805.89;11.64
+2016;1;Sants-Montjuic;el Poble Sec;622.24;11.62
+2016;1;Sants-Montjuic;la Marina del Prat Vermell;360.88;6.96
+2016;1;Sants-Montjuic;la Marina de Port;447.57;7.24
+2016;1;Sants-Montjuic;la Font de la Guatlla;638.73;11.23
+2016;1;Sants-Montjuic;Hostafrancs;662.28;11.76
+2016;1;Sants-Montjuic;la Bordeta;645.15;10.56
+2016;1;Sants-Montjuic;Sants - Badal;629.69;11.07
+2016;1;Sants-Montjuic;Sants;664.66;11.05
+2016;1;Les Corts;les Corts;892.7;12.63
+2016;1;Les Corts;la Maternitat i Sant Ramon;777.86;12.31
+2016;1;Les Corts;Pedralbes;1572.56;15.06
+2016;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;933.95;11.24
+2016;1;Sarria-Sant Gervasi;Sarria;1195.68;15.59
+2016;1;Sarria-Sant Gervasi;les Tres Torres;1380.68;15.22
+2016;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1116.51;14.04
+2016;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1187.57;13.33
+2016;1;Sarria-Sant Gervasi;el Putxet i el Farro;827.82;13.1
+2016;1;Gracia;Vallcarca i els Penitents;741.42;12.18
+2016;1;Gracia;el Coll;590.53;10.68
+2016;1;Gracia;la Salut;684.47;10.87
+2016;1;Gracia;la Vila de Gracia;764.02;12.71
+2016;1;Gracia;el Camp d'en Grassot i Gracia Nova;802.69;11.85
+2016;1;Horta-Guinardo;el Baix Guinardo;696.69;11.26
+2016;1;Horta-Guinardo;Can Baro;595.92;11.51
+2016;1;Horta-Guinardo;el Guinardo;646.76;10.84
+2016;1;Horta-Guinardo;la Font d'en Fargues;749.81;15.2
+2016;1;Horta-Guinardo;el Carmel;518.24;9.24
+2016;1;Horta-Guinardo;la Teixonera;513.53;9.02
+2016;1;Horta-Guinardo;Sant Genis dels Agudells;616.36;8.42
+2016;1;Horta-Guinardo;Montbau;614.79;9.21
+2016;1;Horta-Guinardo;la Vall d'Hebron;692.35;11.03
+2016;1;Horta-Guinardo;Horta;601.35;9.84
+2016;1;Nou Barris;Vilapicina i la Torre Llobeta;618.55;10.28
+2016;1;Nou Barris;Porta;536.66;9.16
+2016;1;Nou Barris;el Turo de la Peira;537.93;8.91
+2016;1;Nou Barris;la Guineueta;589.2;8.55
+2016;1;Nou Barris;Canyelles;619.85;8.03
+2016;1;Nou Barris;les Roquetes;455.65;8.39
+2016;1;Nou Barris;Verdun;539.59;10
+2016;1;Nou Barris;la Prosperitat;518.02;9.12
+2016;1;Nou Barris;la Trinitat Nova;423.18;8.67
+2016;1;Nou Barris;Torre Baro;392.44;6.55
+2016;1;Nou Barris;Ciutat Meridiana;344.26;6.23
+2016;1;Nou Barris;Vallbona;418;7.14
+2016;1;Sant Andreu;la Trinitat Vella;422.37;7.42
+2016;1;Sant Andreu;Baro de Viver;142.34;3.18
+2016;1;Sant Andreu;el Bon Pastor;472.39;8.18
+2016;1;Sant Andreu;Sant Andreu;624.75;10.3
+2016;1;Sant Andreu;la Sagrera;658.12;10.78
+2016;1;Sant Andreu;el Congres i els Indians;613.71;9.65
+2016;1;Sant Andreu;Navas;665.34;10.28
+2016;1;Sant Marti;el Camp de l'Arpa del Clot;659.58;11.12
+2016;1;Sant Marti;el Clot;645.42;10.19
+2016;1;Sant Marti;el Parc i la Llacuna del Poblenou;799.63;12.14
+2016;1;Sant Marti;la Vila Olimpica del Poblenou;1136;15.78
+2016;1;Sant Marti;el Poblenou;719.12;11.93
+2016;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1004.51;11.8
+2016;1;Sant Marti;el Besos i el Maresme;506.7;8.46
+2016;1;Sant Marti;Provencals del Poblenou;758.81;10.56
+2016;1;Sant Marti;Sant Marti de Provencals;688.49;9.37
+2016;1;Sant Marti;la Verneda i la Pau;597.89;9.19
+2016;2;Ciutat Vella;el Raval;662.28;11.78
+2016;2;Ciutat Vella;Gothic Quarter;806.24;12.4
+2016;2;Ciutat Vella;la Barceloneta;659.35;17.73
+2016;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;773.62;14.09
+2016;2;Eixample;Fort Pienc;808.08;11.82
+2016;2;Eixample;Sagrada Familia;739.86;11.8
+2016;2;Eixample;la Dreta de l'Eixample;1120.4;12.63
+2016;2;Eixample;l'Antiga Esquerra de l'Eixample;960.8;12.74
+2016;2;Eixample;la Nova Esquerra de l'Eixample;842.53;12.53
+2016;2;Eixample;Sant Antoni;793.64;11.61
+2016;2;Sants-Montjuic;el Poble Sec;651.21;11.88
+2016;2;Sants-Montjuic;la Marina de Port;548.51;8.73
+2016;2;Sants-Montjuic;la Font de la Guatlla;751.69;12.3
+2016;2;Sants-Montjuic;Hostafrancs;673.24;12.13
+2016;2;Sants-Montjuic;la Bordeta;672.13;10.71
+2016;2;Sants-Montjuic;Sants - Badal;702.86;11.57
+2016;2;Sants-Montjuic;Sants;681.39;11.94
+2016;2;Les Corts;les Corts;912.53;12.52
+2016;2;Les Corts;la Maternitat i Sant Ramon;821.2;12.85
+2016;2;Les Corts;Pedralbes;1660.43;14.23
+2016;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1117.72;17.52
+2016;2;Sarria-Sant Gervasi;Sarria;1197.62;17.29
+2016;2;Sarria-Sant Gervasi;les Tres Torres;1560.7;16.4
+2016;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1096.73;14.33
+2016;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1189.1;13.8
+2016;2;Sarria-Sant Gervasi;el Putxet i el Farro;891.63;14.58
+2016;2;Gracia;Vallcarca i els Penitents;755.85;12.14
+2016;2;Gracia;el Coll;592.76;11.38
+2016;2;Gracia;la Salut;772.96;12.9
+2016;2;Gracia;la Vila de Gracia;773.66;13.22
+2016;2;Gracia;el Camp d'en Grassot i Gracia Nova;780.36;12.29
+2016;2;Horta-Guinardo;el Baix Guinardo;642.91;10.89
+2016;2;Horta-Guinardo;Can Baro;632;11.1
+2016;2;Horta-Guinardo;el Guinardo;634.75;10.53
+2016;2;Horta-Guinardo;la Font d'en Fargues;689.66;11.52
+2016;2;Horta-Guinardo;el Carmel;550.3;9.61
+2016;2;Horta-Guinardo;la Teixonera;544.56;9.93
+2016;2;Horta-Guinardo;Sant Genis dels Agudells;592.36;8.65
+2016;2;Horta-Guinardo;Montbau;635.14;9.72
+2016;2;Horta-Guinardo;la Vall d'Hebron;786.32;10.52
+2016;2;Horta-Guinardo;Horta;620.05;11.15
+2016;2;Nou Barris;Vilapicina i la Torre Llobeta;616.99;10.17
+2016;2;Nou Barris;Porta;574.38;9.86
+2016;2;Nou Barris;el Turo de la Peira;547.65;9.51
+2016;2;Nou Barris;la Guineueta;613.96;8.6
+2016;2;Nou Barris;Canyelles;621.43;8.1
+2016;2;Nou Barris;les Roquetes;475.41;9.21
+2016;2;Nou Barris;Verdun;526.19;9.56
+2016;2;Nou Barris;la Prosperitat;550.31;10.04
+2016;2;Nou Barris;la Trinitat Nova;450.85;9.38
+2016;2;Nou Barris;Torre Baro;447.05;6.82
+2016;2;Nou Barris;Ciutat Meridiana;427.97;7.24
+2016;2;Sant Andreu;la Trinitat Vella;483.22;8.5
+2016;2;Sant Andreu;el Bon Pastor;588.23;8.74
+2016;2;Sant Andreu;Sant Andreu;663.31;11.37
+2016;2;Sant Andreu;la Sagrera;619.99;10.04
+2016;2;Sant Andreu;el Congres i els Indians;635.81;10.27
+2016;2;Sant Andreu;Navas;704.45;10.38
+2016;2;Sant Marti;el Camp de l'Arpa del Clot;690.84;11.34
+2016;2;Sant Marti;el Clot;688.85;11.35
+2016;2;Sant Marti;el Parc i la Llacuna del Poblenou;759.08;12.52
+2016;2;Sant Marti;la Vila Olimpica del Poblenou;1151.48;17.17
+2016;2;Sant Marti;el Poblenou;785.11;12.7
+2016;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1116.09;14.28
+2016;2;Sant Marti;el Besos i el Maresme;521.08;9.02
+2016;2;Sant Marti;Provencals del Poblenou;727.81;11.21
+2016;2;Sant Marti;Sant Marti de Provencals;679.25;10.04
+2016;2;Sant Marti;la Verneda i la Pau;613.21;9.27
+2016;3;Ciutat Vella;el Raval;666.17;12.48
+2016;3;Ciutat Vella;Gothic Quarter;851.63;12.39
+2016;3;Ciutat Vella;la Barceloneta;686.63;19.22
+2016;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;839.58;14.41
+2016;3;Eixample;Fort Pienc;868.35;11.91
+2016;3;Eixample;Sagrada Familia;799.38;12.18
+2016;3;Eixample;la Dreta de l'Eixample;1143.98;13.33
+2016;3;Eixample;l'Antiga Esquerra de l'Eixample;986.21;13.15
+2016;3;Eixample;la Nova Esquerra de l'Eixample;890.54;12.49
+2016;3;Eixample;Sant Antoni;883.32;12.67
+2016;3;Sants-Montjuic;el Poble Sec;696.74;12.67
+2016;3;Sants-Montjuic;la Marina de Port;577.47;10.23
+2016;3;Sants-Montjuic;la Font de la Guatlla;764.38;11.52
+2016;3;Sants-Montjuic;Hostafrancs;702.72;12
+2016;3;Sants-Montjuic;la Bordeta;674.88;10.9
+2016;3;Sants-Montjuic;Sants - Badal;710.45;11.99
+2016;3;Sants-Montjuic;Sants;740.5;12.1
+2016;3;Les Corts;les Corts;949.97;13.04
+2016;3;Les Corts;la Maternitat i Sant Ramon;892.28;12.91
+2016;3;Les Corts;Pedralbes;1689.6;14.44
+2016;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1302.14;17.1
+2016;3;Sarria-Sant Gervasi;Sarria;1172.86;16.06
+2016;3;Sarria-Sant Gervasi;les Tres Torres;1619.04;15.51
+2016;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1083.53;14.32
+2016;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1278.66;13.81
+2016;3;Sarria-Sant Gervasi;el Putxet i el Farro;876.77;13.67
+2016;3;Gracia;Vallcarca i els Penitents;830.24;12.58
+2016;3;Gracia;el Coll;635.15;10.82
+2016;3;Gracia;la Salut;855.89;11.43
+2016;3;Gracia;la Vila de Gracia;827.81;13.63
+2016;3;Gracia;el Camp d'en Grassot i Gracia Nova;805.87;12.85
+2016;3;Horta-Guinardo;el Baix Guinardo;718.5;11.79
+2016;3;Horta-Guinardo;Can Baro;645.66;10.86
+2016;3;Horta-Guinardo;el Guinardo;679.39;11.46
+2016;3;Horta-Guinardo;la Font d'en Fargues;675.69;10.26
+2016;3;Horta-Guinardo;el Carmel;557.55;9.77
+2016;3;Horta-Guinardo;la Teixonera;570.1;9.95
+2016;3;Horta-Guinardo;Sant Genis dels Agudells;603.75;8.71
+2016;3;Horta-Guinardo;Montbau;646.43;11.03
+2016;3;Horta-Guinardo;la Vall d'Hebron;796.92;11.67
+2016;3;Horta-Guinardo;Horta;634.35;10.68
+2016;3;Nou Barris;Vilapicina i la Torre Llobeta;640.48;10.27
+2016;3;Nou Barris;Porta;617.22;10.58
+2016;3;Nou Barris;el Turo de la Peira;538.1;9.75
+2016;3;Nou Barris;la Guineueta;632.29;8.84
+2016;3;Nou Barris;Canyelles;648.75;8.45
+2016;3;Nou Barris;les Roquetes;512.34;9.95
+2016;3;Nou Barris;Verdun;495.52;9.9
+2016;3;Nou Barris;la Prosperitat;584.53;10.74
+2016;3;Nou Barris;la Trinitat Nova;419.48;7.8
+2016;3;Nou Barris;Ciutat Meridiana;373.14;6.44
+2016;3;Sant Andreu;la Trinitat Vella;459.84;8.44
+2016;3;Sant Andreu;Baro de Viver;256.45;3.85
+2016;3;Sant Andreu;el Bon Pastor;558.42;9.12
+2016;3;Sant Andreu;Sant Andreu;658.49;10.81
+2016;3;Sant Andreu;la Sagrera;670.19;10.45
+2016;3;Sant Andreu;el Congres i els Indians;691.95;11.28
+2016;3;Sant Andreu;Navas;712.32;10.5
+2016;3;Sant Marti;el Camp de l'Arpa del Clot;715.52;11.86
+2016;3;Sant Marti;el Clot;708.8;11.69
+2016;3;Sant Marti;el Parc i la Llacuna del Poblenou;839.08;12.48
+2016;3;Sant Marti;la Vila Olimpica del Poblenou;1142.76;15.04
+2016;3;Sant Marti;el Poblenou;828.61;13.13
+2016;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1268.48;14.27
+2016;3;Sant Marti;el Besos i el Maresme;556.45;8.71
+2016;3;Sant Marti;Provencals del Poblenou;856.58;12.69
+2016;3;Sant Marti;Sant Marti de Provencals;716.17;9.87
+2016;3;Sant Marti;la Verneda i la Pau;617.01;8.96
+2016;4;Ciutat Vella;el Raval;716.7;13.17
+2016;4;Ciutat Vella;Gothic Quarter;913.96;13.78
+2016;4;Ciutat Vella;la Barceloneta;686.31;18.6
+2016;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;854.18;14.8
+2016;4;Eixample;Fort Pienc;816.51;12.04
+2016;4;Eixample;Sagrada Familia;806.4;12.71
+2016;4;Eixample;la Dreta de l'Eixample;1174.38;13.04
+2016;4;Eixample;l'Antiga Esquerra de l'Eixample;1012.22;12.86
+2016;4;Eixample;la Nova Esquerra de l'Eixample;926.21;12.87
+2016;4;Eixample;Sant Antoni;882.47;12.34
+2016;4;Sants-Montjuic;el Poble Sec;706.11;12.92
+2016;4;Sants-Montjuic;la Marina de Port;613.16;9.58
+2016;4;Sants-Montjuic;la Font de la Guatlla;786.35;13
+2016;4;Sants-Montjuic;Hostafrancs;703.28;12.61
+2016;4;Sants-Montjuic;la Bordeta;730.45;11.16
+2016;4;Sants-Montjuic;Sants - Badal;711.1;12.17
+2016;4;Sants-Montjuic;Sants;740.28;12.32
+2016;4;Les Corts;les Corts;983.48;13.76
+2016;4;Les Corts;la Maternitat i Sant Ramon;866.43;13.4
+2016;4;Les Corts;Pedralbes;1692.2;14.96
+2016;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1354.62;15.39
+2016;4;Sarria-Sant Gervasi;Sarria;1185.85;14.85
+2016;4;Sarria-Sant Gervasi;les Tres Torres;1490.72;15.6
+2016;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1197.72;14.18
+2016;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1298.95;14.12
+2016;4;Sarria-Sant Gervasi;el Putxet i el Farro;904.17;13.6
+2016;4;Gracia;Vallcarca i els Penitents;818.69;13.49
+2016;4;Gracia;el Coll;653.69;12.05
+2016;4;Gracia;la Salut;784.91;13.24
+2016;4;Gracia;la Vila de Gracia;829.23;14.32
+2016;4;Gracia;el Camp d'en Grassot i Gracia Nova;823.72;12.81
+2016;4;Horta-Guinardo;el Baix Guinardo;747.31;11.78
+2016;4;Horta-Guinardo;Can Baro;658.74;12.33
+2016;4;Horta-Guinardo;el Guinardo;705.71;11.73
+2016;4;Horta-Guinardo;la Font d'en Fargues;761.28;11.26
+2016;4;Horta-Guinardo;el Carmel;597.13;10.7
+2016;4;Horta-Guinardo;la Teixonera;672.65;11.56
+2016;4;Horta-Guinardo;Sant Genis dels Agudells;623.6;9.14
+2016;4;Horta-Guinardo;Montbau;668.46;10.7
+2016;4;Horta-Guinardo;la Vall d'Hebron;778.67;11.43
+2016;4;Horta-Guinardo;Horta;668.66;10.81
+2016;4;Nou Barris;Vilapicina i la Torre Llobeta;684.2;11.27
+2016;4;Nou Barris;Porta;672.64;10.51
+2016;4;Nou Barris;el Turo de la Peira;582.12;9.63
+2016;4;Nou Barris;Can Peguera;301.82;10.51
+2016;4;Nou Barris;la Guineueta;666.83;9.2
+2016;4;Nou Barris;Canyelles;617.52;7.68
+2016;4;Nou Barris;les Roquetes;523.02;10.04
+2016;4;Nou Barris;Verdun;565.89;10.92
+2016;4;Nou Barris;la Prosperitat;589.24;11.1
+2016;4;Nou Barris;la Trinitat Nova;438.65;8.71
+2016;4;Nou Barris;Torre Baro;416.39;10.09
+2016;4;Nou Barris;Ciutat Meridiana;446.13;7.74
+2016;4;Sant Andreu;la Trinitat Vella;552.81;9.61
+2016;4;Sant Andreu;el Bon Pastor;555.12;9.05
+2016;4;Sant Andreu;Sant Andreu;690.64;11.16
+2016;4;Sant Andreu;la Sagrera;709.11;10.72
+2016;4;Sant Andreu;el Congres i els Indians;662.25;10.49
+2016;4;Sant Andreu;Navas;768.66;11.94
+2016;4;Sant Marti;el Camp de l'Arpa del Clot;720.39;12.37
+2016;4;Sant Marti;el Clot;728.87;11.4
+2016;4;Sant Marti;el Parc i la Llacuna del Poblenou;886.66;13.72
+2016;4;Sant Marti;la Vila Olimpica del Poblenou;1285.61;16.7
+2016;4;Sant Marti;el Poblenou;840.76;13.37
+2016;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1181.15;16.69
+2016;4;Sant Marti;el Besos i el Maresme;571.6;8.92
+2016;4;Sant Marti;Provencals del Poblenou;987.18;12.66
+2016;4;Sant Marti;Sant Marti de Provencals;720.74;10.71
+2016;4;Sant Marti;la Verneda i la Pau;591.86;9.07
+2017;1;Ciutat Vella;el Raval;734.99;13.5
+2017;1;Ciutat Vella;Gothic Quarter;905.26;14.14
+2017;1;Ciutat Vella;la Barceloneta;722.78;19.46
+2017;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;895.28;15.01
+2017;1;Eixample;Fort Pienc;871.08;12.77
+2017;1;Eixample;Sagrada Familia;847.04;13.04
+2017;1;Eixample;la Dreta de l'Eixample;1151.09;12.82
+2017;1;Eixample;l'Antiga Esquerra de l'Eixample;1001.49;13.24
+2017;1;Eixample;la Nova Esquerra de l'Eixample;909.08;13.01
+2017;1;Eixample;Sant Antoni;876.97;12.38
+2017;1;Sants-Montjuic;el Poble Sec;715.71;13.02
+2017;1;Sants-Montjuic;la Marina de Port;689.16;9.88
+2017;1;Sants-Montjuic;la Font de la Guatlla;806.34;12.59
+2017;1;Sants-Montjuic;Hostafrancs;680.17;12.36
+2017;1;Sants-Montjuic;la Bordeta;739.35;10.86
+2017;1;Sants-Montjuic;Sants - Badal;697.58;12.91
+2017;1;Sants-Montjuic;Sants;737.27;12.96
+2017;1;Les Corts;les Corts;936.32;13.63
+2017;1;Les Corts;la Maternitat i Sant Ramon;896.45;13.15
+2017;1;Les Corts;Pedralbes;1856.57;16.05
+2017;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1248;10.12
+2017;1;Sarria-Sant Gervasi;Sarria;1291.5;16.28
+2017;1;Sarria-Sant Gervasi;les Tres Torres;1516.52;16.12
+2017;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1182.12;14.6
+2017;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1268.61;14.06
+2017;1;Sarria-Sant Gervasi;el Putxet i el Farro;913.45;14.97
+2017;1;Gracia;Vallcarca i els Penitents;946.59;14.1
+2017;1;Gracia;el Coll;687.42;11.96
+2017;1;Gracia;la Salut;841.38;12.48
+2017;1;Gracia;la Vila de Gracia;837.09;14.89
+2017;1;Gracia;el Camp d'en Grassot i Gracia Nova;839.29;12.92
+2017;1;Horta-Guinardo;el Baix Guinardo;743.88;12.66
+2017;1;Horta-Guinardo;Can Baro;637.3;11.85
+2017;1;Horta-Guinardo;el Guinardo;722.67;12.28
+2017;1;Horta-Guinardo;la Font d'en Fargues;812.93;14.94
+2017;1;Horta-Guinardo;el Carmel;597.09;11.46
+2017;1;Horta-Guinardo;la Teixonera;663.9;10.71
+2017;1;Horta-Guinardo;Sant Genis dels Agudells;622.33;8.96
+2017;1;Horta-Guinardo;Montbau;716.43;12.97
+2017;1;Horta-Guinardo;la Vall d'Hebron;816.05;11.69
+2017;1;Horta-Guinardo;Horta;669.89;11.24
+2017;1;Nou Barris;Vilapicina i la Torre Llobeta;687.37;11.22
+2017;1;Nou Barris;Porta;654.58;10.21
+2017;1;Nou Barris;el Turo de la Peira;587.02;10.32
+2017;1;Nou Barris;la Guineueta;634.54;9.13
+2017;1;Nou Barris;Canyelles;689.62;8.05
+2017;1;Nou Barris;les Roquetes;504.31;9.41
+2017;1;Nou Barris;Verdun;595.48;11.3
+2017;1;Nou Barris;la Prosperitat;624.58;11.61
+2017;1;Nou Barris;la Trinitat Nova;540.68;10.02
+2017;1;Nou Barris;Torre Baro;418.07;7.26
+2017;1;Nou Barris;Ciutat Meridiana;459.19;7.93
+2017;1;Sant Andreu;la Trinitat Vella;497.84;9.4
+2017;1;Sant Andreu;el Bon Pastor;622.82;9.21
+2017;1;Sant Andreu;Sant Andreu;708.6;12.43
+2017;1;Sant Andreu;la Sagrera;575.23;9.8
+2017;1;Sant Andreu;el Congres i els Indians;696.04;11.23
+2017;1;Sant Andreu;Navas;716.78;10.4
+2017;1;Sant Marti;el Camp de l'Arpa del Clot;756.57;12.89
+2017;1;Sant Marti;el Clot;774.97;12.26
+2017;1;Sant Marti;el Parc i la Llacuna del Poblenou;850.73;13.06
+2017;1;Sant Marti;la Vila Olimpica del Poblenou;1108.37;16.26
+2017;1;Sant Marti;el Poblenou;868.9;13.35
+2017;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1148.2;15.79
+2017;1;Sant Marti;el Besos i el Maresme;588.9;9.52
+2017;1;Sant Marti;Provencals del Poblenou;999.62;13.25
+2017;1;Sant Marti;Sant Marti de Provencals;742.06;10.54
+2017;1;Sant Marti;la Verneda i la Pau;677.91;10.03
+2017;2;Ciutat Vella;el Raval;714.29;13.69
+2017;2;Ciutat Vella;Gothic Quarter;968.16;13.78
+2017;2;Ciutat Vella;la Barceloneta;738.25;19.87
+2017;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;930.13;15.99
+2017;2;Eixample;Fort Pienc;884.99;12.59
+2017;2;Eixample;Sagrada Familia;867.97;13.34
+2017;2;Eixample;la Dreta de l'Eixample;1218.18;13.83
+2017;2;Eixample;l'Antiga Esquerra de l'Eixample;1044.28;13.51
+2017;2;Eixample;la Nova Esquerra de l'Eixample;949.96;13.34
+2017;2;Eixample;Sant Antoni;887.78;12.79
+2017;2;Sants-Montjuic;el Poble Sec;756.8;13.95
+2017;2;Sants-Montjuic;la Marina de Port;634.28;9.86
+2017;2;Sants-Montjuic;la Font de la Guatlla;785.02;12.39
+2017;2;Sants-Montjuic;Hostafrancs;749.61;12.33
+2017;2;Sants-Montjuic;la Bordeta;760.98;11.89
+2017;2;Sants-Montjuic;Sants - Badal;766.05;12.97
+2017;2;Sants-Montjuic;Sants;780.27;12.85
+2017;2;Les Corts;les Corts;1006.84;14.23
+2017;2;Les Corts;la Maternitat i Sant Ramon;882.05;13.17
+2017;2;Les Corts;Pedralbes;1666.63;16.76
+2017;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1101.67;17.35
+2017;2;Sarria-Sant Gervasi;Sarria;1423.86;17.93
+2017;2;Sarria-Sant Gervasi;les Tres Torres;1646.76;16.76
+2017;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1236.21;14.71
+2017;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1287.23;14.76
+2017;2;Sarria-Sant Gervasi;el Putxet i el Farro;902.42;13.99
+2017;2;Gracia;Vallcarca i els Penitents;917.84;14.39
+2017;2;Gracia;el Coll;701.29;11.81
+2017;2;Gracia;la Salut;855.7;12.24
+2017;2;Gracia;la Vila de Gracia;852.57;14.85
+2017;2;Gracia;el Camp d'en Grassot i Gracia Nova;872.41;13.83
+2017;2;Horta-Guinardo;el Baix Guinardo;756.13;12.17
+2017;2;Horta-Guinardo;Can Baro;710.18;12.6
+2017;2;Horta-Guinardo;el Guinardo;722.28;11.81
+2017;2;Horta-Guinardo;la Font d'en Fargues;721.47;12.28
+2017;2;Horta-Guinardo;el Carmel;597.58;10.53
+2017;2;Horta-Guinardo;la Teixonera;671.85;11.61
+2017;2;Horta-Guinardo;Sant Genis dels Agudells;680.8;9.48
+2017;2;Horta-Guinardo;Montbau;677.09;10.84
+2017;2;Horta-Guinardo;la Vall d'Hebron;819.11;11.54
+2017;2;Horta-Guinardo;Horta;708.69;11.65
+2017;2;Nou Barris;Vilapicina i la Torre Llobeta;699.81;11
+2017;2;Nou Barris;Porta;640.95;10.75
+2017;2;Nou Barris;el Turo de la Peira;600.84;10.42
+2017;2;Nou Barris;Can Peguera;407.22;11.68
+2017;2;Nou Barris;la Guineueta;632.43;8.88
+2017;2;Nou Barris;Canyelles;677.5;8.68
+2017;2;Nou Barris;les Roquetes;505.97;10.11
+2017;2;Nou Barris;Verdun;579.67;10.49
+2017;2;Nou Barris;la Prosperitat;617.61;10.82
+2017;2;Nou Barris;la Trinitat Nova;533.3;10.69
+2017;2;Nou Barris;Ciutat Meridiana;436.17;7.54
+2017;2;Nou Barris;Vallbona;302.52;4.45
+2017;2;Sant Andreu;la Trinitat Vella;434.91;7.44
+2017;2;Sant Andreu;el Bon Pastor;647.69;10.15
+2017;2;Sant Andreu;Sant Andreu;728.09;11.93
+2017;2;Sant Andreu;la Sagrera;656.71;10.53
+2017;2;Sant Andreu;el Congres i els Indians;724.28;11.14
+2017;2;Sant Andreu;Navas;783.88;12.08
+2017;2;Sant Marti;el Camp de l'Arpa del Clot;765.74;12.79
+2017;2;Sant Marti;el Clot;740.91;12.28
+2017;2;Sant Marti;el Parc i la Llacuna del Poblenou;907.14;14.21
+2017;2;Sant Marti;la Vila Olimpica del Poblenou;1345.63;18.51
+2017;2;Sant Marti;el Poblenou;899.89;13.99
+2017;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;965.36;15.71
+2017;2;Sant Marti;el Besos i el Maresme;606.61;9.92
+2017;2;Sant Marti;Provencals del Poblenou;941.16;13.38
+2017;2;Sant Marti;Sant Marti de Provencals;750.71;11.11
+2017;2;Sant Marti;la Verneda i la Pau;671.87;9.85
+2017;3;Ciutat Vella;el Raval;764.85;13.97
+2017;3;Ciutat Vella;Gothic Quarter;1028.49;14.43
+2017;3;Ciutat Vella;la Barceloneta;758.18;19.72
+2017;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;927.16;16.16
+2017;3;Eixample;Fort Pienc;933.54;13.44
+2017;3;Eixample;Sagrada Familia;906.78;13.82
+2017;3;Eixample;la Dreta de l'Eixample;1179.11;13.41
+2017;3;Eixample;l'Antiga Esquerra de l'Eixample;1098.21;14.02
+2017;3;Eixample;la Nova Esquerra de l'Eixample;950.15;13.8
+2017;3;Eixample;Sant Antoni;922.46;13.16
+2017;3;Sants-Montjuic;el Poble Sec;759.87;13.52
+2017;3;Sants-Montjuic;la Marina de Port;711.93;10.89
+2017;3;Sants-Montjuic;la Font de la Guatlla;817.64;13.48
+2017;3;Sants-Montjuic;Hostafrancs;777.64;13.55
+2017;3;Sants-Montjuic;la Bordeta;861.69;12.87
+2017;3;Sants-Montjuic;Sants - Badal;796.5;13.4
+2017;3;Sants-Montjuic;Sants;812.48;13.31
+2017;3;Les Corts;les Corts;1013.57;14.66
+2017;3;Les Corts;la Maternitat i Sant Ramon;970.71;13.6
+2017;3;Les Corts;Pedralbes;1882.42;16.54
+2017;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1360.42;20.61
+2017;3;Sarria-Sant Gervasi;Sarria;1364.01;18.26
+2017;3;Sarria-Sant Gervasi;les Tres Torres;1757;16.07
+2017;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1324.4;15.77
+2017;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1377.82;14.95
+2017;3;Sarria-Sant Gervasi;el Putxet i el Farro;962.41;15.01
+2017;3;Gracia;Vallcarca i els Penitents;912.51;14.05
+2017;3;Gracia;el Coll;799.44;14.16
+2017;3;Gracia;la Salut;804.26;13.52
+2017;3;Gracia;la Vila de Gracia;867.94;15.2
+2017;3;Gracia;el Camp d'en Grassot i Gracia Nova;880;13.97
+2017;3;Horta-Guinardo;el Baix Guinardo;804.26;13.12
+2017;3;Horta-Guinardo;Can Baro;698.03;12.49
+2017;3;Horta-Guinardo;el Guinardo;739.68;12.58
+2017;3;Horta-Guinardo;la Font d'en Fargues;922.75;13.15
+2017;3;Horta-Guinardo;el Carmel;610.13;10.93
+2017;3;Horta-Guinardo;la Teixonera;643.74;10.91
+2017;3;Horta-Guinardo;Sant Genis dels Agudells;713.38;9.96
+2017;3;Horta-Guinardo;Montbau;749;12.83
+2017;3;Horta-Guinardo;la Vall d'Hebron;805.87;12.02
+2017;3;Horta-Guinardo;Horta;704.57;11.39
+2017;3;Nou Barris;Vilapicina i la Torre Llobeta;750.43;11.62
+2017;3;Nou Barris;Porta;670.43;11.08
+2017;3;Nou Barris;el Turo de la Peira;613.8;10.46
+2017;3;Nou Barris;la Guineueta;625.23;9.51
+2017;3;Nou Barris;Canyelles;701.5;8.79
+2017;3;Nou Barris;les Roquetes;560.56;10.22
+2017;3;Nou Barris;Verdun;593.64;10.93
+2017;3;Nou Barris;la Prosperitat;625.66;11.2
+2017;3;Nou Barris;la Trinitat Nova;538.45;10.87
+2017;3;Nou Barris;Torre Baro;463.17;6.84
+2017;3;Nou Barris;Ciutat Meridiana;423.09;7.38
+2017;3;Sant Andreu;la Trinitat Vella;532.33;9.94
+2017;3;Sant Andreu;el Bon Pastor;653.72;9.64
+2017;3;Sant Andreu;Sant Andreu;744.73;12.5
+2017;3;Sant Andreu;la Sagrera;692.49;11.19
+2017;3;Sant Andreu;el Congres i els Indians;761.19;11.97
+2017;3;Sant Andreu;Navas;790.19;11.48
+2017;3;Sant Marti;el Camp de l'Arpa del Clot;797.7;12.84
+2017;3;Sant Marti;el Clot;775.27;12.72
+2017;3;Sant Marti;el Parc i la Llacuna del Poblenou;905.24;14.45
+2017;3;Sant Marti;la Vila Olimpica del Poblenou;1189.26;15.97
+2017;3;Sant Marti;el Poblenou;917.87;14.23
+2017;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1093.34;16.22
+2017;3;Sant Marti;el Besos i el Maresme;625.13;10.03
+2017;3;Sant Marti;Provencals del Poblenou;933.9;12.64
+2017;3;Sant Marti;Sant Marti de Provencals;776.09;11.09
+2017;3;Sant Marti;la Verneda i la Pau;711.99;10.4
+2017;4;Ciutat Vella;el Raval;776.73;14.42
+2017;4;Ciutat Vella;Gothic Quarter;993.16;14.41
+2017;4;Ciutat Vella;la Barceloneta;766.03;20.33
+2017;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;914.78;15.66
+2017;4;Eixample;Fort Pienc;910.78;13.54
+2017;4;Eixample;Sagrada Familia;877.02;13.13
+2017;4;Eixample;la Dreta de l'Eixample;1225.08;13.95
+2017;4;Eixample;l'Antiga Esquerra de l'Eixample;1081.29;13.96
+2017;4;Eixample;la Nova Esquerra de l'Eixample;957;13.86
+2017;4;Eixample;Sant Antoni;905.83;13.46
+2017;4;Sants-Montjuic;el Poble Sec;760.23;14.12
+2017;4;Sants-Montjuic;la Marina de Port;728.07;10.73
+2017;4;Sants-Montjuic;la Font de la Guatlla;827.36;13.34
+2017;4;Sants-Montjuic;Hostafrancs;771.78;13.19
+2017;4;Sants-Montjuic;la Bordeta;786.53;11.96
+2017;4;Sants-Montjuic;Sants - Badal;772.86;13.29
+2017;4;Sants-Montjuic;Sants;806.56;13.49
+2017;4;Les Corts;les Corts;1043.76;14.65
+2017;4;Les Corts;la Maternitat i Sant Ramon;935.38;13.44
+2017;4;Les Corts;Pedralbes;1737.92;15.22
+2017;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1213.95;18.56
+2017;4;Sarria-Sant Gervasi;Sarria;1334.77;17.32
+2017;4;Sarria-Sant Gervasi;les Tres Torres;1588.53;18.38
+2017;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1198.24;16.19
+2017;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1315.8;14.64
+2017;4;Sarria-Sant Gervasi;el Putxet i el Farro;938.2;15.32
+2017;4;Gracia;Vallcarca i els Penitents;875.53;13.97
+2017;4;Gracia;el Coll;711.57;11.7
+2017;4;Gracia;la Salut;741.29;11.55
+2017;4;Gracia;la Vila de Gracia;879.85;15.07
+2017;4;Gracia;el Camp d'en Grassot i Gracia Nova;862.51;13.48
+2017;4;Horta-Guinardo;el Baix Guinardo;773.02;12.37
+2017;4;Horta-Guinardo;Can Baro;693.65;12.63
+2017;4;Horta-Guinardo;el Guinardo;759.06;12.48
+2017;4;Horta-Guinardo;la Font d'en Fargues;822.82;12.31
+2017;4;Horta-Guinardo;el Carmel;609.11;11.14
+2017;4;Horta-Guinardo;la Teixonera;616.32;11.41
+2017;4;Horta-Guinardo;Sant Genis dels Agudells;672.7;9.52
+2017;4;Horta-Guinardo;Montbau;754.69;13.54
+2017;4;Horta-Guinardo;la Vall d'Hebron;865.42;12.93
+2017;4;Horta-Guinardo;Horta;708.88;12.29
+2017;4;Nou Barris;Vilapicina i la Torre Llobeta;723.34;11.57
+2017;4;Nou Barris;Porta;682.83;11.01
+2017;4;Nou Barris;el Turo de la Peira;653.52;11.09
+2017;4;Nou Barris;la Guineueta;693.4;9.83
+2017;4;Nou Barris;Canyelles;656.15;8.96
+2017;4;Nou Barris;les Roquetes;565.18;10.86
+2017;4;Nou Barris;Verdun;600.37;11.68
+2017;4;Nou Barris;la Prosperitat;641.21;11.44
+2017;4;Nou Barris;la Trinitat Nova;551.22;10.81
+2017;4;Nou Barris;Torre Baro;448.23;7.17
+2017;4;Nou Barris;Ciutat Meridiana;425.51;7.55
+2017;4;Sant Andreu;la Trinitat Vella;535.92;10.14
+2017;4;Sant Andreu;el Bon Pastor;576.97;8.79
+2017;4;Sant Andreu;Sant Andreu;751.95;12.44
+2017;4;Sant Andreu;la Sagrera;732.23;11.69
+2017;4;Sant Andreu;el Congres i els Indians;742.89;11.15
+2017;4;Sant Andreu;Navas;805.1;11.69
+2017;4;Sant Marti;el Camp de l'Arpa del Clot;789.59;13.26
+2017;4;Sant Marti;el Clot;777.21;12.47
+2017;4;Sant Marti;el Parc i la Llacuna del Poblenou;916.33;13.38
+2017;4;Sant Marti;la Vila Olimpica del Poblenou;1349.82;17.65
+2017;4;Sant Marti;el Poblenou;911.12;14.21
+2017;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1233.01;16.51
+2017;4;Sant Marti;el Besos i el Maresme;621.32;10.4
+2017;4;Sant Marti;Provencals del Poblenou;864.09;12.66
+2017;4;Sant Marti;Sant Marti de Provencals;790.58;10.83
+2017;4;Sant Marti;la Verneda i la Pau;692.67;10.38
+2018;1;Ciutat Vella;el Raval;792.74;13.74
+2018;1;Ciutat Vella;Gothic Quarter;998.4;13.3
+2018;1;Ciutat Vella;la Barceloneta;870.84;17.1
+2018;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;923.44;14.68
+2018;1;Eixample;Fort Pienc;910.53;12.63
+2018;1;Eixample;Sagrada Familia;883.75;13.45
+2018;1;Eixample;la Dreta de l'Eixample;1191.43;13.21
+2018;1;Eixample;l'Antiga Esquerra de l'Eixample;1069.16;13.49
+2018;1;Eixample;la Nova Esquerra de l'Eixample;947.92;13.51
+2018;1;Eixample;Sant Antoni;899.98;12.72
+2018;1;Sants-Montjuic;el Poble Sec;783.5;13.83
+2018;1;Sants-Montjuic;la Marina de Port;751.65;10.4
+2018;1;Sants-Montjuic;la Font de la Guatlla;842.32;12.42
+2018;1;Sants-Montjuic;Hostafrancs;754.83;13.23
+2018;1;Sants-Montjuic;la Bordeta;785.79;12.4
+2018;1;Sants-Montjuic;Sants - Badal;764.41;12.52
+2018;1;Sants-Montjuic;Sants;802.64;12.94
+2018;1;Les Corts;les Corts;1002.34;14.61
+2018;1;Les Corts;la Maternitat i Sant Ramon;948.77;13.82
+2018;1;Les Corts;Pedralbes;1799.91;14.92
+2018;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;895.7;11.21
+2018;1;Sarria-Sant Gervasi;Sarria;1249.23;16.04
+2018;1;Sarria-Sant Gervasi;les Tres Torres;1613.41;16.61
+2018;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1247.7;16.24
+2018;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1310.42;14.43
+2018;1;Sarria-Sant Gervasi;el Putxet i el Farro;946.65;14.1
+2018;1;Gracia;Vallcarca i els Penitents;886.27;13.25
+2018;1;Gracia;el Coll;741.23;12.28
+2018;1;Gracia;la Salut;815.62;12.05
+2018;1;Gracia;la Vila de Gracia;899.65;14.38
+2018;1;Gracia;el Camp d'en Grassot i Gracia Nova;884.55;13.37
+2018;1;Horta-Guinardo;el Baix Guinardo;832.63;12.63
+2018;1;Horta-Guinardo;Can Baro;721.46;11.7
+2018;1;Horta-Guinardo;el Guinardo;736.8;11.68
+2018;1;Horta-Guinardo;la Font d'en Fargues;824.12;11.47
+2018;1;Horta-Guinardo;el Carmel;634.75;11.22
+2018;1;Horta-Guinardo;la Teixonera;690.81;11.53
+2018;1;Horta-Guinardo;Sant Genis dels Agudells;648.1;9.79
+2018;1;Horta-Guinardo;Montbau;717.78;10.46
+2018;1;Horta-Guinardo;la Vall d'Hebron;874.2;12.08
+2018;1;Horta-Guinardo;Horta;748.19;11.6
+2018;1;Nou Barris;Vilapicina i la Torre Llobeta;720.9;11.29
+2018;1;Nou Barris;Porta;675.08;11.11
+2018;1;Nou Barris;el Turo de la Peira;665.36;11.44
+2018;1;Nou Barris;la Guineueta;685.05;9.56
+2018;1;Nou Barris;Canyelles;714.68;9.02
+2018;1;Nou Barris;les Roquetes;605.41;11.22
+2018;1;Nou Barris;Verdun;624.71;11.37
+2018;1;Nou Barris;la Prosperitat;634.3;11.39
+2018;1;Nou Barris;la Trinitat Nova;592.73;11.65
+2018;1;Nou Barris;Ciutat Meridiana;507.16;8.98
+2018;1;Sant Andreu;la Trinitat Vella;589.02;10.28
+2018;1;Sant Andreu;el Bon Pastor;658.63;10.45
+2018;1;Sant Andreu;Sant Andreu;744.82;11.7
+2018;1;Sant Andreu;la Sagrera;734.45;11.28
+2018;1;Sant Andreu;el Congres i els Indians;754.09;11.68
+2018;1;Sant Andreu;Navas;790.2;12.12
+2018;1;Sant Marti;el Camp de l'Arpa del Clot;785.88;12.5
+2018;1;Sant Marti;el Clot;774.32;12.2
+2018;1;Sant Marti;el Parc i la Llacuna del Poblenou;916.31;13.26
+2018;1;Sant Marti;la Vila Olimpica del Poblenou;1272.26;17.28
+2018;1;Sant Marti;el Poblenou;913.29;14.13
+2018;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1164.84;15.73
+2018;1;Sant Marti;el Besos i el Maresme;682.32;10.53
+2018;1;Sant Marti;Provencals del Poblenou;957.02;13.2
+2018;1;Sant Marti;Sant Marti de Provencals;751.48;10.71
+2018;1;Sant Marti;la Verneda i la Pau;715.37;10.39
+2018;2;Ciutat Vella;el Raval;820.88;14.14
+2018;2;Ciutat Vella;Gothic Quarter;1024.29;14.15
+2018;2;Ciutat Vella;la Barceloneta;923.45;16.31
+2018;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;991.39;15.09
+2018;2;Eixample;Fort Pienc;942.96;12.92
+2018;2;Eixample;Sagrada Familia;893.43;13.4
+2018;2;Eixample;la Dreta de l'Eixample;1263.08;13.71
+2018;2;Eixample;l'Antiga Esquerra de l'Eixample;1078.13;14.01
+2018;2;Eixample;la Nova Esquerra de l'Eixample;975.53;13.83
+2018;2;Eixample;Sant Antoni;907.42;13.1
+2018;2;Sants-Montjuic;el Poble Sec;788.23;13.41
+2018;2;Sants-Montjuic;la Marina de Port;719.33;10.23
+2018;2;Sants-Montjuic;la Font de la Guatlla;834.68;12.59
+2018;2;Sants-Montjuic;Hostafrancs;801.37;13.42
+2018;2;Sants-Montjuic;la Bordeta;757.26;11.4
+2018;2;Sants-Montjuic;Sants - Badal;755.29;12.86
+2018;2;Sants-Montjuic;Sants;811.74;12.82
+2018;2;Les Corts;les Corts;1038.73;14.65
+2018;2;Les Corts;la Maternitat i Sant Ramon;959.26;13.35
+2018;2;Les Corts;Pedralbes;1563.31;17.66
+2018;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;860.13;11.57
+2018;2;Sarria-Sant Gervasi;Sarria;1332.33;17.02
+2018;2;Sarria-Sant Gervasi;les Tres Torres;1467.07;16.42
+2018;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1288.82;15.83
+2018;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1328.14;14.65
+2018;2;Sarria-Sant Gervasi;el Putxet i el Farro;972.89;14.38
+2018;2;Gracia;Vallcarca i els Penitents;939.03;13.04
+2018;2;Gracia;el Coll;716.25;11.78
+2018;2;Gracia;la Salut;883.52;12.71
+2018;2;Gracia;la Vila de Gracia;913.34;14.51
+2018;2;Gracia;el Camp d'en Grassot i Gracia Nova;885.4;13.87
+2018;2;Horta-Guinardo;el Baix Guinardo;817.38;12.65
+2018;2;Horta-Guinardo;Can Baro;737.38;11.92
+2018;2;Horta-Guinardo;el Guinardo;758.61;11.89
+2018;2;Horta-Guinardo;la Font d'en Fargues;756.72;11.44
+2018;2;Horta-Guinardo;el Carmel;637.17;11.08
+2018;2;Horta-Guinardo;la Teixonera;682.44;11.94
+2018;2;Horta-Guinardo;Sant Genis dels Agudells;646.83;9.85
+2018;2;Horta-Guinardo;Montbau;716.18;10.44
+2018;2;Horta-Guinardo;la Vall d'Hebron;864.72;12.28
+2018;2;Horta-Guinardo;Horta;742.51;11.55
+2018;2;Nou Barris;Vilapicina i la Torre Llobeta;726.89;11.12
+2018;2;Nou Barris;Porta;713.94;11.49
+2018;2;Nou Barris;el Turo de la Peira;668.16;11.01
+2018;2;Nou Barris;la Guineueta;724.25;9.94
+2018;2;Nou Barris;Canyelles;661.88;9.67
+2018;2;Nou Barris;les Roquetes;575.71;10.98
+2018;2;Nou Barris;Verdun;628.8;11.57
+2018;2;Nou Barris;la Prosperitat;657.43;11.39
+2018;2;Nou Barris;la Trinitat Nova;574.15;12.11
+2018;2;Nou Barris;Torre Baro;434.52;7.22
+2018;2;Nou Barris;Ciutat Meridiana;491.84;8.39
+2018;2;Sant Andreu;la Trinitat Vella;598.29;10.24
+2018;2;Sant Andreu;el Bon Pastor;687.55;11.42
+2018;2;Sant Andreu;Sant Andreu;752.66;11.64
+2018;2;Sant Andreu;la Sagrera;798.39;12.08
+2018;2;Sant Andreu;el Congres i els Indians;751.16;11.49
+2018;2;Sant Andreu;Navas;797.8;11.88
+2018;2;Sant Marti;el Camp de l'Arpa del Clot;806.97;13.06
+2018;2;Sant Marti;el Clot;815.82;12.72
+2018;2;Sant Marti;el Parc i la Llacuna del Poblenou;1198.77;14.72
+2018;2;Sant Marti;la Vila Olimpica del Poblenou;1288.91;17.11
+2018;2;Sant Marti;el Poblenou;960.99;14.27
+2018;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1371.14;18.15
+2018;2;Sant Marti;el Besos i el Maresme;649.17;10.66
+2018;2;Sant Marti;Provencals del Poblenou;913.66;13.28
+2018;2;Sant Marti;Sant Marti de Provencals;797.54;11.86
+2018;2;Sant Marti;la Verneda i la Pau;719.55;10.96
+2018;3;Ciutat Vella;el Raval;849.32;14.12
+2018;3;Ciutat Vella;Gothic Quarter;1012.49;13.54
+2018;3;Ciutat Vella;la Barceloneta;889.24;16.85
+2018;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;970.97;15.12
+2018;3;Eixample;Fort Pienc;968.85;13.41
+2018;3;Eixample;Sagrada Familia;934.89;13.97
+2018;3;Eixample;la Dreta de l'Eixample;1216.7;14.48
+2018;3;Eixample;l'Antiga Esquerra de l'Eixample;1136.21;14.32
+2018;3;Eixample;la Nova Esquerra de l'Eixample;1003.89;14.16
+2018;3;Eixample;Sant Antoni;970.26;13.36
+2018;3;Sants-Montjuic;el Poble Sec;822.04;14.16
+2018;3;Sants-Montjuic;la Marina de Port;755.18;10.59
+2018;3;Sants-Montjuic;la Font de la Guatlla;871.41;12.31
+2018;3;Sants-Montjuic;Hostafrancs;814.55;13.58
+2018;3;Sants-Montjuic;la Bordeta;830.32;12.42
+2018;3;Sants-Montjuic;Sants - Badal;786.8;13.43
+2018;3;Sants-Montjuic;Sants;856.57;13.44
+2018;3;Les Corts;les Corts;1077.99;15.02
+2018;3;Les Corts;la Maternitat i Sant Ramon;1013.28;13.67
+2018;3;Les Corts;Pedralbes;1849.52;14.8
+2018;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1102.29;11.24
+2018;3;Sarria-Sant Gervasi;Sarria;1443.71;17.86
+2018;3;Sarria-Sant Gervasi;les Tres Torres;1746.01;16.26
+2018;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1322.61;16.06
+2018;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1374.32;14.76
+2018;3;Sarria-Sant Gervasi;el Putxet i el Farro;1021.27;15.15
+2018;3;Gracia;Vallcarca i els Penitents;905.82;13.73
+2018;3;Gracia;el Coll;756.36;12.75
+2018;3;Gracia;la Salut;870.31;13.17
+2018;3;Gracia;la Vila de Gracia;923.39;14.72
+2018;3;Gracia;el Camp d'en Grassot i Gracia Nova;924.81;14.02
+2018;3;Horta-Guinardo;el Baix Guinardo;839.47;12.72
+2018;3;Horta-Guinardo;Can Baro;766.82;12.84
+2018;3;Horta-Guinardo;el Guinardo;797.84;12.33
+2018;3;Horta-Guinardo;la Font d'en Fargues;876.58;12.94
+2018;3;Horta-Guinardo;el Carmel;654.77;11.48
+2018;3;Horta-Guinardo;la Teixonera;705.6;12.66
+2018;3;Horta-Guinardo;Sant Genis dels Agudells;660.93;9.53
+2018;3;Horta-Guinardo;Montbau;763.82;11.5
+2018;3;Horta-Guinardo;la Vall d'Hebron;822.31;12.24
+2018;3;Horta-Guinardo;Horta;754.53;12.39
+2018;3;Nou Barris;Vilapicina i la Torre Llobeta;742.82;11.81
+2018;3;Nou Barris;Porta;712.12;11.24
+2018;3;Nou Barris;el Turo de la Peira;682.67;11.37
+2018;3;Nou Barris;la Guineueta;732.86;10.68
+2018;3;Nou Barris;Canyelles;715.45;9.11
+2018;3;Nou Barris;les Roquetes;638.14;11.85
+2018;3;Nou Barris;Verdun;618.91;11.74
+2018;3;Nou Barris;la Prosperitat;667.72;11.84
+2018;3;Nou Barris;la Trinitat Nova;584.73;12.43
+2018;3;Nou Barris;Ciutat Meridiana;514.34;8.81
+2018;3;Sant Andreu;la Trinitat Vella;597.93;10.14
+2018;3;Sant Andreu;el Bon Pastor;693.69;10.81
+2018;3;Sant Andreu;Sant Andreu;777.06;12.05
+2018;3;Sant Andreu;la Sagrera;783.09;11.95
+2018;3;Sant Andreu;el Congres i els Indians;787.78;12.33
+2018;3;Sant Andreu;Navas;823.74;11.99
+2018;3;Sant Marti;el Camp de l'Arpa del Clot;827.45;12.92
+2018;3;Sant Marti;el Clot;815.1;12.85
+2018;3;Sant Marti;el Parc i la Llacuna del Poblenou;897.67;13.78
+2018;3;Sant Marti;la Vila Olimpica del Poblenou;1284.3;16.39
+2018;3;Sant Marti;el Poblenou;1006.81;14.68
+2018;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;818.55;12.99
+2018;3;Sant Marti;el Besos i el Maresme;699.06;11.11
+2018;3;Sant Marti;Provencals del Poblenou;928.02;13.88
+2018;3;Sant Marti;Sant Marti de Provencals;803.49;11.75
+2018;3;Sant Marti;la Verneda i la Pau;767.1;11.42
+2018;4;Ciutat Vella;el Raval;827.27;14.07
+2018;4;Ciutat Vella;Gothic Quarter;1057.26;14.1
+2018;4;Ciutat Vella;la Barceloneta;913.2;17.41
+2018;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1000.52;15.2
+2018;4;Eixample;Fort Pienc;983.1;13.61
+2018;4;Eixample;Sagrada Familia;930.02;14.05
+2018;4;Eixample;la Dreta de l'Eixample;1340.38;14.44
+2018;4;Eixample;l'Antiga Esquerra de l'Eixample;1164.32;14.37
+2018;4;Eixample;la Nova Esquerra de l'Eixample;1017.56;14.12
+2018;4;Eixample;Sant Antoni;960.3;13.49
+2018;4;Sants-Montjuic;el Poble Sec;813.74;14.02
+2018;4;Sants-Montjuic;la Marina de Port;778.52;11.1
+2018;4;Sants-Montjuic;la Font de la Guatlla;810.24;12.13
+2018;4;Sants-Montjuic;Hostafrancs;811;13.89
+2018;4;Sants-Montjuic;la Bordeta;825.36;12.32
+2018;4;Sants-Montjuic;Sants - Badal;831.19;13.31
+2018;4;Sants-Montjuic;Sants;834.64;13.4
+2018;4;Les Corts;les Corts;1031.46;15.05
+2018;4;Les Corts;la Maternitat i Sant Ramon;960.03;13.53
+2018;4;Les Corts;Pedralbes;1615.31;15.37
+2018;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;898.33;14.25
+2018;4;Sarria-Sant Gervasi;Sarria;1422.8;17.81
+2018;4;Sarria-Sant Gervasi;les Tres Torres;1567.91;16.43
+2018;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1283.24;16.27
+2018;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1374.82;15.27
+2018;4;Sarria-Sant Gervasi;el Putxet i el Farro;1031.54;14.75
+2018;4;Gracia;Vallcarca i els Penitents;971.51;14.34
+2018;4;Gracia;el Coll;748.9;11.88
+2018;4;Gracia;la Salut;930.09;13.33
+2018;4;Gracia;la Vila de Gracia;927.06;14.76
+2018;4;Gracia;el Camp d'en Grassot i Gracia Nova;945.81;14.06
+2018;4;Horta-Guinardo;el Baix Guinardo;827.04;12.65
+2018;4;Horta-Guinardo;Can Baro;727.05;12.14
+2018;4;Horta-Guinardo;el Guinardo;796.35;12.38
+2018;4;Horta-Guinardo;la Font d'en Fargues;840.52;12.42
+2018;4;Horta-Guinardo;el Carmel;653.21;11.6
+2018;4;Horta-Guinardo;la Teixonera;721.23;12.17
+2018;4;Horta-Guinardo;Sant Genis dels Agudells;666.91;9.56
+2018;4;Horta-Guinardo;Montbau;750.95;11.59
+2018;4;Horta-Guinardo;la Vall d'Hebron;876.65;12.59
+2018;4;Horta-Guinardo;Horta;745.35;11.76
+2018;4;Nou Barris;Vilapicina i la Torre Llobeta;782.95;12.04
+2018;4;Nou Barris;Porta;723.34;11.94
+2018;4;Nou Barris;el Turo de la Peira;692.05;11.43
+2018;4;Nou Barris;la Guineueta;708.41;10.01
+2018;4;Nou Barris;Canyelles;774.38;10.09
+2018;4;Nou Barris;les Roquetes;595.81;10.89
+2018;4;Nou Barris;Verdun;649.22;11.92
+2018;4;Nou Barris;la Prosperitat;698.08;12.41
+2018;4;Nou Barris;la Trinitat Nova;575.38;11.7
+2018;4;Nou Barris;Ciutat Meridiana;514.52;8.7
+2018;4;Sant Andreu;la Trinitat Vella;564.56;9.4
+2018;4;Sant Andreu;Baro de Viver;673.69;7.6
+2018;4;Sant Andreu;el Bon Pastor;696.06;10.68
+2018;4;Sant Andreu;Sant Andreu;782.15;12.24
+2018;4;Sant Andreu;la Sagrera;798.32;12.23
+2018;4;Sant Andreu;el Congres i els Indians;804.74;12.18
+2018;4;Sant Andreu;Navas;840.01;12.12
+2018;4;Sant Marti;el Camp de l'Arpa del Clot;851.58;13.58
+2018;4;Sant Marti;el Clot;835.55;12.47
+2018;4;Sant Marti;el Parc i la Llacuna del Poblenou;938.59;14.16
+2018;4;Sant Marti;la Vila Olimpica del Poblenou;1292.23;16.65
+2018;4;Sant Marti;el Poblenou;970.64;14.76
+2018;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1307.79;16.84
+2018;4;Sant Marti;el Besos i el Maresme;711.67;11.54
+2018;4;Sant Marti;Provencals del Poblenou;999.63;14.27
+2018;4;Sant Marti;Sant Marti de Provencals;823.46;11.77
+2018;4;Sant Marti;la Verneda i la Pau;756.1;11.81
+2019;1;Ciutat Vella;el Raval;822.6;14.1
+2019;1;Ciutat Vella;Gothic Quarter;1060.9;14.5
+2019;1;Ciutat Vella;la Barceloneta;891.3;16.8
+2019;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;990.2;14.7
+2019;1;Eixample;Fort Pienc;957.2;13.7
+2019;1;Eixample;Sagrada Familia;936.3;14.4
+2019;1;Eixample;la Dreta de l'Eixample;1269.1;13.9
+2019;1;Eixample;l'Antiga Esquerra de l'Eixample;1123;14.3
+2019;1;Eixample;la Nova Esquerra de l'Eixample;1008.5;13.9
+2019;1;Eixample;Sant Antoni;986.2;13.8
+2019;1;Sants-Montjuic;el Poble Sec;815.8;14.3
+2019;1;Sants-Montjuic;la Marina de Port;714.9;10.1
+2019;1;Sants-Montjuic;la Font de la Guatlla;857.6;12.9
+2019;1;Sants-Montjuic;Hostafrancs;810;14.1
+2019;1;Sants-Montjuic;la Bordeta;844.1;12.5
+2019;1;Sants-Montjuic;Sants - Badal;823.5;13.4
+2019;1;Sants-Montjuic;Sants;873;13.7
+2019;1;Les Corts;les Corts;1070;14.6
+2019;1;Les Corts;la Maternitat i Sant Ramon;938.5;13.8
+2019;1;Les Corts;Pedralbes;1732.5;16
+2019;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1103.5;11.4
+2019;1;Sarria-Sant Gervasi;Sarria;1297.7;16.3
+2019;1;Sarria-Sant Gervasi;les Tres Torres;1645.9;16.5
+2019;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1226.4;15.5
+2019;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1357.9;14.4
+2019;1;Sarria-Sant Gervasi;el Putxet i el Farro;1057.1;15.2
+2019;1;Gracia;Vallcarca i els Penitents;907.5;13.6
+2019;1;Gracia;el Coll;750.6;12.2
+2019;1;Gracia;la Salut;883.4;12.7
+2019;1;Gracia;la Vila de Gracia;933.4;14.8
+2019;1;Gracia;el Camp d'en Grassot i Gracia Nova;937.3;14.1
+2019;1;Horta-Guinardo;el Baix Guinardo;859.1;12.9
+2019;1;Horta-Guinardo;Can Baro;791.2;13.6
+2019;1;Horta-Guinardo;el Guinardo;789.8;12.4
+2019;1;Horta-Guinardo;la Font d'en Fargues;796.5;11.6
+2019;1;Horta-Guinardo;el Carmel;670.6;12
+2019;1;Horta-Guinardo;la Teixonera;704.4;11.7
+2019;1;Horta-Guinardo;Sant Genis dels Agudells;759.2;10.9
+2019;1;Horta-Guinardo;Montbau;780.4;11.6
+2019;1;Horta-Guinardo;la Vall d'Hebron;870.2;13.3
+2019;1;Horta-Guinardo;Horta;777;12.2
+2019;1;Nou Barris;Vilapicina i la Torre Llobeta;758.5;11.9
+2019;1;Nou Barris;Porta;722.8;11.6
+2019;1;Nou Barris;el Turo de la Peira;685.3;11.4
+2019;1;Nou Barris;la Guineueta;751;10.3
+2019;1;Nou Barris;Canyelles;791.9;9.6
+2019;1;Nou Barris;les Roquetes;636.1;11.8
+2019;1;Nou Barris;Verdun;633.2;10.7
+2019;1;Nou Barris;la Prosperitat;677.4;11.7
+2019;1;Nou Barris;la Trinitat Nova;612.3;12
+2019;1;Nou Barris;Ciutat Meridiana;575.4;9.8
+2019;1;Sant Andreu;la Trinitat Vella;601.2;10.3
+2019;1;Sant Andreu;el Bon Pastor;705.8;10.9
+2019;1;Sant Andreu;Sant Andreu;795.3;12.2
+2019;1;Sant Andreu;la Sagrera;807.6;12.4
+2019;1;Sant Andreu;el Congres i els Indians;772.3;11.5
+2019;1;Sant Andreu;Navas;855.3;12.3
+2019;1;Sant Marti;el Camp de l'Arpa del Clot;845.3;13.1
+2019;1;Sant Marti;el Clot;828.8;12.9
+2019;1;Sant Marti;el Parc i la Llacuna del Poblenou;950.8;14.7
+2019;1;Sant Marti;la Vila Olimpica del Poblenou;1304;17.1
+2019;1;Sant Marti;el Poblenou;952.5;14.4
+2019;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1231.2;16.3
+2019;1;Sant Marti;el Besos i el Maresme;694.8;11
+2019;1;Sant Marti;Provencals del Poblenou;959.2;13.9
+2019;1;Sant Marti;Sant Marti de Provencals;840.2;11.7
+2019;1;Sant Marti;la Verneda i la Pau;764.6;11.5
+2019;2;Ciutat Vella;el Raval;867;14.5
+2019;2;Ciutat Vella;Gothic Quarter;1112.1;14
+2019;2;Ciutat Vella;la Barceloneta;924;18.1
+2019;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1010.1;15.5
+2019;2;Eixample;Fort Pienc;988.7;13.6
+2019;2;Eixample;Sagrada Familia;942.9;14.4
+2019;2;Eixample;la Dreta de l'Eixample;1277.9;14.2
+2019;2;Eixample;l'Antiga Esquerra de l'Eixample;1139.8;14.1
+2019;2;Eixample;la Nova Esquerra de l'Eixample;1032.9;14.6
+2019;2;Eixample;Sant Antoni;985.2;14
+2019;2;Sants-Montjuic;el Poble Sec;823.4;14.2
+2019;2;Sants-Montjuic;la Marina de Port;753.1;10.6
+2019;2;Sants-Montjuic;la Font de la Guatlla;854.2;12.6
+2019;2;Sants-Montjuic;Hostafrancs;824.2;13.3
+2019;2;Sants-Montjuic;la Bordeta;859.5;12.4
+2019;2;Sants-Montjuic;Sants - Badal;858.4;13.8
+2019;2;Sants-Montjuic;Sants;867.5;13.9
+2019;2;Les Corts;les Corts;1085.1;14.9
+2019;2;Les Corts;la Maternitat i Sant Ramon;973;13.8
+2019;2;Les Corts;Pedralbes;1746.7;14.8
+2019;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1121.6;13.5
+2019;2;Sarria-Sant Gervasi;Sarria;1334.2;16.8
+2019;2;Sarria-Sant Gervasi;les Tres Torres;1602.5;16.9
+2019;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1310;15.7
+2019;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1360.3;15.5
+2019;2;Sarria-Sant Gervasi;el Putxet i el Farro;1115.7;14.8
+2019;2;Gracia;Vallcarca i els Penitents;1028.9;14.4
+2019;2;Gracia;el Coll;819.8;12.5
+2019;2;Gracia;la Salut;899.2;12.9
+2019;2;Gracia;la Vila de Gracia;951.2;15.2
+2019;2;Gracia;el Camp d'en Grassot i Gracia Nova;978.3;14.7
+2019;2;Horta-Guinardo;el Baix Guinardo;866.8;12.9
+2019;2;Horta-Guinardo;Can Baro;764.5;13
+2019;2;Horta-Guinardo;el Guinardo;825;12.9
+2019;2;Horta-Guinardo;la Font d'en Fargues;1044;13.9
+2019;2;Horta-Guinardo;el Carmel;666.9;11.5
+2019;2;Horta-Guinardo;la Teixonera;725.9;12.5
+2019;2;Horta-Guinardo;Sant Genis dels Agudells;705.1;9.9
+2019;2;Horta-Guinardo;Montbau;802.4;11.7
+2019;2;Horta-Guinardo;la Vall d'Hebron;796.6;12.5
+2019;2;Horta-Guinardo;Horta;760.6;12.1
+2019;2;Nou Barris;Vilapicina i la Torre Llobeta;773.7;12.2
+2019;2;Nou Barris;Porta;775.3;12.2
+2019;2;Nou Barris;el Turo de la Peira;702.4;12.1
+2019;2;Nou Barris;la Guineueta;723.1;9.8
+2019;2;Nou Barris;Canyelles;756.4;9.3
+2019;2;Nou Barris;les Roquetes;625.3;11.1
+2019;2;Nou Barris;Verdun;653.3;12.2
+2019;2;Nou Barris;la Prosperitat;673.7;12
+2019;2;Nou Barris;la Trinitat Nova;640.2;12.8
+2019;2;Nou Barris;Ciutat Meridiana;559.8;9.4
+2019;2;Sant Andreu;la Trinitat Vella;614.7;10.3
+2019;2;Sant Andreu;el Bon Pastor;659.2;10.1
+2019;2;Sant Andreu;Sant Andreu;800.9;12.7
+2019;2;Sant Andreu;la Sagrera;807.5;12.6
+2019;2;Sant Andreu;el Congres i els Indians;782.7;12.2
+2019;2;Sant Andreu;Navas;836.9;12.1
+2019;2;Sant Marti;el Camp de l'Arpa del Clot;844.3;13.5
+2019;2;Sant Marti;el Clot;829.4;12.9
+2019;2;Sant Marti;el Parc i la Llacuna del Poblenou;1066.6;15.2
+2019;2;Sant Marti;la Vila Olimpica del Poblenou;1444.6;17.4
+2019;2;Sant Marti;el Poblenou;996.7;14.6
+2019;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1388.1;16.1
+2019;2;Sant Marti;el Besos i el Maresme;844.5;12
+2019;2;Sant Marti;Provencals del Poblenou;960.1;13.6
+2019;2;Sant Marti;Sant Marti de Provencals;844.1;12.1
+2019;2;Sant Marti;la Verneda i la Pau;798.1;11.8
+2019;3;Ciutat Vella;el Raval;869.1;14.7
+2019;3;Ciutat Vella;Gothic Quarter;1082.4;14.3
+2019;3;Ciutat Vella;la Barceloneta;871.6;17.7
+2019;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1020.2;15.7
+2019;3;Eixample;Fort Pienc;1031.3;14.3
+2019;3;Eixample;Sagrada Familia;979.6;14.6
+2019;3;Eixample;la Dreta de l'Eixample;1348.9;15.2
+2019;3;Eixample;l'Antiga Esquerra de l'Eixample;1194.4;14.7
+2019;3;Eixample;la Nova Esquerra de l'Eixample;1081.4;14.6
+2019;3;Eixample;Sant Antoni;987.2;13.9
+2019;3;Sants-Montjuic;el Poble Sec;865.8;14.4
+2019;3;Sants-Montjuic;la Marina de Port;790.1;11.1
+2019;3;Sants-Montjuic;la Font de la Guatlla;881.5;13
+2019;3;Sants-Montjuic;Hostafrancs;834.6;14.1
+2019;3;Sants-Montjuic;la Bordeta;832.9;13.3
+2019;3;Sants-Montjuic;Sants - Badal;888.3;14.2
+2019;3;Sants-Montjuic;Sants;884.3;13.9
+2019;3;Les Corts;les Corts;1113.9;15.2
+2019;3;Les Corts;la Maternitat i Sant Ramon;1040.3;15
+2019;3;Les Corts;Pedralbes;1950.1;16.4
+2019;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1355.5;16
+2019;3;Sarria-Sant Gervasi;Sarria;1449.5;17.2
+2019;3;Sarria-Sant Gervasi;les Tres Torres;1614.8;17.3
+2019;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1317;16.5
+2019;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1412.2;15.9
+2019;3;Sarria-Sant Gervasi;el Putxet i el Farro;1070.2;15
+2019;3;Gracia;Vallcarca i els Penitents;953.7;13.9
+2019;3;Gracia;el Coll;813.8;12.8
+2019;3;Gracia;la Salut;926.4;13.7
+2019;3;Gracia;la Vila de Gracia;991.5;15.6
+2019;3;Gracia;el Camp d'en Grassot i Gracia Nova;996.3;15.2
+2019;3;Horta-Guinardo;el Baix Guinardo;902.2;14.2
+2019;3;Horta-Guinardo;Can Baro;762.5;13.5
+2019;3;Horta-Guinardo;el Guinardo;819.7;13
+2019;3;Horta-Guinardo;la Font d'en Fargues;880.2;12.8
+2019;3;Horta-Guinardo;el Carmel;703.3;12.8
+2019;3;Horta-Guinardo;la Teixonera;773.7;13.2
+2019;3;Horta-Guinardo;Sant Genis dels Agudells;756;10.4
+2019;3;Horta-Guinardo;Montbau;792.4;12.1
+2019;3;Horta-Guinardo;la Vall d'Hebron;830;13.4
+2019;3;Horta-Guinardo;Horta;788.6;12.6
+2019;3;Nou Barris;Vilapicina i la Torre Llobeta;792.2;12.1
+2019;3;Nou Barris;Porta;749.2;12.7
+2019;3;Nou Barris;el Turo de la Peira;690;11.6
+2019;3;Nou Barris;la Guineueta;721.1;10.5
+2019;3;Nou Barris;Canyelles;714.4;9.5
+2019;3;Nou Barris;les Roquetes;612.3;11.3
+2019;3;Nou Barris;Verdun;696.1;12.6
+2019;3;Nou Barris;la Prosperitat;696.3;12.6
+2019;3;Nou Barris;la Trinitat Nova;617.9;12.2
+2019;3;Nou Barris;Ciutat Meridiana;532.6;9.4
+2019;3;Sant Andreu;la Trinitat Vella;569.9;8.9
+2019;3;Sant Andreu;el Bon Pastor;654.3;10.3
+2019;3;Sant Andreu;Sant Andreu;805;12.5
+2019;3;Sant Andreu;la Sagrera;827.1;13.2
+2019;3;Sant Andreu;el Congres i els Indians;805.9;12.3
+2019;3;Sant Andreu;Navas;864.6;12.4
+2019;3;Sant Marti;el Camp de l'Arpa del Clot;879.5;13.6
+2019;3;Sant Marti;el Clot;899.1;13.8
+2019;3;Sant Marti;el Parc i la Llacuna del Poblenou;959.6;14.5
+2019;3;Sant Marti;la Vila Olimpica del Poblenou;1332.4;17.9
+2019;3;Sant Marti;el Poblenou;1024.3;15.5
+2019;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1409.4;18.5
+2019;3;Sant Marti;el Besos i el Maresme;728.3;11.6
+2019;3;Sant Marti;Provencals del Poblenou;996.4;14.4
+2019;3;Sant Marti;Sant Marti de Provencals;829.7;11.9
+2019;3;Sant Marti;la Verneda i la Pau;770.2;11.2
+2019;4;Ciutat Vella;el Raval;844.9;14
+2019;4;Ciutat Vella;Gothic Quarter;1139.7;14.3
+2019;4;Ciutat Vella;la Barceloneta;893;17
+2019;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;966.4;14.8
+2019;4;Eixample;Fort Pienc;1064.4;14.4
+2019;4;Eixample;Sagrada Familia;980;14.5
+2019;4;Eixample;la Dreta de l'Eixample;1333;14.3
+2019;4;Eixample;l'Antiga Esquerra de l'Eixample;1187.6;14.8
+2019;4;Eixample;la Nova Esquerra de l'Eixample;1083.7;14.9
+2019;4;Eixample;Sant Antoni;1018.4;13.8
+2019;4;Sants-Montjuic;el Poble Sec;846.2;14.5
+2019;4;Sants-Montjuic;la Marina del Prat Vermell;350.5;7.1
+2019;4;Sants-Montjuic;la Marina de Port;816.7;11.5
+2019;4;Sants-Montjuic;la Font de la Guatlla;868.8;12.8
+2019;4;Sants-Montjuic;Hostafrancs;854.4;13.9
+2019;4;Sants-Montjuic;la Bordeta;870;12.9
+2019;4;Sants-Montjuic;Sants - Badal;838;13.8
+2019;4;Sants-Montjuic;Sants;884.8;13.9
+2019;4;Les Corts;les Corts;1116.2;15.4
+2019;4;Les Corts;la Maternitat i Sant Ramon;1078.1;15
+2019;4;Les Corts;Pedralbes;2023.4;15.5
+2019;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1220;14.2
+2019;4;Sarria-Sant Gervasi;Sarria;1398.4;17
+2019;4;Sarria-Sant Gervasi;les Tres Torres;1745;17.4
+2019;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1361.6;16.4
+2019;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1455.9;15.2
+2019;4;Sarria-Sant Gervasi;el Putxet i el Farro;1099.8;15.1
+2019;4;Gracia;Vallcarca i els Penitents;987;14.2
+2019;4;Gracia;el Coll;817.5;13.2
+2019;4;Gracia;la Salut;954.4;13.2
+2019;4;Gracia;la Vila de Gracia;975.7;14.8
+2019;4;Gracia;el Camp d'en Grassot i Gracia Nova;1017.6;14.9
+2019;4;Horta-Guinardo;el Baix Guinardo;897.7;13.8
+2019;4;Horta-Guinardo;Can Baro;755.9;13.5
+2019;4;Horta-Guinardo;el Guinardo;843.1;13.4
+2019;4;Horta-Guinardo;la Font d'en Fargues;850.9;13.2
+2019;4;Horta-Guinardo;el Carmel;700.2;12.2
+2019;4;Horta-Guinardo;la Teixonera;747.3;12.8
+2019;4;Horta-Guinardo;Sant Genis dels Agudells;740.2;11.6
+2019;4;Horta-Guinardo;Montbau;798.5;12.2
+2019;4;Horta-Guinardo;la Vall d'Hebron;954.5;13.9
+2019;4;Horta-Guinardo;Horta;802.5;12.8
+2019;4;Nou Barris;Vilapicina i la Torre Llobeta;801.8;12.4
+2019;4;Nou Barris;Porta;756.8;12.7
+2019;4;Nou Barris;el Turo de la Peira;710.7;11.7
+2019;4;Nou Barris;la Guineueta;783;11.5
+2019;4;Nou Barris;Canyelles;722.5;9.5
+2019;4;Nou Barris;les Roquetes;610.5;10.9
+2019;4;Nou Barris;Verdun;668.7;13
+2019;4;Nou Barris;la Prosperitat;692.5;11.9
+2019;4;Nou Barris;la Trinitat Nova;561.4;11.5
+2019;4;Nou Barris;Ciutat Meridiana;572.9;10
+2019;4;Sant Andreu;la Trinitat Vella;622.3;10.8
+2019;4;Sant Andreu;el Bon Pastor;713.4;10.7
+2019;4;Sant Andreu;Sant Andreu;819.3;12.6
+2019;4;Sant Andreu;la Sagrera;829.1;12.5
+2019;4;Sant Andreu;el Congres i els Indians;816.7;12.3
+2019;4;Sant Andreu;Navas;856.8;12.9
+2019;4;Sant Marti;el Camp de l'Arpa del Clot;857.9;13.9
+2019;4;Sant Marti;el Clot;871.6;13.3
+2019;4;Sant Marti;el Parc i la Llacuna del Poblenou;1072.8;15.5
+2019;4;Sant Marti;la Vila Olimpica del Poblenou;1357.8;17.7
+2019;4;Sant Marti;el Poblenou;1051.3;15.9
+2019;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1498.6;18.5
+2019;4;Sant Marti;el Besos i el Maresme;693.8;10.8
+2019;4;Sant Marti;Provencals del Poblenou;1013.6;14.5
+2019;4;Sant Marti;Sant Marti de Provencals;835.7;12
+2019;4;Sant Marti;la Verneda i la Pau;781;11.4
+2020;1;Ciutat Vella;el Raval;864.5;14.5
+2020;1;Ciutat Vella;Gothic Quarter;1110.2;14.2
+2020;1;Ciutat Vella;la Barceloneta;899.5;17.5
+2020;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1030;14.9
+2020;1;Eixample;Fort Pienc;1059.9;14.6
+2020;1;Eixample;la Sagrada Familia;952.6;14.6
+2020;1;Eixample;la Dreta de l'Eixample;1349.6;14.4
+2020;1;Eixample;l'Antiga Esquerra de l'Eixample;1150.8;14.3
+2020;1;Eixample;la Nova Esquerra de l'Eixample;1043.8;14.4
+2020;1;Eixample;Sant Antoni;1010.5;14.1
+2020;1;Sants-Montjuic;el Poble Sec;837;14.3
+2020;1;Sants-Montjuic;la Marina de Port;810.1;11.5
+2020;1;Sants-Montjuic;la Font de la Guatlla;882.4;13.1
+2020;1;Sants-Montjuic;Hostafrancs;865;13.5
+2020;1;Sants-Montjuic;la Bordeta;870;13.4
+2020;1;Sants-Montjuic;Sants - Badal;858.3;13.8
+2020;1;Sants-Montjuic;Sants;891.4;14.5
+2020;1;Les Corts;les Corts;1069.9;15
+2020;1;Les Corts;la Maternitat i Sant Ramon;989.6;14.2
+2020;1;Les Corts;Pedralbes;1626.9;15.6
+2020;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1191.3;12.2
+2020;1;Sarria-Sant Gervasi;Sarria;1417.7;16.9
+2020;1;Sarria-Sant Gervasi;les Tres Torres;1662.4;16.3
+2020;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1311.5;15.8
+2020;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1388.9;15.4
+2020;1;Sarria-Sant Gervasi;el Putxet i el Farro;1053.9;15.1
+2020;1;Gracia;Vallcarca i els Penitents;966.4;14.2
+2020;1;Gracia;el Coll;814.8;12.7
+2020;1;Gracia;la Salut;939.7;14.2
+2020;1;Gracia;la Vila de Gracia;963.6;14.9
+2020;1;Gracia;el Camp d'en Grassot i Gracia Nova;967.9;14
+2020;1;Horta-Guinardo;el Baix Guinardo;920.8;13.8
+2020;1;Horta-Guinardo;Can Baro;816.4;12.9
+2020;1;Horta-Guinardo;el Guinardo;841;13.6
+2020;1;Horta-Guinardo;la Font d'en Fargues;928.3;12.2
+2020;1;Horta-Guinardo;el Carmel;707.9;12.3
+2020;1;Horta-Guinardo;la Teixonera;741.3;11.6
+2020;1;Horta-Guinardo;Sant Genis dels Agudells;698.9;10.2
+2020;1;Horta-Guinardo;Montbau;788.1;11.8
+2020;1;Horta-Guinardo;la Vall d'Hebron;963.4;12.5
+2020;1;Horta-Guinardo;Horta;815.7;13
+2020;1;Nou Barris;Vilapicina i la Torre Llobeta;789.9;12.3
+2020;1;Nou Barris;Porta;690.4;11.4
+2020;1;Nou Barris;el Turo de la Peira;686.4;11.4
+2020;1;Nou Barris;la Guineueta;735.4;10.2
+2020;1;Nou Barris;Canyelles;778;10.1
+2020;1;Nou Barris;les Roquetes;636.8;11.6
+2020;1;Nou Barris;Verdun;675.4;11.9
+2020;1;Nou Barris;la Prosperitat;714.8;12.6
+2020;1;Nou Barris;la Trinitat Nova;565.8;11.8
+2020;1;Nou Barris;Torre Baro;452;6.2
+2020;1;Nou Barris;Ciutat Meridiana;546.1;9.3
+2020;1;Sant Andreu;la Trinitat Vella;605;10.1
+2020;1;Sant Andreu;Baro de Viver;584.1;7.9
+2020;1;Sant Andreu;el Bon Pastor;725.8;12.3
+2020;1;Sant Andreu;Sant Andreu;798.9;12.4
+2020;1;Sant Andreu;la Sagrera;777.2;12.7
+2020;1;Sant Andreu;el Congres i els Indians;815.5;12.9
+2020;1;Sant Andreu;Navas;873;12.7
+2020;1;Sant Marti;el Camp de l'Arpa del Clot;887.3;14.3
+2020;1;Sant Marti;el Clot;865.8;13.4
+2020;1;Sant Marti;el Parc i la Llacuna del Poblenou;969.1;14.2
+2020;1;Sant Marti;la Vila Olimpica del Poblenou;1427.5;17.4
+2020;1;Sant Marti;el Poblenou;1037;15.2
+2020;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1233.2;15.8
+2020;1;Sant Marti;el Besos i el Maresme;749.7;12.1
+2020;1;Sant Marti;Provencals del Poblenou;1000.1;14.3
+2020;1;Sant Marti;Sant Martíide Provencals;863;11.9
+2020;1;Sant Marti;la Verneda i la Pau;765.3;11.3
+2020;2;Ciutat Vella;el Raval;853.3;14.7
+2020;2;Ciutat Vella;Gothic Quarter;1041;13.4
+2020;2;Ciutat Vella;la Barceloneta;856.5;17.1
+2020;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;919.8;14.9
+2020;2;Eixample;Fort Pienc;999.9;13.4
+2020;2;Eixample;la Sagrada Familia;943.5;14.2
+2020;2;Eixample;la Dreta de l'Eixample;1249.4;14.3
+2020;2;Eixample;l'Antiga Esquerra de l'Eixample;1159;14.2
+2020;2;Eixample;la Nova Esquerra de l'Eixample;1029.5;14.3
+2020;2;Eixample;Sant Antoni;986.1;14.1
+2020;2;Sants-Montjuic;el Poble Sec;856.2;14.9
+2020;2;Sants-Montjuic;la Marina de Port;687.8;9.8
+2020;2;Sants-Montjuic;la Font de la Guatlla;825.5;11.9
+2020;2;Sants-Montjuic;Hostafrancs;867.8;13.5
+2020;2;Sants-Montjuic;la Bordeta;893.6;12.4
+2020;2;Sants-Montjuic;Sants - Badal;849.5;14.3
+2020;2;Sants-Montjuic;Sants;874.3;12.9
+2020;2;Les Corts;les Corts;1096.6;15.3
+2020;2;Les Corts;la Maternitat i Sant Ramon;946.1;13.8
+2020;2;Les Corts;Pedralbes;1822.7;16.8
+2020;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1078.1;11.7
+2020;2;Sarria-Sant Gervasi;Sarria;1432.2;18
+2020;2;Sarria-Sant Gervasi;les Tres Torres;1679.1;18
+2020;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1272.1;14.7
+2020;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1304.4;15.8
+2020;2;Sarria-Sant Gervasi;el Putxet i el Farro;1073.3;15.8
+2020;2;Gracia;Vallcarca i els Penitents;1060.5;15.5
+2020;2;Gracia;el Coll;910.3;13.9
+2020;2;Gracia;la Salut;998.5;14.6
+2020;2;Gracia;la Vila de Gracia;950.9;14.7
+2020;2;Gracia;el Camp d'en Grassot i Gracia Nova;968.7;14.2
+2020;2;Horta-Guinardo;el Baix Guinardo;916.1;14
+2020;2;Horta-Guinardo;Can Baro;739.3;13
+2020;2;Horta-Guinardo;el Guinardo;860.4;13.5
+2020;2;Horta-Guinardo;la Font d'en Fargues;997.3;12.8
+2020;2;Horta-Guinardo;el Carmel;682.8;12.1
+2020;2;Horta-Guinardo;la Teixonera;695.6;13.3
+2020;2;Horta-Guinardo;Sant Genis dels Agudells;791.3;12
+2020;2;Horta-Guinardo;Montbau;758.9;9.8
+2020;2;Horta-Guinardo;la Vall d'Hebron;879.2;13
+2020;2;Horta-Guinardo;Horta;767.6;12.4
+2020;2;Nou Barris;Vilapicina i la Torre Llobeta;803.2;12.1
+2020;2;Nou Barris;Porta;725.9;12.1
+2020;2;Nou Barris;el Turo de la Peira;721.3;12.3
+2020;2;Nou Barris;la Guineueta;686.6;10.1
+2020;2;Nou Barris;les Roquetes;633.8;11.6
+2020;2;Nou Barris;Verdun;603.9;11.1
+2020;2;Nou Barris;la Prosperitat;707.8;12.6
+2020;2;Nou Barris;la Trinitat Nova;623.8;12.6
+2020;2;Nou Barris;Ciutat Meridiana;508.4;8.5
+2020;2;Sant Andreu;la Trinitat Vella;701;11.6
+2020;2;Sant Andreu;el Bon Pastor;759.5;11.9
+2020;2;Sant Andreu;Sant Andreu;835.3;12.8
+2020;2;Sant Andreu;la Sagrera;809.5;12.1
+2020;2;Sant Andreu;el Congres i els Indians;788.2;11.4
+2020;2;Sant Andreu;Navas;898.5;13.1
+2020;2;Sant Marti;el Camp de l'Arpa del Clot;853.8;13.5
+2020;2;Sant Marti;el Clot;890.9;13.6
+2020;2;Sant Marti;el Parc i la Llacuna del Poblenou;975.7;15.2
+2020;2;Sant Marti;la Vila Olimpica del Poblenou;1446.1;20.9
+2020;2;Sant Marti;el Poblenou;987.1;14.7
+2020;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;840.9;17
+2020;2;Sant Marti;el Besos i el Maresme;696.9;11
+2020;2;Sant Marti;Provencals del Poblenou;1076.6;15.6
+2020;2;Sant Marti;Sant Martíide Provencals;854.3;11.8
+2020;2;Sant Marti;la Verneda i la Pau;767.5;11.3
+2020;3;Ciutat Vella;el Raval;833.9;14
+2020;3;Ciutat Vella;Gothic Quarter;982.5;13.6
+2020;3;Ciutat Vella;la Barceloneta;823.1;18.2
+2020;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;970.9;14.6
+2020;3;Eixample;Fort Pienc;997.4;13.9
+2020;3;Eixample;la Sagrada Familia;973;14.7
+2020;3;Eixample;la Dreta de l'Eixample;1273.9;14.4
+2020;3;Eixample;l'Antiga Esquerra de l'Eixample;1192.3;14.8
+2020;3;Eixample;la Nova Esquerra de l'Eixample;1067.4;15
+2020;3;Eixample;Sant Antoni;959.3;14
+2020;3;Sants-Montjuic;el Poble Sec;820.2;14.1
+2020;3;Sants-Montjuic;la Marina de Port;828.2;11.7
+2020;3;Sants-Montjuic;la Font de la Guatlla;873.9;13.8
+2020;3;Sants-Montjuic;Hostafrancs;842.1;14.6
+2020;3;Sants-Montjuic;la Bordeta;892.3;13.3
+2020;3;Sants-Montjuic;Sants - Badal;858.2;14.1
+2020;3;Sants-Montjuic;Sants;883.1;14.2
+2020;3;Les Corts;les Corts;1058.1;14.9
+2020;3;Les Corts;la Maternitat i Sant Ramon;1012.4;14.1
+2020;3;Les Corts;Pedralbes;1932.3;15.4
+2020;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1192.8;13.2
+2020;3;Sarria-Sant Gervasi;Sarria;1314.4;17.4
+2020;3;Sarria-Sant Gervasi;les Tres Torres;1699.4;15.9
+2020;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1321.9;15.5
+2020;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1427.9;15.6
+2020;3;Sarria-Sant Gervasi;el Putxet i el Farro;1073.4;15.4
+2020;3;Gracia;Vallcarca i els Penitents;909.9;13.9
+2020;3;Gracia;el Coll;777.6;11.2
+2020;3;Gracia;la Salut;1001.2;13.4
+2020;3;Gracia;la Vila de Gracia;956.5;15.1
+2020;3;Gracia;el Camp d'en Grassot i Gracia Nova;958.2;14.7
+2020;3;Horta-Guinardo;el Baix Guinardo;901;14.3
+2020;3;Horta-Guinardo;Can Baro;848.5;13.2
+2020;3;Horta-Guinardo;el Guinardo;825.8;13.2
+2020;3;Horta-Guinardo;la Font d'en Fargues;926.5;14.5
+2020;3;Horta-Guinardo;el Carmel;706;12.3
+2020;3;Horta-Guinardo;la Teixonera;748.5;11.9
+2020;3;Horta-Guinardo;Sant Genis dels Agudells;787.4;10.9
+2020;3;Horta-Guinardo;Montbau;770.2;12.1
+2020;3;Horta-Guinardo;la Vall d'Hebron;830;12.4
+2020;3;Horta-Guinardo;Horta;788;12.7
+2020;3;Nou Barris;Vilapicina i la Torre Llobeta;842;13.1
+2020;3;Nou Barris;Porta;759.3;12.8
+2020;3;Nou Barris;el Turo de la Peira;712.8;11.7
+2020;3;Nou Barris;la Guineueta;771.4;11.3
+2020;3;Nou Barris;Canyelles;833.3;10.2
+2020;3;Nou Barris;les Roquetes;627;11.8
+2020;3;Nou Barris;Verdun;692.2;12.4
+2020;3;Nou Barris;la Prosperitat;712.1;12.5
+2020;3;Nou Barris;la Trinitat Nova;583.8;11
+2020;3;Nou Barris;Ciutat Meridiana;572.4;9.9
+2020;3;Sant Andreu;la Trinitat Vella;668.5;11.1
+2020;3;Sant Andreu;el Bon Pastor;738;12.6
+2020;3;Sant Andreu;Sant Andreu;825.9;12.7
+2020;3;Sant Andreu;la Sagrera;795;12.4
+2020;3;Sant Andreu;el Congres i els Indians;834.2;12.7
+2020;3;Sant Andreu;Navas;858.4;12.6
+2020;3;Sant Marti;el Camp de l'Arpa del Clot;894.2;13.7
+2020;3;Sant Marti;el Clot;869.1;13.4
+2020;3;Sant Marti;el Parc i la Llacuna del Poblenou;1006.3;14.7
+2020;3;Sant Marti;la Vila Olimpica del Poblenou;1346.7;17.3
+2020;3;Sant Marti;el Poblenou;1006.9;15.2
+2020;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1074.4;16.5
+2020;3;Sant Marti;el Besos i el Maresme;801.5;12.3
+2020;3;Sant Marti;Provencals del Poblenou;956.8;14.2
+2020;3;Sant Marti;Sant Martíide Provencals;822.4;11.7
+2020;3;Sant Marti;la Verneda i la Pau;782.4;11.8
+2020;4;Ciutat Vella;el Raval;787;13.1
+2020;4;Ciutat Vella;Gothic Quarter;1003.9;13.1
+2020;4;Ciutat Vella;la Barceloneta;875;16.5
+2020;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;888.9;14.2
+2020;4;Eixample;Fort Pienc;959.5;13.5
+2020;4;Eixample;la Sagrada Familia;902.1;13.7
+2020;4;Eixample;la Dreta de l'Eixample;1208.8;13.6
+2020;4;Eixample;l'Antiga Esquerra de l'Eixample;1126;13.9
+2020;4;Eixample;la Nova Esquerra de l'Eixample;1001.4;14
+2020;4;Eixample;Sant Antoni;940.7;13.6
+2020;4;Sants-Montjuic;el Poble Sec;810.2;14
+2020;4;Sants-Montjuic;la Marina de Port;762.7;10.8
+2020;4;Sants-Montjuic;la Font de la Guatlla;834.3;13.6
+2020;4;Sants-Montjuic;Hostafrancs;842.9;14
+2020;4;Sants-Montjuic;la Bordeta;817.4;12.5
+2020;4;Sants-Montjuic;Sants - Badal;823.2;13.5
+2020;4;Sants-Montjuic;Sants;850.3;13.5
+2020;4;Les Corts;les Corts;1037.9;14.4
+2020;4;Les Corts;la Maternitat i Sant Ramon;993.3;13.7
+2020;4;Les Corts;Pedralbes;1577.1;15.1
+2020;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1390;11.6
+2020;4;Sarria-Sant Gervasi;Sarria;1338.4;16.2
+2020;4;Sarria-Sant Gervasi;les Tres Torres;1729.5;16.8
+2020;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1286;14.9
+2020;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1307.1;14.7
+2020;4;Sarria-Sant Gervasi;el Putxet i el Farro;1033.3;14.5
+2020;4;Gracia;Vallcarca i els Penitents;1026.8;14.5
+2020;4;Gracia;el Coll;790.4;12
+2020;4;Gracia;la Salut;941.5;12.8
+2020;4;Gracia;la Vila de Gracia;943.2;14.8
+2020;4;Gracia;el Camp d'en Grassot i Gracia Nova;928.8;13.6
+2020;4;Horta-Guinardo;el Baix Guinardo;845.6;13.2
+2020;4;Horta-Guinardo;Can Baro;716.3;12.6
+2020;4;Horta-Guinardo;el Guinardo;786.5;12.7
+2020;4;Horta-Guinardo;la Font d'en Fargues;856.4;12.5
+2020;4;Horta-Guinardo;el Carmel;651.4;11.4
+2020;4;Horta-Guinardo;la Teixonera;679;12
+2020;4;Horta-Guinardo;Sant Genis dels Agudells;671.7;9.7
+2020;4;Horta-Guinardo;Montbau;798.3;12.6
+2020;4;Horta-Guinardo;la Vall d'Hebron;817.1;11.4
+2020;4;Horta-Guinardo;Horta;747.5;12.1
+2020;4;Nou Barris;Vilapicina i la Torre Llobeta;751.8;11.7
+2020;4;Nou Barris;Porta;723.6;12
+2020;4;Nou Barris;el Turo de la Peira;681.3;11.4
+2020;4;Nou Barris;la Guineueta;750.2;10.7
+2020;4;Nou Barris;Canyelles;756.1;9.5
+2020;4;Nou Barris;les Roquetes;651.3;11.6
+2020;4;Nou Barris;Verdun;644.4;12.2
+2020;4;Nou Barris;la Prosperitat;673.8;12.1
+2020;4;Nou Barris;la Trinitat Nova;600.2;11.9
+2020;4;Nou Barris;Ciutat Meridiana;514.1;8.8
+2020;4;Sant Andreu;la Trinitat Vella;610;10.9
+2020;4;Sant Andreu;el Bon Pastor;688.9;10.7
+2020;4;Sant Andreu;Sant Andreu;794;12.3
+2020;4;Sant Andreu;la Sagrera;766.6;12.3
+2020;4;Sant Andreu;el Congres i els Indians;779.4;12.6
+2020;4;Sant Andreu;Navas;846.3;12.5
+2020;4;Sant Marti;el Camp de l'Arpa del Clot;817.7;12.9
+2020;4;Sant Marti;el Clot;870.8;13.1
+2020;4;Sant Marti;el Parc i la Llacuna del Poblenou;952.2;13.8
+2020;4;Sant Marti;la Vila Olimpica del Poblenou;1332.4;16.8
+2020;4;Sant Marti;el Poblenou;974.7;14.5
+2020;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1392.6;17.5
+2020;4;Sant Marti;el Besos i el Maresme;731.6;11.7
+2020;4;Sant Marti;Provencals del Poblenou;859.9;12.6
+2020;4;Sant Marti;Sant Martíide Provencals;807.4;11.8
+2020;4;Sant Marti;la Verneda i la Pau;765.9;11.6
+2021;1;Ciutat Vella;el Raval;759.2;12.8
+2021;1;Ciutat Vella;Gothic Quarter;929.6;12.3
+2021;1;Ciutat Vella;la Barceloneta;808.9;15.5
+2021;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;879.4;13.3
+2021;1;Eixample;Fort Pienc;918;12.9
+2021;1;Eixample;la Sagrada Familia;887.1;13.5
+2021;1;Eixample;la Dreta de l'Eixample;1176.7;13
+2021;1;Eixample;l'Antiga Esquerra de l'Eixample;1040.2;13.7
+2021;1;Eixample;la Nova Esquerra de l'Eixample;964;13.6
+2021;1;Eixample;Sant Antoni;898.7;12.5
+2021;1;Sants-Montjuic;el Poble Sec;781.6;13.5
+2021;1;Sants-Montjuic;la Marina de Port;810.6;11.6
+2021;1;Sants-Montjuic;la Font de la Guatlla;799.5;12.7
+2021;1;Sants-Montjuic;Hostafrancs;778.4;12.9
+2021;1;Sants-Montjuic;la Bordeta;807.6;12.2
+2021;1;Sants-Montjuic;Sants - Badal;788.1;13
+2021;1;Sants-Montjuic;Sants;829.1;13.2
+2021;1;Les Corts;les Corts;990.3;13.8
+2021;1;Les Corts;la Maternitat i Sant Ramon;927.3;12.5
+2021;1;Les Corts;Pedralbes;1598.2;14
+2021;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1531.7;15.7
+2021;1;Sarria-Sant Gervasi;Sarria;1263.9;15.6
+2021;1;Sarria-Sant Gervasi;les Tres Torres;1578;16
+2021;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1264.8;15.2
+2021;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1294.9;14.3
+2021;1;Sarria-Sant Gervasi;el Putxet i el Farro;990.1;14.1
+2021;1;Gracia;Vallcarca i els Penitents;959;13.6
+2021;1;Gracia;el Coll;745.4;12.5
+2021;1;Gracia;la Salut;859.1;12.8
+2021;1;Gracia;la Vila de Gracia;910.6;14.2
+2021;1;Gracia;el Camp d'en Grassot i Gracia Nova;865.3;13.6
+2021;1;Horta-Guinardo;el Baix Guinardo;817.3;12.3
+2021;1;Horta-Guinardo;Can Baro;741.1;12.7
+2021;1;Horta-Guinardo;el Guinardo;791.7;12.3
+2021;1;Horta-Guinardo;la Font d'en Fargues;795;12.3
+2021;1;Horta-Guinardo;el Carmel;668.8;11.4
+2021;1;Horta-Guinardo;la Teixonera;716.1;11.8
+2021;1;Horta-Guinardo;Sant Genis dels Agudells;700.5;10.4
+2021;1;Horta-Guinardo;Montbau;741.4;11.2
+2021;1;Horta-Guinardo;la Vall d'Hebron;827;11.9
+2021;1;Horta-Guinardo;Horta;747.4;11.8
+2021;1;Nou Barris;Vilapicina i la Torre Llobeta;736.5;11.3
+2021;1;Nou Barris;Porta;707.2;11.5
+2021;1;Nou Barris;el Turo de la Peira;687.2;11
+2021;1;Nou Barris;la Guineueta;691.6;9.9
+2021;1;Nou Barris;Canyelles;762.5;9.3
+2021;1;Nou Barris;les Roquetes;643.6;11.6
+2021;1;Nou Barris;Verdun;631.6;12.5
+2021;1;Nou Barris;la Prosperitat;671.8;11.8
+2021;1;Nou Barris;la Trinitat Nova;605;11.5
+2021;1;Nou Barris;Ciutat Meridiana;520.2;9
+2021;1;Sant Andreu;la Trinitat Vella;625.1;10.7
+2021;1;Sant Andreu;el Bon Pastor;658.9;10.9
+2021;1;Sant Andreu;Sant Andreu;762.5;11.7
+2021;1;Sant Andreu;la Sagrera;759.3;12.1
+2021;1;Sant Andreu;el Congres i els Indians;756.9;11.7
+2021;1;Sant Andreu;Navas;824.2;12.2
+2021;1;Sant Marti;el Camp de l'Arpa del Clot;814.5;12.9
+2021;1;Sant Marti;el Clot;853.6;13
+2021;1;Sant Marti;el Parc i la Llacuna del Poblenou;927.5;13.5
+2021;1;Sant Marti;la Vila Olimpica del Poblenou;1298.9;17.3
+2021;1;Sant Marti;el Poblenou;928.5;14.3
+2021;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;978.4;15.1
+2021;1;Sant Marti;el Besos i el Maresme;704.2;11.4
+2021;1;Sant Marti;Provencals del Poblenou;976.7;13.5
+2021;1;Sant Marti;Sant Martíide Provencals;794.6;11.3
+2021;1;Sant Marti;la Verneda i la Pau;740.8;11.1
+2021;2;Ciutat Vella;el Raval;774.2;12.9
+2021;2;Ciutat Vella;Gothic Quarter;934.1;12.7
+2021;2;Ciutat Vella;la Barceloneta;814.8;15.9
+2021;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;862.1;13.6
+2021;2;Eixample;Fort Pienc;907.1;12.7
+2021;2;Eixample;la Sagrada Familia;887.4;13.5
+2021;2;Eixample;la Dreta de l'Eixample;1196.3;13.1
+2021;2;Eixample;l'Antiga Esquerra de l'Eixample;1070.1;13.3
+2021;2;Eixample;la Nova Esquerra de l'Eixample;953.3;13.2
+2021;2;Eixample;Sant Antoni;928.8;13
+2021;2;Sants-Montjuic;el Poble Sec;773.7;13.5
+2021;2;Sants-Montjuic;la Marina de Port;772.4;10.8
+2021;2;Sants-Montjuic;la Font de la Guatlla;810.8;12.5
+2021;2;Sants-Montjuic;Hostafrancs;772.8;13.1
+2021;2;Sants-Montjuic;la Bordeta;815.4;12
+2021;2;Sants-Montjuic;Sants - Badal;778.1;13.1
+2021;2;Sants-Montjuic;Sants;815.4;13.2
+2021;2;Les Corts;les Corts;998.8;13.8
+2021;2;Les Corts;la Maternitat i Sant Ramon;904.8;13.3
+2021;2;Les Corts;Pedralbes;1680.3;15.5
+2021;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1074.7;13
+2021;2;Sarria-Sant Gervasi;Sarria;1298;15.9
+2021;2;Sarria-Sant Gervasi;les Tres Torres;1429;15
+2021;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1226.1;14.7
+2021;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1339.1;14.5
+2021;2;Sarria-Sant Gervasi;el Putxet i el Farro;1024.4;14.2
+2021;2;Gracia;Vallcarca i els Penitents;924.5;13.6
+2021;2;Gracia;el Coll;796.8;12.8
+2021;2;Gracia;la Salut;859.2;12.1
+2021;2;Gracia;la Vila de Gracia;881;13.9
+2021;2;Gracia;el Camp d'en Grassot i Gracia Nova;880.1;13.6
+2021;2;Horta-Guinardo;el Baix Guinardo;820.2;12.8
+2021;2;Horta-Guinardo;Can Baro;773.5;12.4
+2021;2;Horta-Guinardo;el Guinardo;818.2;12.8
+2021;2;Horta-Guinardo;la Font d'en Fargues;817.7;11.8
+2021;2;Horta-Guinardo;el Carmel;667.6;11.6
+2021;2;Horta-Guinardo;la Teixonera;713.8;12
+2021;2;Horta-Guinardo;Sant Genis dels Agudells;653.5;10.2
+2021;2;Horta-Guinardo;Montbau;729.9;10.9
+2021;2;Horta-Guinardo;la Vall d'Hebron;884.2;13.4
+2021;2;Horta-Guinardo;Horta;734.9;11.8
+2021;2;Nou Barris;Vilapicina i la Torre Llobeta;754.4;11.8
+2021;2;Nou Barris;Porta;698.5;11.1
+2021;2;Nou Barris;el Turo de la Peira;671.8;11.4
+2021;2;Nou Barris;la Guineueta;698.3;10.1
+2021;2;Nou Barris;Canyelles;673.8;8.7
+2021;2;Nou Barris;les Roquetes;608.7;11.2
+2021;2;Nou Barris;Verdun;648.9;12.7
+2021;2;Nou Barris;la Prosperitat;680.9;12.1
+2021;2;Nou Barris;la Trinitat Nova;598.6;11.9
+2021;2;Nou Barris;Ciutat Meridiana;488.1;8.1
+2021;2;Sant Andreu;la Trinitat Vella;592.4;10.1
+2021;2;Sant Andreu;Baro de Viver;447.5;6.7
+2021;2;Sant Andreu;el Bon Pastor;741.9;11.3
+2021;2;Sant Andreu;Sant Andreu;757.2;11.9
+2021;2;Sant Andreu;la Sagrera;737.4;11.4
+2021;2;Sant Andreu;el Congres i els Indians;791.3;11.3
+2021;2;Sant Andreu;Navas;827.2;11.7
+2021;2;Sant Marti;el Camp de l'Arpa del Clot;795.6;12.9
+2021;2;Sant Marti;el Clot;786.4;12.6
+2021;2;Sant Marti;el Parc i la Llacuna del Poblenou;911.1;13.9
+2021;2;Sant Marti;la Vila Olimpica del Poblenou;1248.6;17.3
+2021;2;Sant Marti;el Poblenou;912.4;14.1
+2021;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;948.3;15.8
+2021;2;Sant Marti;el Besos i el Maresme;700.8;11.2
+2021;2;Sant Marti;Provencals del Poblenou;884.8;13.2
+2021;2;Sant Marti;Sant Martíide Provencals;799.7;11.3
+2021;2;Sant Marti;la Verneda i la Pau;728.2;10.9
+2021;3;Ciutat Vella;el Raval;770.5;12.9
+2021;3;Ciutat Vella;Gothic Quarter;968.4;12.9
+2021;3;Ciutat Vella;la Barceloneta;826;16.3
+2021;3;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;889.1;13.4
+2021;3;Eixample;Fort Pienc;970.2;13.2
+2021;3;Eixample;la Sagrada Familia;912.4;13.6
+2021;3;Eixample;la Dreta de l'Eixample;1168.4;13
+2021;3;Eixample;l'Antiga Esquerra de l'Eixample;1072.9;13.6
+2021;3;Eixample;la Nova Esquerra de l'Eixample;968.6;13.3
+2021;3;Eixample;Sant Antoni;934.3;13
+2021;3;Sants-Montjuic;el Poble Sec;787;13.8
+2021;3;Sants-Montjuic;la Marina de Port;698.5;10.2
+2021;3;Sants-Montjuic;la Font de la Guatlla;858.7;12.7
+2021;3;Sants-Montjuic;Hostafrancs;804.6;13
+2021;3;Sants-Montjuic;la Bordeta;832.5;12.3
+2021;3;Sants-Montjuic;Sants - Badal;805.9;13.5
+2021;3;Sants-Montjuic;Sants;836.7;12.9
+2021;3;Les Corts;les Corts;1017;14.3
+2021;3;Les Corts;la Maternitat i Sant Ramon;982.9;13
+2021;3;Les Corts;Pedralbes;1816.5;15.8
+2021;3;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1009.5;11.4
+2021;3;Sarria-Sant Gervasi;Sarria;1345.2;16.1
+2021;3;Sarria-Sant Gervasi;les Tres Torres;1566.5;15.5
+2021;3;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1159.6;15.3
+2021;3;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1352.5;14.7
+2021;3;Sarria-Sant Gervasi;el Putxet i el Farro;1004.7;14.1
+2021;3;Gracia;Vallcarca i els Penitents;961;13.8
+2021;3;Gracia;el Coll;755.5;12.9
+2021;3;Gracia;la Salut;934.6;12.8
+2021;3;Gracia;la Vila de Gracia;891.6;14.2
+2021;3;Gracia;el Camp d'en Grassot i Gracia Nova;899.7;13.7
+2021;3;Horta-Guinardo;el Baix Guinardo;836.3;12.7
+2021;3;Horta-Guinardo;Can Baro;753.7;12.6
+2021;3;Horta-Guinardo;el Guinardo;823.6;12.7
+2021;3;Horta-Guinardo;la Font d'en Fargues;817.3;12.4
+2021;3;Horta-Guinardo;el Carmel;679.3;11.9
+2021;3;Horta-Guinardo;la Teixonera;686.3;11.7
+2021;3;Horta-Guinardo;Sant Genis dels Agudells;785.6;11.1
+2021;3;Horta-Guinardo;Montbau;745.9;11.3
+2021;3;Horta-Guinardo;la Vall d'Hebron;878.1;12.1
+2021;3;Horta-Guinardo;Horta;754.9;12.1
+2021;3;Nou Barris;Vilapicina i la Torre Llobeta;747.5;11.3
+2021;3;Nou Barris;Porta;712.8;11.7
+2021;3;Nou Barris;el Turo de la Peira;681.8;11.2
+2021;3;Nou Barris;la Guineueta;653.2;9.4
+2021;3;Nou Barris;Canyelles;769.9;10
+2021;3;Nou Barris;les Roquetes;628.7;11.5
+2021;3;Nou Barris;Verdun;666.6;12
+2021;3;Nou Barris;la Prosperitat;669.5;11.6
+2021;3;Nou Barris;la Trinitat Nova;610.4;11.6
+2021;3;Nou Barris;Ciutat Meridiana;547.7;9.3
+2021;3;Sant Andreu;la Trinitat Vella;585;10.2
+2021;3;Sant Andreu;el Bon Pastor;644.1;10.2
+2021;3;Sant Andreu;Sant Andreu;792.9;12.1
+2021;3;Sant Andreu;la Sagrera;772.8;11.7
+2021;3;Sant Andreu;el Congres i els Indians;751.9;11.6
+2021;3;Sant Andreu;Navas;805.3;11.6
+2021;3;Sant Marti;el Camp de l'Arpa del Clot;830.8;13.1
+2021;3;Sant Marti;el Clot;822.2;13
+2021;3;Sant Marti;el Parc i la Llacuna del Poblenou;1024.4;15
+2021;3;Sant Marti;la Vila Olimpica del Poblenou;1343.1;16.2
+2021;3;Sant Marti;el Poblenou;971.3;14.6
+2021;3;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1162.9;16.9
+2021;3;Sant Marti;el Besos i el Maresme;736.1;12.1
+2021;3;Sant Marti;Provencals del Poblenou;962.7;13.4
+2021;3;Sant Marti;Sant Martíide Provencals;804.2;11.6
+2021;3;Sant Marti;la Verneda i la Pau;752.9;11
+2021;4;Ciutat Vella;el Raval;772.8;13.1
+2021;4;Ciutat Vella;Gothic Quarter;953;12.4
+2021;4;Ciutat Vella;la Barceloneta;877.9;16.4
+2021;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;922.8;14
+2021;4;Eixample;Fort Pienc;976.9;13.3
+2021;4;Eixample;la Sagrada Familia;924.4;13.7
+2021;4;Eixample;la Dreta de l'Eixample;1220.8;13.5
+2021;4;Eixample;l'Antiga Esquerra de l'Eixample;1114.9;14
+2021;4;Eixample;la Nova Esquerra de l'Eixample;965.9;13.6
+2021;4;Eixample;Sant Antoni;955.7;13.4
+2021;4;Sants-Montjuic;el Poble Sec;777.9;13.7
+2021;4;Sants-Montjuic;la Marina de Port;691.9;10.2
+2021;4;Sants-Montjuic;la Font de la Guatlla;827.2;13
+2021;4;Sants-Montjuic;Hostafrancs;809.5;13.4
+2021;4;Sants-Montjuic;la Bordeta;872.5;12.8
+2021;4;Sants-Montjuic;Sants - Badal;800;13
+2021;4;Sants-Montjuic;Sants;833.7;13.2
+2021;4;Les Corts;les Corts;1052.8;14.2
+2021;4;Les Corts;la Maternitat i Sant Ramon;920.6;13.1
+2021;4;Les Corts;Pedralbes;1679.3;14.8
+2021;4;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1214.5;18
+2021;4;Sarria-Sant Gervasi;Sarria;1292.9;16
+2021;4;Sarria-Sant Gervasi;les Tres Torres;1597.4;16.4
+2021;4;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1219.6;15.4
+2021;4;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1433.7;14.6
+2021;4;Sarria-Sant Gervasi;el Putxet i el Farro;998.3;14.6
+2021;4;Gracia;Vallcarca i els Penitents;920.1;13.9
+2021;4;Gracia;el Coll;754.5;12.6
+2021;4;Gracia;la Salut;899.9;12.7
+2021;4;Gracia;la Vila de Gracia;920.9;14.3
+2021;4;Gracia;el Camp d'en Grassot i Gracia Nova;926.5;14
+2021;4;Horta-Guinardo;el Baix Guinardo;821;12.7
+2021;4;Horta-Guinardo;Can Baro;757.7;12.4
+2021;4;Horta-Guinardo;el Guinardo;802.6;12.7
+2021;4;Horta-Guinardo;la Font d'en Fargues;835.3;12
+2021;4;Horta-Guinardo;el Carmel;683.8;12.1
+2021;4;Horta-Guinardo;la Teixonera;739.7;13
+2021;4;Horta-Guinardo;Sant Genis dels Agudells;675.7;9.5
+2021;4;Horta-Guinardo;Montbau;744.2;11.4
+2021;4;Horta-Guinardo;la Vall d'Hebron;859.1;13.2
+2021;4;Horta-Guinardo;Horta;760.4;12.1
+2021;4;Nou Barris;Vilapicina i la Torre Llobeta;803.7;11.8
+2021;4;Nou Barris;Porta;740.4;11.5
+2021;4;Nou Barris;el Turo de la Peira;691.9;11.5
+2021;4;Nou Barris;la Guineueta;664.2;9.4
+2021;4;Nou Barris;Canyelles;763.3;9.3
+2021;4;Nou Barris;les Roquetes;605.5;10.9
+2021;4;Nou Barris;Verdun;647.7;11.9
+2021;4;Nou Barris;la Prosperitat;683.9;11.8
+2021;4;Nou Barris;la Trinitat Nova;557;11.5
+2021;4;Nou Barris;Ciutat Meridiana;546.8;9.2
+2021;4;Sant Andreu;la Trinitat Vella;626.6;10.2
+2021;4;Sant Andreu;Baro de Viver;616.7;9.2
+2021;4;Sant Andreu;el Bon Pastor;696.8;11
+2021;4;Sant Andreu;Sant Andreu;754;11.8
+2021;4;Sant Andreu;la Sagrera;798.6;12.5
+2021;4;Sant Andreu;el Congres i els Indians;799.2;12.2
+2021;4;Sant Andreu;Navas;825.4;12
+2021;4;Sant Marti;el Camp de l'Arpa del Clot;842.1;13.1
+2021;4;Sant Marti;el Clot;833.8;12.9
+2021;4;Sant Marti;el Parc i la Llacuna del Poblenou;1040.7;14.9
+2021;4;Sant Marti;la Vila Olimpica del Poblenou;1364.7;16.1
+2021;4;Sant Marti;el Poblenou;970.7;14.3
+2021;4;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1205.3;15.2
+2021;4;Sant Marti;el Besos i el Maresme;700.5;10.8
+2021;4;Sant Marti;Provencals del Poblenou;977.8;13.8
+2021;4;Sant Marti;Sant Martíide Provencals;826.2;11.7
+2021;4;Sant Marti;la Verneda i la Pau;752;11.3
+2022;1;Ciutat Vella;el Raval;917;15.5
+2022;1;Ciutat Vella;Gothic Quarter;1181.6;17.2
+2022;1;Ciutat Vella;la Barceloneta;999.8;21.3
+2022;1;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1022.8;15.3
+2022;1;Eixample;Fort Pienc;957.9;13.5
+2022;1;Eixample;Sagrada Familia;984.3;15.1
+2022;1;Eixample;la Dreta de l'Eixample;1294.8;14.2
+2022;1;Eixample;l'Antiga Esquerra de l'Eixample;1105.7;14.3
+2022;1;Eixample;la Nova Esquerra de l'Eixample;1009.3;14.1
+2022;1;Eixample;Sant Antoni;999.9;14.4
+2022;1;Sants-Montjuic;el Poble Sec;846.2;14.7
+2022;1;Sants-Montjuic;la Marina de Port;728.7;10.4
+2022;1;Sants-Montjuic;la Font de la Guatlla;823.9;13.3
+2022;1;Sants-Montjuic;Hostafrancs;835.7;13.8
+2022;1;Sants-Montjuic;la Bordeta;971.8;12.3
+2022;1;Sants-Montjuic;Sants - Badal;805.4;13.3
+2022;1;Sants-Montjuic;Sants;849.4;13.7
+2022;1;Les Corts;les Corts;995;14.3
+2022;1;Les Corts;la Maternitat i Sant Ramon;1018.6;14.1
+2022;1;Les Corts;Pedralbes;1649.8;14.7
+2022;1;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;1102.2;12.3
+2022;1;Sarria-Sant Gervasi;Sarria;1362.6;17.5
+2022;1;Sarria-Sant Gervasi;les Tres Torres;1630.8;17.6
+2022;1;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1195;14.2
+2022;1;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1341.5;14.5
+2022;1;Sarria-Sant Gervasi;el Putxet i el Farro;1054.9;14.8
+2022;1;Gracia;Vallcarca i els Penitents;947.8;13.6
+2022;1;Gracia;el Coll;809.9;13.4
+2022;1;Gracia;la Salut;874.3;13.4
+2022;1;Gracia;la Vila de Gracia;986;15.4
+2022;1;Gracia;el Camp d'en Grassot i Gracia Nova;957.9;14.2
+2022;1;Horta-Guinardo;el Baix Guinardo;834.7;13
+2022;1;Horta-Guinardo;Can Baro;737.6;13.2
+2022;1;Horta-Guinardo;el Guinardo;801.7;13.1
+2022;1;Horta-Guinardo;la Font d'en Fargues;784.7;11.7
+2022;1;Horta-Guinardo;el Carmel;671.3;11.8
+2022;1;Horta-Guinardo;la Teixonera;723.9;12.7
+2022;1;Horta-Guinardo;Sant Genis dels Agudells;706.4;10.5
+2022;1;Horta-Guinardo;Montbau;736.1;10.9
+2022;1;Horta-Guinardo;la Vall d'Hebron;888.9;12.5
+2022;1;Horta-Guinardo;Horta;740.3;11.5
+2022;1;Nou Barris;Vilapicina i la Torre Llobeta;767;12
+2022;1;Nou Barris;Porta;718.5;12.1
+2022;1;Nou Barris;el Turo de la Peira;662.8;11.5
+2022;1;Nou Barris;la Guineueta;644.7;9.5
+2022;1;Nou Barris;Canyelles;655;8
+2022;1;Nou Barris;les Roquetes;641.2;11.5
+2022;1;Nou Barris;Verdun;652.7;12
+2022;1;Nou Barris;la Prosperitat;687.2;12.1
+2022;1;Nou Barris;la Trinitat Nova;591;11.6
+2022;1;Nou Barris;Ciutat Meridiana;517.7;8.7
+2022;1;Sant Andreu;la Trinitat Vella;616.9;10.1
+2022;1;Sant Andreu;el Bon Pastor;702.6;10.4
+2022;1;Sant Andreu;Sant Andreu;800.9;12.4
+2022;1;Sant Andreu;la Sagrera;751.5;12.2
+2022;1;Sant Andreu;el Congres i els Indians;795.8;11.7
+2022;1;Sant Andreu;Navas;847.2;12.2
+2022;1;Sant Marti;el Camp de l'Arpa del Clot;841.5;13.4
+2022;1;Sant Marti;el Clot;861.2;12.8
+2022;1;Sant Marti;el Parc i la Llacuna del Poblenou;1089.2;15.4
+2022;1;Sant Marti;la Vila Olimpica del Poblenou;1305;18.1
+2022;1;Sant Marti;el Poblenou;967.9;15
+2022;1;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;964.7;15
+2022;1;Sant Marti;el Besos i el Maresme;796.9;12
+2022;1;Sant Marti;Provencals del Poblenou;939.2;13.5
+2022;1;Sant Marti;Sant Marti de Provencals;796.4;11.4
+2022;1;Sant Marti;la Verneda i la Pau;733.9;10.9
+2022;2;Ciutat Vella;el Raval;872;14.7
+2022;2;Ciutat Vella;Gothic Quarter;1062.5;14.7
+2022;2;Ciutat Vella;la Barceloneta;900.5;16.6
+2022;2;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;1051.4;15.8
+2022;2;Eixample;Fort Pienc;1106.9;14.2
+2022;2;Eixample;Sagrada Familia;985.9;14.7
+2022;2;Eixample;la Dreta de l'Eixample;1328.6;14.4
+2022;2;Eixample;l'Antiga Esquerra de l'Eixample;1174.6;14.8
+2022;2;Eixample;la Nova Esquerra de l'Eixample;1012.2;14.5
+2022;2;Eixample;Sant Antoni;1004.3;13.8
+2022;2;Sants-Montjuic;el Poble Sec;879.3;15.3
+2022;2;Sants-Montjuic;la Marina del Prat Vermell;1407.9;3.9
+2022;2;Sants-Montjuic;la Marina de Port;638.8;9.8
+2022;2;Sants-Montjuic;la Font de la Guatlla;912.1;13.7
+2022;2;Sants-Montjuic;Hostafrancs;826.2;13.8
+2022;2;Sants-Montjuic;la Bordeta;1025;13.4
+2022;2;Sants-Montjuic;Sants - Badal;848.5;14
+2022;2;Sants-Montjuic;Sants;885.6;13.7
+2022;2;Les Corts;les Corts;1067.8;14.8
+2022;2;Les Corts;la Maternitat i Sant Ramon;993.1;14.2
+2022;2;Les Corts;Pedralbes;1944.5;14.6
+2022;2;Sarria-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;894.9;13.3
+2022;2;Sarria-Sant Gervasi;Sarria;1349.3;17.5
+2022;2;Sarria-Sant Gervasi;les Tres Torres;1767;16.9
+2022;2;Sarria-Sant Gervasi;Sant Gervasi - la Bonanova;1369.1;16.4
+2022;2;Sarria-Sant Gervasi;Sant Gervasi - Galvany;1484.5;15.5
+2022;2;Sarria-Sant Gervasi;el Putxet i el Farro;1108.6;15.7
+2022;2;Gracia;Vallcarca i els Penitents;969.3;14.2
+2022;2;Gracia;el Coll;759.2;12.2
+2022;2;Gracia;la Salut;1010.3;14.4
+2022;2;Gracia;la Vila de Gracia;982.6;15.4
+2022;2;Gracia;el Camp d'en Grassot i Gracia Nova;977.8;14.4
+2022;2;Horta-Guinardo;el Baix Guinardo;903.9;14.1
+2022;2;Horta-Guinardo;Can Baro;812.4;12.9
+2022;2;Horta-Guinardo;el Guinardo;810;12.7
+2022;2;Horta-Guinardo;la Font d'en Fargues;840.1;13.2
+2022;2;Horta-Guinardo;el Carmel;725.8;12.6
+2022;2;Horta-Guinardo;la Teixonera;786.5;13
+2022;2;Horta-Guinardo;Sant Genis dels Agudells;720.3;10.9
+2022;2;Horta-Guinardo;Montbau;750.7;11.2
+2022;2;Horta-Guinardo;la Vall d'Hebron;865.3;14
+2022;2;Horta-Guinardo;Horta;794.2;12.5
+2022;2;Nou Barris;Vilapicina i la Torre Llobeta;855.5;13
+2022;2;Nou Barris;Porta;728.5;11.8
+2022;2;Nou Barris;el Turo de la Peira;709.8;11.5
+2022;2;Nou Barris;la Guineueta;748.8;10.6
+2022;2;Nou Barris;Canyelles;851.3;9.8
+2022;2;Nou Barris;les Roquetes;632.9;12.1
+2022;2;Nou Barris;Verdun;609;11.5
+2022;2;Nou Barris;la Prosperitat;693.3;12.1
+2022;2;Nou Barris;la Trinitat Nova;574.9;11.5
+2022;2;Nou Barris;Ciutat Meridiana;577.3;10.3
+2022;2;Sant Andreu;la Trinitat Vella;620;10.9
+2022;2;Sant Andreu;el Bon Pastor;732.6;11.5
+2022;2;Sant Andreu;Sant Andreu;788.2;12.4
+2022;2;Sant Andreu;la Sagrera;803.5;12.6
+2022;2;Sant Andreu;el Congres i els Indians;784.3;11.8
+2022;2;Sant Andreu;Navas;878.4;12.3
+2022;2;Sant Marti;el Camp de l'Arpa del Clot;875.1;13.9
+2022;2;Sant Marti;el Clot;884;13.5
+2022;2;Sant Marti;el Parc i la Llacuna del Poblenou;1173.2;15.4
+2022;2;Sant Marti;la Vila Olimpica del Poblenou;1442.6;20.7
+2022;2;Sant Marti;el Poblenou;1085.6;16.9
+2022;2;Sant Marti;Diagonal Mar i el Front Maritim del Poblenou;1238.7;17.5
+2022;2;Sant Marti;el Besos i el Maresme;779.2;12.2
+2022;2;Sant Marti;Provencals del Poblenou;1032.9;14.6
+2022;2;Sant Marti;Sant Marti de Provencals;843;11.9
+2022;2;Sant Marti;la Verneda i la Pau;757;11.4
