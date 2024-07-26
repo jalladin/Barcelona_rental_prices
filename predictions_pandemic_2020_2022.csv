@@ -1,0 +1,675 @@
+Year,Trimester,District,Neighbourhood,Price (euro/month),Price (euro/m2),Predicted Price (euro/m2)
+2020,1,Ciutat Vella,el Raval,864.5,14.5,15.225775774561633
+2020,1,Ciutat Vella,Gothic Quarter,1110.2,14.2,15.633721111446343
+2020,1,Ciutat Vella,la Barceloneta,899.5,17.5,19.576171309645076
+2020,1,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1030.0,14.9,16.92128139780274
+2020,1,Eixample,Fort Pienc,1059.9,14.6,14.791829553395333
+2020,1,Eixample,la Sagrada Familia,952.6,14.6,14.242700837599875
+2020,1,Eixample,la Dreta de l'Eixample,1349.6,14.4,15.52025068764518
+2020,1,Eixample,l'Antiga Esquerra de l'Eixample,1150.8,14.3,15.277498974296142
+2020,1,Eixample,la Nova Esquerra de l'Eixample,1043.8,14.4,15.095827961621769
+2020,1,Eixample,Sant Antoni,1010.5,14.1,14.521315121902546
+2020,1,Sants-Montjuic,el Poble Sec,837.0,14.3,14.864033269336154
+2020,1,Sants-Montjuic,la Marina de Port,810.1,11.5,11.589996359496121
+2020,1,Sants-Montjuic,la Font de la Guatlla,882.4,13.1,14.154663423094707
+2020,1,Sants-Montjuic,Hostafrancs,865.0,13.5,14.619497160369534
+2020,1,Sants-Montjuic,la Bordeta,870.0,13.4,13.244269913726944
+2020,1,Sants-Montjuic,Sants - Badal,858.3,13.8,14.323025587541581
+2020,1,Sants-Montjuic,Sants,891.4,14.5,14.496591625117324
+2020,1,Les Corts,les Corts,1069.9,15.0,15.71268387328185
+2020,1,Les Corts,la Maternitat i Sant Ramon,989.6,14.2,14.951645999378844
+2020,1,Les Corts,Pedralbes,1626.9,15.6,16.813704906156726
+2020,1,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1191.3,12.2,13.951646838478975
+2020,1,Sarria-Sant Gervasi,Sarria,1417.7,16.9,18.670840131257457
+2020,1,Sarria-Sant Gervasi,les Tres Torres,1662.4,16.3,18.829940274064754
+2020,1,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1311.5,15.8,17.07577181116228
+2020,1,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1388.9,15.4,16.46450255753946
+2020,1,Sarria-Sant Gervasi,el Putxet i el Farro,1053.9,15.1,16.027959011977597
+2020,1,Gracia,Vallcarca i els Penitents,966.4,14.2,15.082946441819924
+2020,1,Gracia,el Coll,814.8,12.7,13.502685495541805
+2020,1,Gracia,la Salut,939.7,14.2,14.372164606215858
+2020,1,Gracia,la Vila de Gracia,963.6,14.9,16.07244950959265
+2020,1,Gracia,el Camp d'en Grassot i Gracia Nova,967.9,14.0,15.194939560442462
+2020,1,Horta-Guinardo,el Baix Guinardo,920.8,13.8,14.065964334537272
+2020,1,Horta-Guinardo,Can Baro,816.4,12.9,13.660066831319483
+2020,1,Horta-Guinardo,el Guinardo,841.0,13.6,13.546186211852993
+2020,1,Horta-Guinardo,la Font d'en Fargues,928.3,12.2,13.736040684346172
+2020,1,Horta-Guinardo,el Carmel,707.9,12.3,12.384452886144487
+2020,1,Horta-Guinardo,la Teixonera,741.3,11.6,12.516718777051194
+2020,1,Horta-Guinardo,Sant Genis dels Agudells,698.9,10.2,10.709450975931444
+2020,1,Horta-Guinardo,Montbau,788.1,11.8,12.716130095606289
+2020,1,Horta-Guinardo,la Vall d'Hebron,963.4,12.5,13.806139248998438
+2020,1,Horta-Guinardo,Horta,815.7,13.0,12.981489470466217
+2020,1,Nou Barris,Vilapicina i la Torre Llobeta,789.9,12.3,12.53897688699642
+2020,1,Nou Barris,Porta,690.4,11.4,12.012928085850218
+2020,1,Nou Barris,el Turo de la Peira,686.4,11.4,11.678300599260709
+2020,1,Nou Barris,la Guineueta,735.4,10.2,10.849984166556089
+2020,1,Nou Barris,Canyelles,778.0,10.1,9.99663143124908
+2020,1,Nou Barris,les Roquetes,636.8,11.6,11.577895187240053
+2020,1,Nou Barris,Verdun,675.4,11.9,12.411162239142138
+2020,1,Nou Barris,la Prosperitat,714.8,12.6,12.466356110127528
+2020,1,Nou Barris,la Trinitat Nova,565.8,11.8,11.558436199645422
+2020,1,Nou Barris,Torre Baro,452.0,6.2,9.105534159747174
+2020,1,Nou Barris,Ciutat Meridiana,546.1,9.3,9.214965630819146
+2020,1,Sant Andreu,la Trinitat Vella,605.0,10.1,10.605860258956456
+2020,1,Sant Andreu,Baro de Viver,584.1,7.9,8.297105025293494
+2020,1,Sant Andreu,el Bon Pastor,725.8,12.3,11.267000283081806
+2020,1,Sant Andreu,Sant Andreu,798.9,12.4,13.142785196444851
+2020,1,Sant Andreu,la Sagrera,777.2,12.7,12.57118000243549
+2020,1,Sant Andreu,el Congres i els Indians,815.5,12.9,12.708822993243544
+2020,1,Sant Andreu,Navas,873.0,12.7,12.89097730538772
+2020,1,Sant Marti,el Camp de l'Arpa del Clot,887.3,14.3,14.223300908709586
+2020,1,Sant Marti,el Clot,865.8,13.4,13.722510183778839
+2020,1,Sant Marti,el Parc i la Llacuna del Poblenou,969.1,14.2,15.100725748877329
+2020,1,Sant Marti,la Vila Olimpica del Poblenou,1427.5,17.4,18.807067027024054
+2020,1,Sant Marti,el Poblenou,1037.0,15.2,15.742850013177652
+2020,1,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1233.2,15.8,16.678467712437282
+2020,1,Sant Marti,el Besos i el Maresme,749.7,12.1,11.467664006481208
+2020,1,Sant Marti,Provencals del Poblenou,1000.1,14.3,14.396321674794232
+2020,1,Sant Marti,Sant Martíide Provencals,863.0,11.9,13.705597907163185
+2020,1,Sant Marti,la Verneda i la Pau,765.3,11.3,11.729961274736963
+2020,2,Ciutat Vella,el Raval,853.3,14.7,15.375359871788842
+2020,2,Ciutat Vella,Gothic Quarter,1041.0,13.4,15.469224107257611
+2020,2,Ciutat Vella,la Barceloneta,856.5,17.1,19.549362367365518
+2020,2,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",919.8,14.9,16.50589698719961
+2020,2,Eixample,Fort Pienc,999.9,13.4,14.68313881278285
+2020,2,Eixample,la Sagrada Familia,943.5,14.2,14.393872535277058
+2020,2,Eixample,la Dreta de l'Eixample,1249.4,14.3,15.190611924750016
+2020,2,Eixample,l'Antiga Esquerra de l'Eixample,1159.0,14.2,15.53292978839389
+2020,2,Eixample,la Nova Esquerra de l'Eixample,1029.5,14.3,15.227626190178405
+2020,2,Eixample,Sant Antoni,986.1,14.1,14.596406860714405
+2020,2,Sants-Montjuic,el Poble Sec,856.2,14.9,15.171496434175085
+2020,2,Sants-Montjuic,la Marina de Port,687.8,9.8,11.249236395518041
+2020,2,Sants-Montjuic,la Font de la Guatlla,825.5,11.9,14.06574260474602
+2020,2,Sants-Montjuic,Hostafrancs,867.8,13.5,14.836393341428005
+2020,2,Sants-Montjuic,la Bordeta,893.6,12.4,13.541411781176409
+2020,2,Sants-Montjuic,Sants - Badal,849.5,14.3,14.476524038695302
+2020,2,Sants-Montjuic,Sants,874.3,12.9,14.609072297520523
+2020,2,Les Corts,les Corts,1096.6,15.3,16.078758055208777
+2020,2,Les Corts,la Maternitat i Sant Ramon,946.1,13.8,14.92823742638066
+2020,2,Les Corts,Pedralbes,1822.7,16.8,18.247218296853298
+2020,2,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1078.1,11.7,13.590660208740445
+2020,2,Sarria-Sant Gervasi,Sarria,1432.2,18.0,19.02104701591929
+2020,2,Sarria-Sant Gervasi,les Tres Torres,1679.1,18.0,19.197618897103656
+2020,2,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1272.1,14.7,17.073651716831833
+2020,2,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1304.4,15.8,16.20481564393583
+2020,2,Sarria-Sant Gervasi,el Putxet i el Farro,1073.3,15.8,16.35912457762743
+2020,2,Gracia,Vallcarca i els Penitents,1060.5,15.5,15.804392003836025
+2020,2,Gracia,el Coll,910.3,13.9,14.1602374003257
+2020,2,Gracia,la Salut,998.5,14.6,14.87594746100924
+2020,2,Gracia,la Vila de Gracia,950.9,14.7,16.221323374039343
+2020,2,Gracia,el Camp d'en Grassot i Gracia Nova,968.7,14.2,15.409006955363687
+2020,2,Horta-Guinardo,el Baix Guinardo,916.1,14.0,14.237463427025752
+2020,2,Horta-Guinardo,Can Baro,739.3,13.0,13.477345222722539
+2020,2,Horta-Guinardo,el Guinardo,860.4,13.5,13.829085412015944
+2020,2,Horta-Guinardo,la Font d'en Fargues,997.3,12.8,14.270223218829567
+2020,2,Horta-Guinardo,el Carmel,682.8,12.1,12.446104142493747
+2020,2,Horta-Guinardo,la Teixonera,695.6,13.3,12.487100855057372
+2020,2,Horta-Guinardo,Sant Genis dels Agudells,791.3,12.0,11.227858274809332
+2020,2,Horta-Guinardo,Montbau,758.9,9.8,12.760702368935066
+2020,2,Horta-Guinardo,la Vall d'Hebron,879.2,13.0,13.587422857333936
+2020,2,Horta-Guinardo,Horta,767.6,12.4,12.939822699388483
+2020,2,Nou Barris,Vilapicina i la Torre Llobeta,803.2,12.1,12.774567293756068
+2020,2,Nou Barris,Porta,725.9,12.1,12.336586299356327
+2020,2,Nou Barris,el Turo de la Peira,721.3,12.3,11.991066778129317
+2020,2,Nou Barris,la Guineueta,686.6,10.1,10.811944226916474
+2020,2,Nou Barris,les Roquetes,633.8,11.6,11.728201356902316
+2020,2,Nou Barris,Verdun,603.9,11.1,12.26847273316747
+2020,2,Nou Barris,la Prosperitat,707.8,12.6,12.60932647324009
+2020,2,Nou Barris,la Trinitat Nova,623.8,12.6,11.966587190274817
+2020,2,Nou Barris,Ciutat Meridiana,508.4,8.5,9.219491650403306
+2020,2,Sant Andreu,la Trinitat Vella,701.0,11.6,11.134069449230816
+2020,2,Sant Andreu,el Bon Pastor,759.5,11.9,11.564649769319525
+2020,2,Sant Andreu,Sant Andreu,835.3,12.8,13.498845230831238
+2020,2,Sant Andreu,la Sagrera,809.5,12.1,12.894062179032506
+2020,2,Sant Andreu,el Congres i els Indians,788.2,11.4,12.761986443317415
+2020,2,Sant Andreu,Navas,898.5,13.1,13.189631956009853
+2020,2,Sant Marti,el Camp de l'Arpa del Clot,853.8,13.5,14.251142182764012
+2020,2,Sant Marti,el Clot,890.9,13.6,14.037060251065585
+2020,2,Sant Marti,el Parc i la Llacuna del Poblenou,975.7,15.2,15.34476143142276
+2020,2,Sant Marti,la Vila Olimpica del Poblenou,1446.1,20.9,19.18695846024425
+2020,2,Sant Marti,el Poblenou,987.1,14.7,15.683054136172315
+2020,2,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,840.9,17.0,14.735566271183908
+2020,2,Sant Marti,el Besos i el Maresme,696.9,11.0,11.41126873450177
+2020,2,Sant Marti,Provencals del Poblenou,1076.6,15.6,14.99392445378745
+2020,2,Sant Marti,Sant Martíide Provencals,854.3,11.8,13.853400795836182
+2020,2,Sant Marti,la Verneda i la Pau,767.5,11.3,11.904180669725077
+2020,3,Ciutat Vella,el Raval,833.9,14.0,15.48172080399094
+2020,3,Ciutat Vella,Gothic Quarter,982.5,13.6,15.363958746877875
+2020,3,Ciutat Vella,la Barceloneta,823.1,18.2,19.58762276075972
+2020,3,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",970.9,14.6,17.033784617037472
+2020,3,Eixample,Fort Pienc,997.4,13.9,14.873168197480986
+2020,3,Eixample,la Sagrada Familia,973.0,14.7,14.745582932312802
+2020,3,Eixample,la Dreta de l'Eixample,1273.9,14.4,15.533258668458544
+2020,3,Eixample,l'Antiga Esquerra de l'Eixample,1192.3,14.8,15.93185656318802
+2020,3,Eixample,la Nova Esquerra de l'Eixample,1067.4,15.0,15.644400671701163
+2020,3,Eixample,Sant Antoni,959.3,14.0,14.659470710925744
+2020,3,Sants-Montjuic,el Poble Sec,820.2,14.1,15.187728702594095
+2020,3,Sants-Montjuic,la Marina de Port,828.2,11.7,11.995506730871984
+2020,3,Sants-Montjuic,la Font de la Guatlla,873.9,13.8,14.506243397136563
+2020,3,Sants-Montjuic,Hostafrancs,842.1,14.6,14.906193018246224
+2020,3,Sants-Montjuic,la Bordeta,892.3,13.3,13.723428888258525
+2020,3,Sants-Montjuic,Sants - Badal,858.2,14.1,14.721976304287777
+2020,3,Sants-Montjuic,Sants,883.1,14.2,14.857149333584937
+2020,3,Les Corts,les Corts,1058.1,14.9,16.081820896125336
+2020,3,Les Corts,la Maternitat i Sant Ramon,1012.4,14.1,15.490956185202768
+2020,3,Les Corts,Pedralbes,1932.3,15.4,19.213601851590933
+2020,3,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1192.8,13.2,14.349020008440242
+2020,3,Sarria-Sant Gervasi,Sarria,1314.4,17.4,18.508069371999657
+2020,3,Sarria-Sant Gervasi,les Tres Torres,1699.4,15.9,19.596537455394063
+2020,3,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1321.9,15.5,17.610684524102393
+2020,3,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1427.9,15.6,17.1516159431266
+2020,3,Sarria-Sant Gervasi,el Putxet i el Farro,1073.4,15.4,16.58452311715445
+2020,3,Gracia,Vallcarca i els Penitents,909.9,13.9,15.197783070805393
+2020,3,Gracia,el Coll,777.6,11.2,13.699441707406066
+2020,3,Gracia,la Salut,1001.2,13.4,15.095874287562504
+2020,3,Gracia,la Vila de Gracia,956.5,15.1,16.47658297276754
+2020,3,Gracia,el Camp d'en Grassot i Gracia Nova,958.2,14.7,15.564101169966817
+2020,3,Horta-Guinardo,el Baix Guinardo,901.0,14.3,14.358183211782343
+2020,3,Horta-Guinardo,Can Baro,848.5,13.2,14.20223399247172
+2020,3,Horta-Guinardo,el Guinardo,825.8,13.2,13.85082086082667
+2020,3,Horta-Guinardo,la Font d'en Fargues,926.5,14.5,14.11123981854343
+2020,3,Horta-Guinardo,el Carmel,706.0,12.3,12.724786462572833
+2020,3,Horta-Guinardo,la Teixonera,748.5,11.9,12.902047009425477
+2020,3,Horta-Guinardo,Sant Genis dels Agudells,787.4,10.9,11.370311713303892
+2020,3,Horta-Guinardo,Montbau,770.2,12.1,12.990925875566685
+2020,3,Horta-Guinardo,la Vall d'Hebron,830.0,12.4,13.538678642191458
+2020,3,Horta-Guinardo,Horta,788.0,12.7,13.215613455639552
+2020,3,Nou Barris,Vilapicina i la Torre Llobeta,842.0,13.1,13.132531127854687
+2020,3,Nou Barris,Porta,759.3,12.8,12.658837936476218
+2020,3,Nou Barris,el Turo de la Peira,712.8,11.7,12.122502210954279
+2020,3,Nou Barris,la Guineueta,771.4,11.3,11.304031883074135
+2020,3,Nou Barris,Canyelles,833.3,10.2,10.49084048104396
+2020,3,Nou Barris,les Roquetes,627.0,11.8,11.864182748734088
+2020,3,Nou Barris,Verdun,692.2,12.4,12.837191731089577
+2020,3,Nou Barris,la Prosperitat,712.1,12.5,12.805131956217947
+2020,3,Nou Barris,la Trinitat Nova,583.8,11.0,11.962502834802466
+2020,3,Nou Barris,Ciutat Meridiana,572.4,9.9,9.572512482844182
+2020,3,Sant Andreu,la Trinitat Vella,668.5,11.1,11.160267998497824
+2020,3,Sant Andreu,el Bon Pastor,738.0,12.6,11.637509938980628
+2020,3,Sant Andreu,Sant Andreu,825.9,12.7,13.641191955307438
+2020,3,Sant Andreu,la Sagrera,795.0,12.4,13.006908292558407
+2020,3,Sant Andreu,el Congres i els Indians,834.2,12.7,13.153168009455607
+2020,3,Sant Andreu,Navas,858.4,12.6,13.184694854715175
+2020,3,Sant Marti,el Camp de l'Arpa del Clot,894.2,13.7,14.65573158623744
+2020,3,Sant Marti,el Clot,869.1,13.4,14.122762195952959
+2020,3,Sant Marti,el Parc i la Llacuna del Poblenou,1006.3,14.7,15.724259159558244
+2020,3,Sant Marti,la Vila Olimpica del Poblenou,1346.7,17.3,18.78937257123183
+2020,3,Sant Marti,el Poblenou,1006.9,15.2,16.0097541134242
+2020,3,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1074.4,16.5,16.214411215366976
+2020,3,Sant Marti,el Besos i el Maresme,801.5,12.3,12.01296477288368
+2020,3,Sant Marti,Provencals del Poblenou,956.8,14.2,14.573860562948523
+2020,3,Sant Marti,Sant Martíide Provencals,822.4,11.7,13.888414433656953
+2020,3,Sant Marti,la Verneda i la Pau,782.4,11.8,12.135649888254973
+2020,4,Ciutat Vella,el Raval,787.0,13.1,15.439103188502056
+2020,4,Ciutat Vella,Gothic Quarter,1003.9,13.1,15.693210270234669
+2020,4,Ciutat Vella,la Barceloneta,875.0,16.5,20.21403188999265
+2020,4,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",888.9,14.2,16.78027655985728
+2020,4,Eixample,Fort Pienc,959.5,13.5,14.879154533333736
+2020,4,Eixample,la Sagrada Familia,902.1,13.7,14.581136881277507
+2020,4,Eixample,la Dreta de l'Eixample,1208.8,13.6,15.391889795434187
+2020,4,Eixample,l'Antiga Esquerra de l'Eixample,1126.0,13.9,15.780441664928123
+2020,4,Eixample,la Nova Esquerra de l'Eixample,1001.4,14.0,15.497187409091813
+2020,4,Eixample,Sant Antoni,940.7,13.6,14.765337938334318
+2020,4,Sants-Montjuic,el Poble Sec,810.2,14.0,15.34342440514029
+2020,4,Sants-Montjuic,la Marina de Port,762.7,10.8,11.882689241784876
+2020,4,Sants-Montjuic,la Font de la Guatlla,834.3,13.6,14.503402744399754
+2020,4,Sants-Montjuic,Hostafrancs,842.9,14.0,15.116443713521873
+2020,4,Sants-Montjuic,la Bordeta,817.4,12.5,13.550463709057054
+2020,4,Sants-Montjuic,Sants - Badal,823.2,13.5,14.742944969593227
+2020,4,Sants-Montjuic,Sants,850.3,13.5,14.889815210385613
+2020,4,Les Corts,les Corts,1037.9,14.4,16.18823798986935
+2020,4,Les Corts,la Maternitat i Sant Ramon,993.3,13.7,15.599709103736553
+2020,4,Les Corts,Pedralbes,1577.1,15.1,17.213426733042326
+2020,4,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1390.0,11.6,15.591847806886951
+2020,4,Sarria-Sant Gervasi,Sarria,1338.4,16.2,18.91764201971496
+2020,4,Sarria-Sant Gervasi,les Tres Torres,1729.5,16.8,20.071281678168386
+2020,4,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1286.0,14.9,17.629979132070364
+2020,4,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1307.1,14.7,16.66905829873453
+2020,4,Sarria-Sant Gervasi,el Putxet i el Farro,1033.3,14.5,16.578404806819325
+2020,4,Gracia,Vallcarca i els Penitents,1026.8,14.5,16.052033512759667
+2020,4,Gracia,el Coll,790.4,12.0,13.952761026812539
+2020,4,Gracia,la Salut,941.5,12.8,14.986671450161577
+2020,4,Gracia,la Vila de Gracia,943.2,14.8,16.625495246015333
+2020,4,Gracia,el Camp d'en Grassot i Gracia Nova,928.8,13.6,15.616832949622902
+2020,4,Horta-Guinardo,el Baix Guinardo,845.6,13.2,14.275618027365976
+2020,4,Horta-Guinardo,Can Baro,716.3,12.6,13.742590997611279
+2020,4,Horta-Guinardo,el Guinardo,786.5,12.7,13.849568413393534
+2020,4,Horta-Guinardo,la Font d'en Fargues,856.4,12.5,13.957361937154806
+2020,4,Horta-Guinardo,el Carmel,651.4,11.4,12.654602059642029
+2020,4,Horta-Guinardo,la Teixonera,679.0,12.0,12.763203673723496
+2020,4,Horta-Guinardo,Sant Genis dels Agudells,671.7,9.7,11.061705665989946
+2020,4,Horta-Guinardo,Montbau,798.3,12.6,13.303981123617403
+2020,4,Horta-Guinardo,la Vall d'Hebron,817.1,11.4,13.664491074225841
+2020,4,Horta-Guinardo,Horta,747.5,12.1,13.208794052802652
+2020,4,Nou Barris,Vilapicina i la Torre Llobeta,751.8,11.7,12.89625904090417
+2020,4,Nou Barris,Porta,723.6,12.0,12.673900004565319
+2020,4,Nou Barris,el Turo de la Peira,681.3,11.4,12.155169759694806
+2020,4,Nou Barris,la Guineueta,750.2,10.7,11.376604416593622
+2020,4,Nou Barris,Canyelles,756.1,9.5,10.347245811521327
+2020,4,Nou Barris,les Roquetes,651.3,11.6,12.135565424761653
+2020,4,Nou Barris,Verdun,644.4,12.2,12.797319089983773
+2020,4,Nou Barris,la Prosperitat,673.8,12.1,12.808517872180834
+2020,4,Nou Barris,la Trinitat Nova,600.2,11.9,12.201542919154171
+2020,4,Nou Barris,Ciutat Meridiana,514.1,8.8,9.50562923657919
+2020,4,Sant Andreu,la Trinitat Vella,610.0,10.9,11.082543936645271
+2020,4,Sant Andreu,el Bon Pastor,688.9,10.7,11.595696517761242
+2020,4,Sant Andreu,Sant Andreu,794.0,12.3,13.675705357284123
+2020,4,Sant Andreu,la Sagrera,766.6,12.3,13.056131022635459
+2020,4,Sant Andreu,el Congres i els Indians,779.4,12.6,13.079864891658675
+2020,4,Sant Andreu,Navas,846.3,12.5,13.311216823498354
+2020,4,Sant Marti,el Camp de l'Arpa del Clot,817.7,12.9,14.463657658535366
+2020,4,Sant Marti,el Clot,870.8,13.1,14.327202997807753
+2020,4,Sant Marti,el Parc i la Llacuna del Poblenou,952.2,13.8,15.641478432492937
+2020,4,Sant Marti,la Vila Olimpica del Poblenou,1332.4,16.8,18.9514148256194
+2020,4,Sant Marti,el Poblenou,974.7,14.5,16.048165210125045
+2020,4,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1392.6,17.5,18.365345733651807
+2020,4,Sant Marti,el Besos i el Maresme,731.6,11.7,11.881302683653287
+2020,4,Sant Marti,Provencals del Poblenou,859.9,12.6,14.279714788877865
+2020,4,Sant Marti,Sant Martíide Provencals,807.4,11.8,14.00686343395241
+2020,4,Sant Marti,la Verneda i la Pau,765.9,11.6,12.23361048044725
+2021,1,Ciutat Vella,el Raval,759.2,12.8,15.281968490468287
+2021,1,Ciutat Vella,Gothic Quarter,929.6,12.3,15.282197250495255
+2021,1,Ciutat Vella,la Barceloneta,808.9,15.5,19.7477042205234
+2021,1,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",879.4,13.3,16.716854431002663
+2021,1,Eixample,Fort Pienc,918.0,12.9,14.65652062538496
+2021,1,Eixample,la Sagrada Familia,887.1,13.5,14.497442069207532
+2021,1,Eixample,la Dreta de l'Eixample,1176.7,13.0,15.212214686588933
+2021,1,Eixample,l'Antiga Esquerra de l'Eixample,1040.2,13.7,15.305364681780313
+2021,1,Eixample,la Nova Esquerra de l'Eixample,964.0,13.6,15.287882538443247
+2021,1,Eixample,Sant Antoni,898.7,12.5,14.541738512102576
+2021,1,Sants-Montjuic,el Poble Sec,781.6,13.5,15.182936922337076
+2021,1,Sants-Montjuic,la Marina de Port,810.6,11.6,12.081887673230844
+2021,1,Sants-Montjuic,la Font de la Guatlla,799.5,12.7,14.319828135252713
+2021,1,Sants-Montjuic,Hostafrancs,778.4,12.9,14.770485292701125
+2021,1,Sants-Montjuic,la Bordeta,807.6,12.2,13.497128868532236
+2021,1,Sants-Montjuic,Sants - Badal,788.1,13.0,14.554995927761059
+2021,1,Sants-Montjuic,Sants,829.1,13.2,14.772201128568216
+2021,1,Les Corts,les Corts,990.3,13.8,15.913213536011341
+2021,1,Les Corts,la Maternitat i Sant Ramon,927.3,12.5,15.235348721852821
+2021,1,Les Corts,Pedralbes,1598.2,14.0,17.332411999642115
+2021,1,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1531.7,15.7,16.377385160149966
+2021,1,Sarria-Sant Gervasi,Sarria,1263.9,15.6,18.425957933552844
+2021,1,Sarria-Sant Gervasi,les Tres Torres,1578.0,16.0,19.03615145585882
+2021,1,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1264.8,15.2,17.49208275877185
+2021,1,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1294.9,14.3,16.5903731408089
+2021,1,Sarria-Sant Gervasi,el Putxet i el Farro,990.1,14.1,16.322238594044546
+2021,1,Gracia,Vallcarca i els Penitents,959.0,13.6,15.66785384832749
+2021,1,Gracia,el Coll,745.4,12.5,13.726119133679099
+2021,1,Gracia,la Salut,859.1,12.8,14.551483640713009
+2021,1,Gracia,la Vila de Gracia,910.6,14.2,16.42942593936626
+2021,1,Gracia,el Camp d'en Grassot i Gracia Nova,865.3,13.6,15.265492881271241
+2021,1,Horta-Guinardo,el Baix Guinardo,817.3,12.3,14.127111655793918
+2021,1,Horta-Guinardo,Can Baro,741.1,12.7,13.857007808411053
+2021,1,Horta-Guinardo,el Guinardo,791.7,12.3,13.868459621165496
+2021,1,Horta-Guinardo,la Font d'en Fargues,795.0,12.3,13.651245789955658
+2021,1,Horta-Guinardo,el Carmel,668.8,11.4,12.727055992574213
+2021,1,Horta-Guinardo,la Teixonera,716.1,11.8,12.926359293385463
+2021,1,Horta-Guinardo,Sant Genis dels Agudells,700.5,10.4,11.171351064297314
+2021,1,Horta-Guinardo,Montbau,741.4,11.2,13.032032242263822
+2021,1,Horta-Guinardo,la Vall d'Hebron,827.0,11.9,13.705908600103388
+2021,1,Horta-Guinardo,Horta,747.4,11.8,13.202041121980837
+2021,1,Nou Barris,Vilapicina i la Torre Llobeta,736.5,11.3,12.820248124870078
+2021,1,Nou Barris,Porta,707.2,11.5,12.594176161308209
+2021,1,Nou Barris,el Turo de la Peira,687.2,11.0,12.174944531050727
+2021,1,Nou Barris,la Guineueta,691.6,9.9,11.134498470420786
+2021,1,Nou Barris,Canyelles,762.5,9.3,10.366175764762524
+2021,1,Nou Barris,les Roquetes,643.6,11.6,12.096477905044866
+2021,1,Nou Barris,Verdun,631.6,12.5,12.73315992579348
+2021,1,Nou Barris,la Prosperitat,671.8,11.8,12.79331523601282
+2021,1,Nou Barris,la Trinitat Nova,605.0,11.5,12.216595102842888
+2021,1,Nou Barris,Ciutat Meridiana,520.2,9.0,9.522114774377128
+2021,1,Sant Andreu,la Trinitat Vella,625.1,10.7,11.137452313575368
+2021,1,Sant Andreu,el Bon Pastor,658.9,10.9,11.466257290317289
+2021,1,Sant Andreu,Sant Andreu,762.5,11.7,13.517712233653578
+2021,1,Sant Andreu,la Sagrera,759.3,12.1,13.016151795048534
+2021,1,Sant Andreu,el Congres i els Indians,756.9,11.7,12.96966127079761
+2021,1,Sant Andreu,Navas,824.2,12.2,13.201074399614841
+2021,1,Sant Marti,el Camp de l'Arpa del Clot,814.5,12.9,14.440525020907913
+2021,1,Sant Marti,el Clot,853.6,13.0,14.233822728954438
+2021,1,Sant Marti,el Parc i la Llacuna del Poblenou,927.5,13.5,15.499257641762254
+2021,1,Sant Marti,la Vila Olimpica del Poblenou,1298.9,17.3,18.723620338147967
+2021,1,Sant Marti,el Poblenou,928.5,14.3,15.783124025220753
+2021,1,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,978.4,15.1,15.886817786834298
+2021,1,Sant Marti,el Besos i el Maresme,704.2,11.4,11.759857567618791
+2021,1,Sant Marti,Provencals del Poblenou,976.7,13.5,14.872339029622651
+2021,1,Sant Marti,Sant Martíide Provencals,794.6,11.3,13.93707974563145
+2021,1,Sant Marti,la Verneda i la Pau,740.8,11.1,12.118784328722967
+2021,2,Ciutat Vella,el Raval,774.2,12.9,15.5745731484913
+2021,2,Ciutat Vella,Gothic Quarter,934.1,12.7,15.517547630871764
+2021,2,Ciutat Vella,la Barceloneta,814.8,15.9,20.057314767870714
+2021,2,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",862.1,13.6,16.844274449688573
+2021,2,Eixample,Fort Pienc,907.1,12.7,14.802419147499606
+2021,2,Eixample,la Sagrada Familia,887.4,13.5,14.699702508720753
+2021,2,Eixample,la Dreta de l'Eixample,1196.3,13.1,15.528604820746956
+2021,2,Eixample,l'Antiga Esquerra de l'Eixample,1070.1,13.3,15.680099114262374
+2021,2,Eixample,la Nova Esquerra de l'Eixample,953.3,13.2,15.440748189032526
+2021,2,Eixample,Sant Antoni,928.8,13.0,14.899971083303885
+2021,2,Sants-Montjuic,el Poble Sec,773.7,13.5,15.349898465905724
+2021,2,Sants-Montjuic,la Marina de Port,772.4,10.8,12.085527460181506
+2021,2,Sants-Montjuic,la Font de la Guatlla,810.8,12.5,14.576136604088855
+2021,2,Sants-Montjuic,Hostafrancs,772.8,13.1,14.945273767233267
+2021,2,Sants-Montjuic,la Bordeta,815.4,12.0,13.722680633106924
+2021,2,Sants-Montjuic,Sants - Badal,778.1,13.1,14.704605923305886
+2021,2,Sants-Montjuic,Sants,815.4,13.2,14.904494099430755
+2021,2,Les Corts,les Corts,998.8,13.8,16.180318721532753
+2021,2,Les Corts,la Maternitat i Sant Ramon,904.8,13.3,15.3241137361773
+2021,2,Les Corts,Pedralbes,1680.3,15.5,18.079158352549882
+2021,2,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1074.7,13.0,14.141243362141827
+2021,2,Sarria-Sant Gervasi,Sarria,1298.0,15.9,18.899937339737168
+2021,2,Sarria-Sant Gervasi,les Tres Torres,1429.0,15.0,18.32306841801151
+2021,2,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1226.1,14.7,17.494179980704743
+2021,2,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1339.1,14.5,17.079647172160765
+2021,2,Sarria-Sant Gervasi,el Putxet i el Farro,1024.4,14.2,16.746058449340815
+2021,2,Gracia,Vallcarca i els Penitents,924.5,13.6,15.692834579786764
+2021,2,Gracia,el Coll,796.8,12.8,14.17168297241579
+2021,2,Gracia,la Salut,859.2,12.1,14.753410972037809
+2021,2,Gracia,la Vila de Gracia,881.0,13.9,16.48376000291897
+2021,2,Gracia,el Camp d'en Grassot i Gracia Nova,880.1,13.6,15.556710087373029
+2021,2,Horta-Guinardo,el Baix Guinardo,820.2,12.8,14.33767593176128
+2021,2,Horta-Guinardo,Can Baro,773.5,12.4,14.210983389702644
+2021,2,Horta-Guinardo,el Guinardo,818.2,12.8,14.193136479491812
+2021,2,Horta-Guinardo,la Font d'en Fargues,817.7,11.8,13.952441560292304
+2021,2,Horta-Guinardo,el Carmel,667.6,11.6,12.899337760038264
+2021,2,Horta-Guinardo,la Teixonera,713.8,12.0,13.096031245747044
+2021,2,Horta-Guinardo,Sant Genis dels Agudells,653.5,10.2,11.13947889697631
+2021,2,Horta-Guinardo,Montbau,729.9,10.9,13.15999229995038
+2021,2,Horta-Guinardo,la Vall d'Hebron,884.2,13.4,14.179849922409312
+2021,2,Horta-Guinardo,Horta,734.9,11.8,13.326828989607883
+2021,2,Nou Barris,Vilapicina i la Torre Llobeta,754.4,11.8,13.08206569348155
+2021,2,Nou Barris,Porta,698.5,11.1,12.730808382483803
+2021,2,Nou Barris,el Turo de la Peira,671.8,11.4,12.27801098708948
+2021,2,Nou Barris,la Guineueta,698.3,10.1,11.318824778885743
+2021,2,Nou Barris,Canyelles,673.8,8.7,10.181678889624235
+2021,2,Nou Barris,les Roquetes,608.7,11.2,12.114377107100646
+2021,2,Nou Barris,Verdun,648.9,12.7,12.990560826389817
+2021,2,Nou Barris,la Prosperitat,680.9,12.1,13.01391972409348
+2021,2,Nou Barris,la Trinitat Nova,598.6,11.9,12.359555303270971
+2021,2,Nou Barris,Ciutat Meridiana,488.1,8.1,9.546223179891673
+2021,2,Sant Andreu,la Trinitat Vella,592.4,10.1,11.16285642872073
+2021,2,Sant Andreu,Baro de Viver,447.5,6.7,8.353143669536369
+2021,2,Sant Andreu,el Bon Pastor,741.9,11.3,11.977902542216913
+2021,2,Sant Andreu,Sant Andreu,757.2,11.9,13.680067269477506
+2021,2,Sant Andreu,la Sagrera,737.4,11.4,13.095570632397685
+2021,2,Sant Andreu,el Congres i els Indians,791.3,11.3,13.311925942044791
+2021,2,Sant Andreu,Navas,827.2,11.7,13.399223103058185
+2021,2,Sant Marti,el Camp de l'Arpa del Clot,795.6,12.9,14.543375164300102
+2021,2,Sant Marti,el Clot,786.4,12.6,14.093115146919766
+2021,2,Sant Marti,el Parc i la Llacuna del Poblenou,911.1,13.9,15.622850555031416
+2021,2,Sant Marti,la Vila Olimpica del Poblenou,1248.6,17.3,18.650588157803632
+2021,2,Sant Marti,el Poblenou,912.4,14.1,15.910515225364247
+2021,2,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,948.3,15.8,15.936669166446347
+2021,2,Sant Marti,el Besos i el Maresme,700.8,11.2,11.910636077566906
+2021,2,Sant Marti,Provencals del Poblenou,884.8,13.2,14.598238531368107
+2021,2,Sant Marti,Sant Martíide Provencals,799.7,11.3,14.155983890130551
+2021,2,Sant Marti,la Verneda i la Pau,728.2,10.9,12.23361788347951
+2021,3,Ciutat Vella,el Raval,770.5,12.9,15.768770693395927
+2021,3,Ciutat Vella,Gothic Quarter,968.4,12.9,15.921679268290273
+2021,3,Ciutat Vella,la Barceloneta,826.0,16.3,20.4089086953249
+2021,3,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",889.1,13.4,17.236937997030324
+2021,3,Eixample,Fort Pienc,970.2,13.2,15.343447471264794
+2021,3,Eixample,la Sagrada Familia,912.4,13.6,15.034602064366386
+2021,3,Eixample,la Dreta de l'Eixample,1168.4,13.0,15.58942272807253
+2021,3,Eixample,l'Antiga Esquerra de l'Eixample,1072.9,13.6,15.911723075034919
+2021,3,Eixample,la Nova Esquerra de l'Eixample,968.6,13.3,15.737861116712109
+2021,3,Eixample,Sant Antoni,934.3,13.0,15.13511342399147
+2021,3,Sants-Montjuic,el Poble Sec,787.0,13.8,15.634401442918797
+2021,3,Sants-Montjuic,la Marina de Port,698.5,10.2,11.936066402202359
+2021,3,Sants-Montjuic,la Font de la Guatlla,858.7,12.7,15.028919014916406
+2021,3,Sants-Montjuic,Hostafrancs,804.6,13.0,15.321949934107284
+2021,3,Sants-Montjuic,la Bordeta,832.5,12.3,13.997639542589846
+2021,3,Sants-Montjuic,Sants - Badal,805.9,13.5,15.054418363927695
+2021,3,Sants-Montjuic,Sants,836.7,12.9,15.223966242422813
+2021,3,Les Corts,les Corts,1017.0,14.3,16.507522038168297
+2021,3,Les Corts,la Maternitat i Sant Ramon,982.9,13.0,15.96667290896228
+2021,3,Les Corts,Pedralbes,1816.5,15.8,19.213534514155082
+2021,3,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1009.5,11.4,14.011282280206629
+2021,3,Sarria-Sant Gervasi,Sarria,1345.2,16.1,19.47368437278982
+2021,3,Sarria-Sant Gervasi,les Tres Torres,1566.5,15.5,19.48071956956948
+2021,3,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1159.6,15.3,17.327585743878704
+2021,3,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1352.5,14.7,17.394855572621296
+2021,3,Sarria-Sant Gervasi,el Putxet i el Farro,1004.7,14.1,16.859556417874604
+2021,3,Gracia,Vallcarca i els Penitents,961.0,13.8,16.113658899166897
+2021,3,Gracia,el Coll,755.5,12.9,14.160407226756213
+2021,3,Gracia,la Salut,934.6,12.8,15.35894234509935
+2021,3,Gracia,la Vila de Gracia,891.6,14.2,16.77217160408094
+2021,3,Gracia,el Camp d'en Grassot i Gracia Nova,899.7,13.7,15.879823235516369
+2021,3,Horta-Guinardo,el Baix Guinardo,836.3,12.7,14.618971963861018
+2021,3,Horta-Guinardo,Can Baro,753.7,12.6,14.307763337755906
+2021,3,Horta-Guinardo,el Guinardo,823.6,12.7,14.417317424213904
+2021,3,Horta-Guinardo,la Font d'en Fargues,817.3,12.4,14.144094911100153
+2021,3,Horta-Guinardo,el Carmel,679.3,11.9,13.133743828338087
+2021,3,Horta-Guinardo,la Teixonera,686.3,11.7,13.149763598514916
+2021,3,Horta-Guinardo,Sant Genis dels Agudells,785.6,11.1,11.84388034129352
+2021,3,Horta-Guinardo,Montbau,745.9,11.3,13.419214152369737
+2021,3,Horta-Guinardo,la Vall d'Hebron,878.1,12.1,14.345563272681392
+2021,3,Horta-Guinardo,Horta,754.9,12.1,13.608350487150776
+2021,3,Nou Barris,Vilapicina i la Torre Llobeta,747.5,11.3,13.232041999549663
+2021,3,Nou Barris,Porta,712.8,11.7,12.974341647386447
+2021,3,Nou Barris,el Turo de la Peira,681.8,11.2,12.494375974690003
+2021,3,Nou Barris,la Guineueta,653.2,9.4,11.294262569279244
+2021,3,Nou Barris,Canyelles,769.9,10.0,10.690967914852651
+2021,3,Nou Barris,les Roquetes,628.7,11.5,12.372073983723606
+2021,3,Nou Barris,Verdun,666.6,12.0,13.254665258846629
+2021,3,Nou Barris,la Prosperitat,669.5,11.6,13.142180692655176
+2021,3,Nou Barris,la Trinitat Nova,610.4,11.6,12.585305912287605
+2021,3,Nou Barris,Ciutat Meridiana,547.7,9.3,9.89472042420045
+2021,3,Sant Andreu,la Trinitat Vella,585.0,10.2,11.290367383751246
+2021,3,Sant Andreu,el Bon Pastor,644.1,10.2,11.729010812698029
+2021,3,Sant Andreu,Sant Andreu,792.9,12.1,14.046182386726876
+2021,3,Sant Andreu,la Sagrera,772.8,11.7,13.445680287215758
+2021,3,Sant Andreu,el Congres i els Indians,751.9,11.6,13.310247306500788
+2021,3,Sant Andreu,Navas,805.3,11.6,13.480812513211397
+2021,3,Sant Marti,el Camp de l'Arpa del Clot,830.8,13.1,14.928395834942316
+2021,3,Sant Marti,el Clot,822.2,13.0,14.47004135968446
+2021,3,Sant Marti,el Parc i la Llacuna del Poblenou,1024.4,15.0,16.47876825257738
+2021,3,Sant Marti,la Vila Olimpica del Poblenou,1343.1,16.2,19.534777181960376
+2021,3,Sant Marti,el Poblenou,971.3,14.6,16.465289135317825
+2021,3,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1162.9,16.9,17.41334138993132
+2021,3,Sant Marti,el Besos i el Maresme,736.1,12.1,12.23087794028769
+2021,3,Sant Marti,Provencals del Poblenou,962.7,13.4,15.211156796484651
+2021,3,Sant Marti,Sant Martíide Provencals,804.2,11.6,14.375055463742276
+2021,3,Sant Marti,la Verneda i la Pau,752.9,11.0,12.514575661819254
+2021,4,Ciutat Vella,el Raval,772.8,13.1,15.998824555662413
+2021,4,Ciutat Vella,Gothic Quarter,953.0,12.4,16.054056107395485
+2021,4,Ciutat Vella,la Barceloneta,877.9,16.4,21.060306674076806
+2021,4,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",922.8,14.0,17.679443507758283
+2021,4,Eixample,Fort Pienc,976.9,13.3,15.591708851602231
+2021,4,Eixample,la Sagrada Familia,924.4,13.7,15.306630594461621
+2021,4,Eixample,la Dreta de l'Eixample,1220.8,13.5,16.09699778653936
+2021,4,Eixample,l'Antiga Esquerra de l'Eixample,1114.9,14.0,16.369521988601544
+2021,4,Eixample,la Nova Esquerra de l'Eixample,965.9,13.6,15.939553752598119
+2021,4,Eixample,Sant Antoni,955.7,13.4,15.459760458157184
+2021,4,Sants-Montjuic,el Poble Sec,777.9,13.7,15.799375533321912
+2021,4,Sants-Montjuic,la Marina de Port,691.9,10.2,12.075130330080617
+2021,4,Sants-Montjuic,la Font de la Guatlla,827.2,13.0,15.068821884411884
+2021,4,Sants-Montjuic,Hostafrancs,809.5,13.4,15.560057878254554
+2021,4,Sants-Montjuic,la Bordeta,872.5,12.8,14.39347446222331
+2021,4,Sants-Montjuic,Sants - Badal,800.0,13.0,15.230748896150422
+2021,4,Sants-Montjuic,Sants,833.7,13.2,15.41784305458629
+2021,4,Les Corts,les Corts,1052.8,14.2,16.94474416974979
+2021,4,Les Corts,la Maternitat i Sant Ramon,920.6,13.1,15.837128338867089
+2021,4,Les Corts,Pedralbes,1679.3,14.8,18.570098173220234
+2021,4,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1214.5,18.0,15.268530465152116
+2021,4,Sarria-Sant Gervasi,Sarria,1292.9,16.0,19.38443409465206
+2021,4,Sarria-Sant Gervasi,les Tres Torres,1597.4,16.4,19.958319344507018
+2021,4,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1219.6,15.4,17.935712242306796
+2021,4,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1433.7,14.6,18.138467856472676
+2021,4,Sarria-Sant Gervasi,el Putxet i el Farro,998.3,14.6,17.052738227954176
+2021,4,Gracia,Vallcarca i els Penitents,920.1,13.9,16.103194414549794
+2021,4,Gracia,el Coll,754.5,12.6,14.351690174988766
+2021,4,Gracia,la Salut,899.9,12.7,15.382380223376762
+2021,4,Gracia,la Vila de Gracia,920.9,14.3,17.177021844972863
+2021,4,Gracia,el Camp d'en Grassot i Gracia Nova,926.5,14.0,16.250126943087665
+2021,4,Horta-Guinardo,el Baix Guinardo,821.0,12.7,14.741676631721873
+2021,4,Horta-Guinardo,Can Baro,757.7,12.4,14.526470032238674
+2021,4,Horta-Guinardo,el Guinardo,802.6,12.7,14.509275220648728
+2021,4,Horta-Guinardo,la Font d'en Fargues,835.3,12.0,14.431500656820177
+2021,4,Horta-Guinardo,el Carmel,683.8,12.1,13.338039473143791
+2021,4,Horta-Guinardo,la Teixonera,739.7,13.0,13.58750096412914
+2021,4,Horta-Guinardo,Sant Genis dels Agudells,675.7,9.5,11.547421863783805
+2021,4,Horta-Guinardo,Montbau,744.2,11.4,13.597777148339294
+2021,4,Horta-Guinardo,la Vall d'Hebron,859.1,13.2,14.447271761013655
+2021,4,Horta-Guinardo,Horta,760.4,12.1,13.824391240252535
+2021,4,Nou Barris,Vilapicina i la Torre Llobeta,803.7,11.8,13.685870696664344
+2021,4,Nou Barris,Porta,740.4,11.5,13.284671693244734
+2021,4,Nou Barris,el Turo de la Peira,691.9,11.5,12.714718620138735
+2021,4,Nou Barris,la Guineueta,664.2,9.4,11.498715961131438
+2021,4,Nou Barris,Canyelles,763.3,9.3,10.81664691713895
+2021,4,Nou Barris,les Roquetes,605.5,10.9,12.442082884917001
+2021,4,Nou Barris,Verdun,647.7,11.9,13.349616328443984
+2021,4,Nou Barris,la Prosperitat,683.9,11.8,13.393484529758013
+2021,4,Nou Barris,la Trinitat Nova,557.0,11.5,12.521181184816584
+2021,4,Nou Barris,Ciutat Meridiana,546.8,9.2,10.032545648907478
+2021,4,Sant Andreu,la Trinitat Vella,626.6,10.2,11.62140260673708
+2021,4,Sant Andreu,Baro de Viver,616.7,9.2,9.147346090998393
+2021,4,Sant Andreu,el Bon Pastor,696.8,11.0,12.119768641138002
+2021,4,Sant Andreu,Sant Andreu,754.0,11.8,14.046896957510178
+2021,4,Sant Andreu,la Sagrera,798.6,12.5,13.757720052531592
+2021,4,Sant Andreu,el Congres i els Indians,799.2,12.2,13.723319866447959
+2021,4,Sant Andreu,Navas,825.4,12.0,13.765846415052678
+2021,4,Sant Marti,el Camp de l'Arpa del Clot,842.1,13.1,15.194885949023657
+2021,4,Sant Marti,el Clot,833.8,12.9,14.73041819462221
+2021,4,Sant Marti,el Parc i la Llacuna del Poblenou,1040.7,14.9,16.80050562154176
+2021,4,Sant Marti,la Vila Olimpica del Poblenou,1364.7,16.1,19.949328607076932
+2021,4,Sant Marti,el Poblenou,970.7,14.3,16.687985044879074
+2021,4,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1205.3,15.2,17.914282280227965
+2021,4,Sant Marti,el Besos i el Maresme,700.5,10.8,12.245904625275575
+2021,4,Sant Marti,Provencals del Poblenou,977.8,13.8,15.503032779111319
+2021,4,Sant Marti,Sant Martíide Provencals,826.2,11.7,14.687511537277905
+2021,4,Sant Marti,la Verneda i la Pau,752.0,11.3,12.685543741300473
+2022,1,Ciutat Vella,el Raval,917.0,15.5,16.818305199878264
+2022,1,Ciutat Vella,Gothic Quarter,1181.6,17.2,17.380424394192517
+2022,1,Ciutat Vella,la Barceloneta,999.8,21.3,21.954466452409214
+2022,1,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1022.8,15.3,18.296786807901025
+2022,1,Eixample,Fort Pienc,957.9,13.5,15.480844762814373
+2022,1,Eixample,Sagrada Familia,984.3,15.1,16.297118082005586
+2022,1,Eixample,la Dreta de l'Eixample,1294.8,14.2,16.511344302592704
+2022,1,Eixample,l'Antiga Esquerra de l'Eixample,1105.7,14.3,16.30927633884571
+2022,1,Eixample,la Nova Esquerra de l'Eixample,1009.3,14.1,16.175989108018033
+2022,1,Eixample,Sant Antoni,999.9,14.4,15.693899971818336
+2022,1,Sants-Montjuic,el Poble Sec,846.2,14.7,16.174215865660294
+2022,1,Sants-Montjuic,la Marina de Port,728.7,10.4,12.228821171933767
+2022,1,Sants-Montjuic,la Font de la Guatlla,823.9,13.3,15.044255174784935
+2022,1,Sants-Montjuic,Hostafrancs,835.7,13.8,15.696281936970086
+2022,1,Sants-Montjuic,la Bordeta,971.8,12.3,14.898550406138032
+2022,1,Sants-Montjuic,Sants - Badal,805.4,13.3,15.252468445347926
+2022,1,Sants-Montjuic,Sants,849.4,13.7,15.495714541481627
+2022,1,Les Corts,les Corts,995.0,14.3,16.598355961520426
+2022,1,Les Corts,la Maternitat i Sant Ramon,1018.6,14.1,16.382123177123866
+2022,1,Les Corts,Pedralbes,1649.8,14.7,18.37217877278957
+2022,1,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",1102.2,12.3,14.670485599832418
+2022,1,Sarria-Sant Gervasi,Sarria,1362.6,17.5,19.84888448018164
+2022,1,Sarria-Sant Gervasi,les Tres Torres,1630.8,17.6,20.180925059603393
+2022,1,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1195.0,14.2,17.774503303120643
+2022,1,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1341.5,14.5,17.557447950770047
+2022,1,Sarria-Sant Gervasi,el Putxet i el Farro,1054.9,14.8,17.384516749303682
+2022,1,Gracia,Vallcarca i els Penitents,947.8,13.6,16.25241315351758
+2022,1,Gracia,el Coll,809.9,13.4,14.627646266050293
+2022,1,Gracia,la Salut,874.3,13.4,15.237556688852194
+2022,1,Gracia,la Vila de Gracia,986.0,15.4,17.563013711684643
+2022,1,Gracia,el Camp d'en Grassot i Gracia Nova,957.9,14.2,16.421859276419436
+2022,1,Horta-Guinardo,el Baix Guinardo,834.7,13.0,14.805919126974816
+2022,1,Horta-Guinardo,Can Baro,737.6,13.2,14.417133555678399
+2022,1,Horta-Guinardo,el Guinardo,801.7,13.1,14.49781754008681
+2022,1,Horta-Guinardo,la Font d'en Fargues,784.7,11.7,14.169579390804818
+2022,1,Horta-Guinardo,el Carmel,671.3,11.8,13.272777005248038
+2022,1,Horta-Guinardo,la Teixonera,723.9,12.7,13.505318552433147
+2022,1,Horta-Guinardo,Sant Genis dels Agudells,706.4,10.5,11.669413581228694
+2022,1,Horta-Guinardo,Montbau,736.1,10.9,13.5524199586015
+2022,1,Horta-Guinardo,la Vall d'Hebron,888.9,12.5,14.592831357424386
+2022,1,Horta-Guinardo,Horta,740.3,11.5,13.71999876070022
+2022,1,Nou Barris,Vilapicina i la Torre Llobeta,767.0,12.0,13.502892010751612
+2022,1,Nou Barris,Porta,718.5,12.1,13.175667921577372
+2022,1,Nou Barris,el Turo de la Peira,662.8,11.5,12.577806604216539
+2022,1,Nou Barris,la Guineueta,644.7,9.5,11.413155135552683
+2022,1,Nou Barris,Canyelles,655.0,8.0,10.397272102948442
+2022,1,Nou Barris,les Roquetes,641.2,11.5,12.595157487711633
+2022,1,Nou Barris,Verdun,652.7,12.0,13.36692448767578
+2022,1,Nou Barris,la Prosperitat,687.2,12.1,13.402773821581057
+2022,1,Nou Barris,la Trinitat Nova,591.0,11.6,12.667496829304138
+2022,1,Nou Barris,Ciutat Meridiana,517.7,8.7,9.922409370695574
+2022,1,Sant Andreu,la Trinitat Vella,616.9,10.1,11.57555320541111
+2022,1,Sant Andreu,el Bon Pastor,702.6,10.4,12.139057161795211
+2022,1,Sant Andreu,Sant Andreu,800.9,12.4,14.274524513643549
+2022,1,Sant Andreu,la Sagrera,751.5,12.2,13.523978837692459
+2022,1,Sant Andreu,el Congres i els Indians,795.8,11.7,13.700325726367065
+2022,1,Sant Andreu,Navas,847.2,12.2,13.86573837109612
+2022,1,Sant Marti,el Camp de l'Arpa del Clot,841.5,13.4,15.184521883440231
+2022,1,Sant Marti,el Clot,861.2,12.8,14.866091201766691
+2022,1,Sant Marti,el Parc i la Llacuna del Poblenou,1089.2,15.4,17.079320459198687
+2022,1,Sant Marti,la Vila Olimpica del Poblenou,1305.0,18.1,19.532081756966374
+2022,1,Sant Marti,el Poblenou,967.9,15.0,16.66385341987853
+2022,1,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,964.7,15.0,16.464660726034282
+2022,1,Sant Marti,el Besos i el Maresme,796.9,12.0,12.667447467618622
+2022,1,Sant Marti,Provencals del Poblenou,939.2,13.5,15.287211068135225
+2022,1,Sant Marti,Sant Marti de Provencals,796.4,11.4,13.292581575204347
+2022,1,Sant Marti,la Verneda i la Pau,733.9,10.9,12.59813117838144
+2022,2,Ciutat Vella,el Raval,872.0,14.7,16.78336379131762
+2022,2,Ciutat Vella,Gothic Quarter,1062.5,14.7,16.90181105001492
+2022,2,Ciutat Vella,la Barceloneta,900.5,16.6,21.50311561183507
+2022,2,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1051.4,15.8,18.73181511111161
+2022,2,Eixample,Fort Pienc,1106.9,14.2,16.534549272628386
+2022,2,Eixample,Sagrada Familia,985.9,14.7,16.53037568714157
+2022,2,Eixample,la Dreta de l'Eixample,1328.6,14.4,16.93683497221001
+2022,2,Eixample,l'Antiga Esquerra de l'Eixample,1174.6,14.8,16.93614771278439
+2022,2,Eixample,la Nova Esquerra de l'Eixample,1012.2,14.5,16.415073064879554
+2022,2,Eixample,Sant Antoni,1004.3,13.8,15.934643162443699
+2022,2,Sants-Montjuic,el Poble Sec,879.3,15.3,16.58745706519749
+2022,2,Sants-Montjuic,la Marina del Prat Vermell,1407.9,3.9,14.596983839703043
+2022,2,Sants-Montjuic,la Marina de Port,638.8,9.8,12.008943749679553
+2022,2,Sants-Montjuic,la Font de la Guatlla,912.1,13.7,15.731399524202175
+2022,2,Sants-Montjuic,Hostafrancs,826.2,13.8,15.859646990903752
+2022,2,Sants-Montjuic,la Bordeta,1025.0,13.4,15.389307942210626
+2022,2,Sants-Montjuic,Sants - Badal,848.5,14.0,15.698474010957638
+2022,2,Sants-Montjuic,Sants,885.6,13.7,15.909897488705251
+2022,2,Les Corts,les Corts,1067.8,14.8,17.25915071606352
+2022,2,Les Corts,la Maternitat i Sant Ramon,993.1,14.2,16.459886559740156
+2022,2,Les Corts,Pedralbes,1944.5,14.6,20.624593221537395
+2022,2,Sarria-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",894.9,13.3,13.825168615191574
+2022,2,Sarria-Sant Gervasi,Sarria,1349.3,17.5,20.0265310365744
+2022,2,Sarria-Sant Gervasi,les Tres Torres,1767.0,16.9,21.44026449294632
+2022,2,Sarria-Sant Gervasi,Sant Gervasi - la Bonanova,1369.1,16.4,19.140776438963353
+2022,2,Sarria-Sant Gervasi,Sant Gervasi - Galvany,1484.5,15.5,18.704916410772228
+2022,2,Sarria-Sant Gervasi,el Putxet i el Farro,1108.6,15.7,17.955134563579097
+2022,2,Gracia,Vallcarca i els Penitents,969.3,14.2,16.600120894644405
+2022,2,Gracia,el Coll,759.2,12.2,14.567728145894524
+2022,2,Gracia,la Salut,1010.3,14.4,16.201847836808973
+2022,2,Gracia,la Vila de Gracia,982.6,15.4,17.782365967990163
+2022,2,Gracia,el Camp d'en Grassot i Gracia Nova,977.8,14.4,16.763612517920564
+2022,2,Horta-Guinardo,el Baix Guinardo,903.9,14.1,15.379964477575275
+2022,2,Horta-Guinardo,Can Baro,812.4,12.9,15.006573539074857
+2022,2,Horta-Guinardo,el Guinardo,810.0,12.7,14.741532178151145
+2022,2,Horta-Guinardo,la Font d'en Fargues,840.1,13.2,14.649177514838335
+2022,2,Horta-Guinardo,el Carmel,725.8,12.6,13.719655281830029
+2022,2,Horta-Guinardo,la Teixonera,786.5,13.0,13.999466050599752
+2022,2,Horta-Guinardo,Sant Genis dels Agudells,720.3,10.9,11.892421952485646
+2022,2,Horta-Guinardo,Montbau,750.7,11.2,13.81198996513631
+2022,2,Horta-Guinardo,la Vall d'Hebron,865.3,14.0,14.672400714651031
+2022,2,Horta-Guinardo,Horta,794.2,12.5,14.177877841423927
+2022,2,Nou Barris,Vilapicina i la Torre Llobeta,855.5,13.0,14.12551818172076
+2022,2,Nou Barris,Porta,728.5,11.8,13.40666021530747
+2022,2,Nou Barris,el Turo de la Peira,709.8,11.5,12.968355741882862
+2022,2,Nou Barris,la Guineueta,748.8,10.6,12.012798111376192
+2022,2,Nou Barris,Canyelles,851.3,9.8,11.31646852179453
+2022,2,Nou Barris,les Roquetes,632.9,12.1,12.73360994751842
+2022,2,Nou Barris,Verdun,609.0,11.5,13.344895875701901
+2022,2,Nou Barris,la Prosperitat,693.3,12.1,13.618664802514266
+2022,2,Nou Barris,la Trinitat Nova,574.9,11.5,12.77123906593577
+2022,2,Nou Barris,Ciutat Meridiana,577.3,10.3,10.283337591345925
+2022,2,Sant Andreu,la Trinitat Vella,620.0,10.9,11.751441131392125
+2022,2,Sant Andreu,el Bon Pastor,732.6,11.5,12.441465621078766
+2022,2,Sant Andreu,Sant Andreu,788.2,12.4,14.407720250474059
+2022,2,Sant Andreu,la Sagrera,803.5,12.6,13.96638580119435
+2022,2,Sant Andreu,el Congres i els Indians,784.3,11.8,13.834380045476408
+2022,2,Sant Andreu,Navas,878.4,12.3,14.21390384864201
+2022,2,Sant Marti,el Camp de l'Arpa del Clot,875.1,13.9,15.576680736232651
+2022,2,Sant Marti,el Clot,884.0,13.5,15.192795050785449
+2022,2,Sant Marti,el Parc i la Llacuna del Poblenou,1173.2,15.4,17.827543396518607
+2022,2,Sant Marti,la Vila Olimpica del Poblenou,1442.6,20.7,20.762882516375956
+2022,2,Sant Marti,el Poblenou,1085.6,16.9,17.600326040865713
+2022,2,Sant Marti,Diagonal Mar i el Front Maritim del Poblenou,1238.7,17.5,18.36273930676814
+2022,2,Sant Marti,el Besos i el Maresme,779.2,12.2,12.763929448159764
+2022,2,Sant Marti,Provencals del Poblenou,1032.9,14.6,16.015576188815974
+2022,2,Sant Marti,Sant Marti de Provencals,843.0,11.9,13.701752095614914
+2022,2,Sant Marti,la Verneda i la Pau,757.0,11.4,12.879506952692866
